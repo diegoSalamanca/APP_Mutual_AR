@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: a44eea158992cfb49add66e4dc9310a6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7315903732570007439
+    second: SupportToWall.003|LeftFoot_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 2100119758024931232
+    second: SupportToWall.003|LeftForeArm_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 3740916272501707170
+    second: SupportToWall.003|LeftLeg_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: -573302182830998316
+    second: SupportToWall.003|RightFoot_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 3186522695757327731
+    second: SupportToWall.003|RightForeArm_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 4081942067738197539
+    second: SupportToWall.003|RightLeg_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: -7913522587616010906
+    second: SupportToWall.003|SupportToWall.003Action
+  - first:
+      74: 8535731992039022721
+    second: SupportToWall.003|SupportToWall.004Action
+  - first:
+      74: 2983899361113268738
+    second: SupportToWall.004|LeftFoot_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 9008340126230235678
+    second: SupportToWall.004|LeftForeArm_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 6919533922341503627
+    second: SupportToWall.004|LeftLeg_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: -3969923647992718851
+    second: SupportToWall.004|RightFoot_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: -7490844694371859479
+    second: SupportToWall.004|RightForeArm_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: -6054631678448052906
+    second: SupportToWall.004|RightLeg_IK_BakingLOC|Take 001|BaseLayer
+  - first:
+      74: 1246283101761024147
+    second: SupportToWall.004|SupportToWall.003Action
+  - first:
+      74: 5431950258441668239
+    second: SupportToWall.004|SupportToWall.004Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Andamio_A_Mat.001
+    second: {fileID: 2100000, guid: 32ec079595e830c4a93528864e4eeaf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: a16c21428453a4a449bd8bc083de53e1, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Inspecciones
+  m_EditorClassIdentifier: 
+  texts:
+  - "Se debe realizar inspecciones despu\xE9s de lluvias, nevazones, sismos,"
+  - "cualquier interrupci\xF3n prolongada o cualquier otro evento que pueda cambiar"
+  - las condiciones de seguridad del andamio.
+  - "Durante el desarrollo de esta actividad, el andamio deber\xE1 estar se\xF1alizado
+    con la tarjeta de no aprobaci\xF3n de uso."
+  - "Se contar\xE1 con una acreditaci\xF3n, mediante una tarjeta o letreros que identifiquen
+    y adviertan"
+  - "la condici\xF3n de operaci\xF3n y establezcan con claridad las condiciones de
+    uso."
+  audioClip: {fileID: 8300000, guid: 2c75c1e2e9c0dfe49bbeaa4b06ac2910, type: 3}

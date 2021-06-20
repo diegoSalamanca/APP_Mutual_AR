@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: AndamiosComienzo
+  m_EditorClassIdentifier: 
+  texts:
+  - Las operaciones en andamios, techumbres y diferentes plataformas
+  - corresponden a tareas con un alto potencial y variados tipos de riesgos,
+  - donde se necesita tener conocimientos, habilidades y ser riguroso
+  - en el estricto cumplimiento de los procedimientos y normas aplicadas.
+  - Por lo tanto, es fundamental tomar todas las medidas de control
+  - necesarias para evitar los accidentes y enfermedades profesionales.
+  audioClip: {fileID: 8300000, guid: f3e0cbaefcea32c4b842bc2e363e71c8, type: 3}

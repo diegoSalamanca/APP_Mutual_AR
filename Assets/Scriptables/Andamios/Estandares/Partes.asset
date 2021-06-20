@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Partes
+  m_EditorClassIdentifier: 
+  texts:
+  - "Deber\xE1n tener pasamanos a una altura de 1 metro fijos mediante sistemas de
+    abrazaderas y/o pernos,"
+  - "adem\xE1s deber\xE1n contar con barandas intermedias a una altura de 0,50 metros."
+  - "Tambi\xE9n con rodapi\xE9s, el cual tendr\xE1 una altura de 0,12 metros."
+  - "Superando los 15 metros de altura, deben contar con una memoria de c\xE1lculo"
+  - del fabricante o de un Ingeniero Civil competente.
+  audioClip: {fileID: 8300000, guid: 4c0bb32e331b2164ba03f177473f0aaf, type: 3}
