@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Seguridad
+  m_EditorClassIdentifier: 
+  texts:
+  - Trabajo en altura es toda labor que se realiza
+  - "a m\xE1s de 1,8 metros sobre el nivel del piso"
+  - "donde se encuentra el trabajador y que adem\xE1s,"
+  - "presenta un riesgo de sufrir una ca\xEDda libre,"
+  - "o donde una ca\xEDda de menor altura"
+  - "puede causar una lesi\xF3n grave."
+  audioClip: {fileID: 8300000, guid: 1af8caf4680a74600b305cb3c4ab0e65, type: 3}

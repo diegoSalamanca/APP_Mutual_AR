@@ -1,38 +1,54 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class ButtonsSlideController : MonoBehaviour
+public class ButtonsSlideController : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
-    public Button leftButton, RightButton;
 
-    public Scrollbar scroll;
+    public float scrollSpeed;
+    bool move = false; 
 
-    public ScrollRect scrollRect;
-
-    public float scrollMoveDistance;
-
-    // Start is called before the first frame update
-    void Start()
+    private void Update()
     {
-        leftButton.onClick.AddListener(ToLeft);
-        RightButton.onClick.AddListener(ToRight);        
-    }
-
-
-    void ToLeft()
-    {
-        scrollRect.verticalNormalizedPosition = 0f;
-        if (scroll.value > 0)
-            scroll.value = 0;
-    }
-
-    void ToRight()
-    {
-        scrollRect.verticalNormalizedPosition = 1f;
-        if (scroll.value < 1)
-            scroll.value = 1;
+        if (move)
+        {
+            MoveScroll(scrollSpeed);
+            print("moving");
+        }
         
     }
+
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        move = true;
+    }
+
+    public void OnPointerUp(PointerEventData eventData)
+    {
+        move = false;
+    }
+
+    private void OnEnable()
+    {
+        var scroll = FindObjectOfType<HorizontalScroll>().GetComponent<Scrollbar>();
+        scroll.value = 0;
+        move = false;
+    }
+
+    void MoveScroll(float value)
+    {
+        var scroll = FindObjectOfType<HorizontalScroll>().GetComponent<Scrollbar>();
+        if (value > 0)
+        {
+            scroll.value += value * Time.deltaTime;
+        }
+
+        if (value < 0)
+        {
+            scroll.value += value * Time.deltaTime;
+        }
+    }
+
+    
 }

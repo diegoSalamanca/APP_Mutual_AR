@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ARSoundsController : MonoBehaviour
 {
+    public bool secondaryActivity;
     AudioSource audioSource;
     public Slider slider;
     //public AudioClip[] audioClips;
@@ -56,10 +57,15 @@ public class ARSoundsController : MonoBehaviour
         textMesh.text = "";
 
 
-        if (index == 0)
+        if (index == 0 && !secondaryActivity)
         {
+
             var message = Instantiate(Resources.Load("Prefabs/MessagePanel"), FindObjectOfType<Canvas>().transform) as GameObject;
             message.GetComponent<MessagePanel>().SetMessage(ButtonsMessage);
+        }
+        else if (secondaryActivity)
+        {
+            print("Exito");
         }
         
     }
