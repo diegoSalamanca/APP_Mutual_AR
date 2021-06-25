@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Sobrecarga_3
+  m_EditorClassIdentifier: 
+  texts:
+  - La sobrecarga o inestabilidad por mal uso de los elementos
+  - "para ganar altura es un factor importante de accidentes por ca\xEDdas. "
+  audioClip: {fileID: 8300000, guid: 957a9f1b6b59940bca7e32c922474bc2, type: 3}

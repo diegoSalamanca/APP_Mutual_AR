@@ -25,11 +25,16 @@ public class ARSoundsController : MonoBehaviour
         StopAllCoroutines();
         coroutine = StartCoroutine(SincronizeAudio(index));
     }
-   
+
+    public void PlayAuidoClip(TextListScriptable textListScriptable)
+    {
+        StopAllCoroutines();
+        coroutine = StartCoroutine(SincronizeAudio(textListScriptable));
+    }
+
 
     IEnumerator SincronizeAudio(int index)
     {
-        
 
         var clip = textListScriptables[index].audioClip;
 
@@ -59,16 +64,46 @@ public class ARSoundsController : MonoBehaviour
 
         if (index == 0 && !secondaryActivity)
         {
-
             var message = Instantiate(Resources.Load("Prefabs/MessagePanel"), FindObjectOfType<Canvas>().transform) as GameObject;
             message.GetComponent<MessagePanel>().SetMessage(ButtonsMessage);
         }
         else if (secondaryActivity)
         {
-            print("Exito");
+            var activity = Instantiate(Resources.Load("Prefabs/Actividad_trabajo_alturas_Accientes"), FindObjectOfType<Canvas>().transform) as GameObject;
+            
         }
         
     }
 
-    
+    IEnumerator SincronizeAudio(TextListScriptable textListScriptable)
+    {
+
+        var clip = textListScriptable.audioClip;
+
+        audioSource.clip = clip;
+        audioSource.Play();
+
+        while (audioSource.time < clip.length)
+        {
+
+            var actualSegment = (int)(textListScriptable.texts.Length * audioSource.time / clip.length);
+            print(actualSegment);
+
+            var value = ((1 * audioSource.time) / clip.length);
+            slider.value = value;
+            if (actualSegment < textListScriptable.texts.Length)
+            {
+                textMesh.text = textListScriptable.texts[actualSegment];
+            }
+
+            yield return null;
+        }
+
+        yield return null;
+
+        textMesh.text = "";
+
+    }
+
+
 }

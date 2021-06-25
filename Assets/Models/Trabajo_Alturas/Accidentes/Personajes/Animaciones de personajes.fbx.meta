@@ -9,7 +9,17 @@ ModelImporter:
   - first:
       74: 6445602015624173019
     second: Armature|Subir
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 041153b832b4044d79901bc444a39ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: 6dde620e3b47648d7865598be8d7e687, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
