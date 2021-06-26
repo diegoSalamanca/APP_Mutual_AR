@@ -13,11 +13,12 @@ MonoBehaviour:
   m_Name: procedimiento_6
   m_EditorClassIdentifier: 
   texts:
+  - "Procedimiento a activar tras una ca\xEDda libre "
   - Detener inmediatamente los trabajos.
   - "Al rescatarlo, usar t\xE9cnicas de soporte vital b\xE1sicas y avanzadas si es
     necesario."
-  - "Trasladar a la v\xEDctima a un servicio de salud cercano"
-  - "para una evaluaci\xF3n m\xE9dica especializada."
-  - Informar inmediatamente a las autoridades fiscalizadoras
-  - "(mutualidad ,Inspecci\xF3n del trabajo, Seremi de Salud, carabinero, etc.)."
+  - "Trasladar a la v\xEDctima a un servicio de salud cercano para una evaluaci\xF3n
+    m\xE9dica especializada."
+  - "Informar inmediatamente a las autoridades fiscalizadoras (mutualidad ,Inspecci\xF3n
+    del trabajo, Seremi de Salud, carabinero, etc.). "
   audioClip: {fileID: 8300000, guid: c09d0302c7f2b874fbe10b70ee9f8e0b, type: 3}
