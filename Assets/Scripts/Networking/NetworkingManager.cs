@@ -6,24 +6,53 @@ using System;
 
 public class NetworkingManager : MonoBehaviour
 {
-    string url = "http://eabc-vm-node-mutual.eastus.cloudapp.azure.com:3003/api";
+    public string ApiUrl;
+
+    public string UserId;
 
     string logindataJsonString = "{  \"userId\": \"9.442.895-5\" }";
 
+    ApiMutualObject apiMutualObject = new ApiMutualObject();
+
     private void Start()
     {
+        //apiMutualObject.userId = "user testing";
+        
+    }
+
+    public void SetNetData(string user)
+    {
+        apiMutualObject.userId = user;
+        apiMutualObject.appId = Application.productName;
+        apiMutualObject.time = DateTime.Now.ToString();
+        apiMutualObject.actionParameter = "location-disabled";
+        apiMutualObject.actionValue = Application.platform.ToString();
+    }
+
+
+    public void SetNetDataButton(string CapsuleName, string MicrocapsuleName)
+    {
+        apiMutualObject.actionTime = DateTime.Now.ToString();
+        apiMutualObject.actionGroup = CapsuleName;
+        apiMutualObject.actionId = MicrocapsuleName;
         SendData();
+
     }
 
     public void SendData()
     {
-        StartCoroutine(GetAPI(url));
+
+        var jsonObject = JsonUtility.ToJson(apiMutualObject);
+
+        
+
+        StartCoroutine(GetAPI(ApiUrl, jsonObject));
     }
 
-    IEnumerator GetAPI(string url)
+    IEnumerator GetAPI(string url, string jsonObject)
     {
 
-        byte[] bodyRaw = new System.Text.UTF8Encoding().GetBytes( logindataJsonString );
+        byte[] bodyRaw = new System.Text.UTF8Encoding().GetBytes(jsonObject);
 
 
         using (UnityWebRequest peticion = UnityWebRequest.Post(url, "") )

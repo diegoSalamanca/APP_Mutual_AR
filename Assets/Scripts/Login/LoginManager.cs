@@ -7,12 +7,7 @@ public class LoginManager : MonoBehaviour
 
     public TMPro.TMP_InputField _InputField;
     public GameObject loginButton;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
 
     // Update is called once per frame
     void Update()
