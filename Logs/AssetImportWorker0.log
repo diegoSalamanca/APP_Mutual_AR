@@ -2646,3 +2646,1420 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 126.324267 seconds.
+  path: Assets/Models/Trabajo_Alturas
+  artifactKey: Guid(27d8383fe307148838b77dc117613e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas using Guid(27d8383fe307148838b77dc117613e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ff85d194918637d151158c230adbfd') in 0.009497 seconds 
+  Import took 0.012782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 325.335795 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento
+  artifactKey: Guid(9d1186a4004d4614aaad502f22c49b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento using Guid(9d1186a4004d4614aaad502f22c49b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2182b5d9651401a86fb7dc225ae6a2') in 0.007959 seconds 
+  Import took 0.011427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029281 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje
+  artifactKey: Guid(a4956e38ea53342b4955cd27ab396378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje using Guid(a4956e38ea53342b4955cd27ab396378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402560e6aa26e9ad1c9873b5976ef550') in 0.006138 seconds 
+  Import took 0.009094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003987 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje
+  artifactKey: Guid(a4956e38ea53342b4955cd27ab396378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje using Guid(a4956e38ea53342b4955cd27ab396378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402560e6aa26e9ad1c9873b5976ef550') in 0.002343 seconds 
+  Import took 0.004895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.569160 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda.fbx
+  artifactKey: Guid(4a5552f9658b7904ea4a262f210be8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda.fbx using Guid(4a5552f9658b7904ea4a262f210be8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6d71f7073f168253363feab5a65e84') in 0.120084 seconds 
+  Import took 0.123201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.900302 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/estructura.fbx
+  artifactKey: Guid(6324bdbad49c19c4a84e145f45be043d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/estructura.fbx using Guid(6324bdbad49c19c4a84e145f45be043d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2349473c6c6c794066e91dd858c70845') in 0.101483 seconds 
+  Import took 0.104980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.509112 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje.fbx
+  artifactKey: Guid(ab5532d4ffad1864e85a569fdb82109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje.fbx using Guid(ab5532d4ffad1864e85a569fdb82109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cdf0fd70f199e1c18f27175c9a2819a') in 0.058616 seconds 
+  Import took 0.062229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.988588 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda.fbx
+  artifactKey: Guid(4a5552f9658b7904ea4a262f210be8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda.fbx using Guid(4a5552f9658b7904ea4a262f210be8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57515bc7641fb3409e534681d7c97f5') in 0.027815 seconds 
+  Import took 0.031142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.614818 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Sobrecarga/Andamio_inprovisado/Andamio improvisado.fbx
+  artifactKey: Guid(40bb0a54d074dfe4b81ed07e25d23be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Sobrecarga/Andamio_inprovisado/Andamio improvisado.fbx using Guid(40bb0a54d074dfe4b81ed07e25d23be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419626efbfa60bb8763f71fb71fcbb42') in 0.076485 seconds 
+  Import took 0.080036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.112530 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje
+  artifactKey: Guid(3909d31b6b058594e93d2a20f3c01192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje using Guid(3909d31b6b058594e93d2a20f3c01192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a424cf77efaaa9f3f0a307fd899f92be') in 0.002226 seconds 
+  Import took 0.005193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.688780 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/personaje.fbx
+  artifactKey: Guid(ab5532d4ffad1864e85a569fdb82109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/personaje.fbx using Guid(ab5532d4ffad1864e85a569fdb82109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8b0bb117d9082013d9ebb4e9488d91') in 0.053279 seconds 
+  Import took 0.056902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.374005 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/personaje.fbx
+  artifactKey: Guid(ab5532d4ffad1864e85a569fdb82109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/personaje.fbx using Guid(ab5532d4ffad1864e85a569fdb82109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6ff2bf317b4f669b106d88af504f00') in 0.046524 seconds 
+  Import took 0.050309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.520569 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/ArmatureAction.001.anim
+  artifactKey: Guid(317f674a8701416429b11004813a8e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/ArmatureAction.001.anim using Guid(317f674a8701416429b11004813a8e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0467c55815941b2d90cb9dce9164887a') in 0.027532 seconds 
+  Import took 0.030925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.283692 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/Pj_caida_libre-mantenimiento.controller
+  artifactKey: Guid(d578a5f41319bbf45a819ed9103e6e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/personaje/Pj_caida_libre-mantenimiento.controller using Guid(d578a5f41319bbf45a819ed9103e6e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb2e6d17c1ef6a1dbde2f32d60d5eb0') in 0.007336 seconds 
+  Import took 0.010365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.088578 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda
+  artifactKey: Guid(a2adba956f7651b4d876b7fa1bfdd99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda using Guid(a2adba956f7651b4d876b7fa1bfdd99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c956b0aac117c55cc31b830f16a1ed5') in 0.002225 seconds 
+  Import took 0.005175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.321177 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/estructura
+  artifactKey: Guid(b7b41361c761261409714defb80370e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/estructura using Guid(b7b41361c761261409714defb80370e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5eca5599b2e441f705b3ae4cbd19b8a') in 0.003047 seconds 
+  Import took 0.005918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.832709 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/estructura.fbx
+  artifactKey: Guid(6324bdbad49c19c4a84e145f45be043d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/estructura.fbx using Guid(6324bdbad49c19c4a84e145f45be043d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb63a71a6e283ad296f11fbf13fc3417') in 0.090403 seconds 
+  Import took 0.093838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.226215 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda/Armature.001_Armature.001Action.anim
+  artifactKey: Guid(599ead8836c090d4b8ce0980086bebe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda/Armature.001_Armature.001Action.anim using Guid(599ead8836c090d4b8ce0980086bebe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c960bcb1d4dc760e539b2563ddfa2d') in 0.007091 seconds 
+  Import took 0.010146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.655380 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda/Cuerda_caida_libre_mantenimietnro_anim_controller.controller
+  artifactKey: Guid(92a818b0523d631488823fffef414b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Mantenimiento/cuerda/Cuerda_caida_libre_mantenimietnro_anim_controller.controller using Guid(92a818b0523d631488823fffef414b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1980f7bc6ef3abfdcc6fc50a546365c6') in 0.007875 seconds 
+  Import took 0.011120 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003590 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.4 MB.
+System memory in use after: 103.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 1.976500 ms (FindLiveObjects: 0.226100 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.680600 ms  DeleteObjects: 0.022700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 171.567101 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion
+  artifactKey: Guid(d6c521be2ba5b2445a58dc74fdffc49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion using Guid(d6c521be2ba5b2445a58dc74fdffc49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d6d3a5762e98d7459345498f546538') in 0.010793 seconds 
+  Import took 0.014492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion
+  artifactKey: Guid(d6c521be2ba5b2445a58dc74fdffc49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion using Guid(d6c521be2ba5b2445a58dc74fdffc49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d6d3a5762e98d7459345498f546538') in 0.002121 seconds 
+  Import took 0.004849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.467257 seconds.
+  path: Assets/Models/Trabajo_Alturas/Seguridad
+  artifactKey: Guid(083d93a89e22b4d1fa7c4133a77f89ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Seguridad using Guid(083d93a89e22b4d1fa7c4133a77f89ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311d59b25f7a705ed5d9640fdc57aa10') in 0.007120 seconds 
+  Import took 0.010328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.863455 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/Personaje Hablando
+  artifactKey: Guid(e7f48680c0576dc4081068a9f4dcadbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/Personaje Hablando using Guid(e7f48680c0576dc4081068a9f4dcadbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79c48d89f7c82b387624e924b6c203f') in 0.006988 seconds 
+  Import took 0.010011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000888 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/Personaje Hablando
+  artifactKey: Guid(e7f48680c0576dc4081068a9f4dcadbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/Personaje Hablando using Guid(e7f48680c0576dc4081068a9f4dcadbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79c48d89f7c82b387624e924b6c203f') in 0.002376 seconds 
+  Import took 0.004861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.801111 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje1
+  artifactKey: Guid(c2b9d8ff48deea249a2a66eec951a84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje1 using Guid(c2b9d8ff48deea249a2a66eec951a84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0909c992d67e2f36171bdd7b61a4f721') in 0.007607 seconds 
+  Import took 0.010565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.991107 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje3
+  artifactKey: Guid(7c32eba82b1741f47b72362992098ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje3 using Guid(7c32eba82b1741f47b72362992098ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec4dc54da3d79835bbf91e61e41499e') in 0.006720 seconds 
+  Import took 0.009823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266925 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje5
+  artifactKey: Guid(cb05b83e06e98824f8379a3a0ce7a094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje5 using Guid(cb05b83e06e98824f8379a3a0ce7a094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b918b043b373c700672165a07ccf660') in 0.006961 seconds 
+  Import took 0.010008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.320286 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje6
+  artifactKey: Guid(6f012df699231214aa647679d7bd2bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Capacitacion/personaje6 using Guid(6f012df699231214aa647679d7bd2bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea6f00606a11246e4856895af06acf2') in 0.006915 seconds 
+  Import took 0.009963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.654249 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion
+  artifactKey: Guid(d6c521be2ba5b2445a58dc74fdffc49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion using Guid(d6c521be2ba5b2445a58dc74fdffc49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6633bb386913299b8ca0dae3194956c6') in 0.007070 seconds 
+  Import took 0.010240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29749.880377 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Tablero
+  artifactKey: Guid(defe762bf191e3a4aabbe18bc8ce7d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Tablero using Guid(defe762bf191e3a4aabbe18bc8ce7d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66735fbf47c7dcb147aa3af90282d052') in 0.006864 seconds 
+  Import took 0.010282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Tablero
+  artifactKey: Guid(defe762bf191e3a4aabbe18bc8ce7d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Tablero using Guid(defe762bf191e3a4aabbe18bc8ce7d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66735fbf47c7dcb147aa3af90282d052') in 0.002409 seconds 
+  Import took 0.004690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.803048 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Tablero/Recurso 84-8.png
+  artifactKey: Guid(df2a8c1c29d8a654aa1cf4083f7fc19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Tablero/Recurso 84-8.png using Guid(df2a8c1c29d8a654aa1cf4083f7fc19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f4dc36cbdaa46da4185ea295383274') in 0.062422 seconds 
+  Import took 0.065415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.043490 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/Sitting Idle (2).fbx
+  artifactKey: Guid(f706cce0b634ad34bb258d46a32d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/Sitting Idle (2).fbx using Guid(f706cce0b634ad34bb258d46a32d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3501e128ffe88d6a3e67eddfdb6a3a8') in 0.229905 seconds 
+  Import took 0.233272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.296791 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/Sitting Idle (2).fbx
+  artifactKey: Guid(f706cce0b634ad34bb258d46a32d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/Sitting Idle (2).fbx using Guid(f706cce0b634ad34bb258d46a32d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4320f60368fbda9e980f89ea4eabd7') in 0.049129 seconds 
+  Import took 0.052839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.573425 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/untitled.fbx
+  artifactKey: Guid(df1f08c5aad4e2d46bbc1a75d2bce2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/untitled.fbx using Guid(df1f08c5aad4e2d46bbc1a75d2bce2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac143e50d99958a7488aaa8b155f743b') in 0.147928 seconds 
+  Import took 0.151370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.927946 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Sitting Idle (3).fbx
+  artifactKey: Guid(e17d2e540a93c434085109b75272abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Sitting Idle (3).fbx using Guid(e17d2e540a93c434085109b75272abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f546598cac62b41bb3a29ae2ed4afe') in 0.055094 seconds 
+  Import took 0.058584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.101042 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Sitting Idle (3).fbx
+  artifactKey: Guid(e17d2e540a93c434085109b75272abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Sitting Idle (3).fbx using Guid(e17d2e540a93c434085109b75272abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774658622033f12796a8d0f3bb4d63c3') in 0.055129 seconds 
+  Import took 0.058699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.921850 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Ch12__mod__V01_01_Ch12_Body_Diffuse_1.png
+  artifactKey: Guid(cec9b55fc8c21c5489f87508fc51f41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Ch12__mod__V01_01_Ch12_Body_Diffuse_1.png using Guid(cec9b55fc8c21c5489f87508fc51f41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062c291c0ce61de041e91f705d298ba5') in 0.044045 seconds 
+  Import took 0.047000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.132584 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/Sitting Idle (4).fbx
+  artifactKey: Guid(2bb469ae217dd9a4ab7b7816f0dcafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/Sitting Idle (4).fbx using Guid(2bb469ae217dd9a4ab7b7816f0dcafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c410dae79a4140e88fe8f5964d9b1a3') in 0.058499 seconds 
+  Import took 0.062296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.414135 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/Sitting Idle (4).fbx
+  artifactKey: Guid(2bb469ae217dd9a4ab7b7816f0dcafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/Sitting Idle (4).fbx using Guid(2bb469ae217dd9a4ab7b7816f0dcafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aee522f3d05a1ae34b0ba1a71683ae5') in 0.057253 seconds 
+  Import took 0.060928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.914473 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/file1.png
+  artifactKey: Guid(6ec6ee8a9010afa4cad0f2319a0cde7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/file1.png using Guid(6ec6ee8a9010afa4cad0f2319a0cde7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a7d9e2140d8e84bdfc9e9f37d33b38') in 0.053659 seconds 
+  Import took 0.058293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.528834 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Fabric.jpg
+  artifactKey: Guid(b809a2a46f11f4b4393250c6a950fe62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Fabric.jpg using Guid(b809a2a46f11f4b4393250c6a950fe62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f886859ad5575ab6dba9ca8e2c963ff') in 0.055389 seconds 
+  Import took 0.058463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/file1.002.png
+  artifactKey: Guid(ee19a2a81b191b14286f160448e3ad87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/file1.002.png using Guid(ee19a2a81b191b14286f160448e3ad87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222ff42b742c409385f9e383a092fc12') in 0.054854 seconds 
+  Import took 0.057885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/EffectExamples/Scenes/Menu/ReflectionProbe-0.exr
+  artifactKey: Guid(afa65c6b520779f44bbd494abdfb8cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Scenes/Menu/ReflectionProbe-0.exr using Guid(afa65c6b520779f44bbd494abdfb8cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21aff7721057d2f312e08bbfe085e87') in 0.083189 seconds 
+  Import took 0.085782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file7.002.png
+  artifactKey: Guid(0d9325c1c3e63b745b16adb973d83f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file7.002.png using Guid(0d9325c1c3e63b745b16adb973d83f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196ab86bd1667f927bb6c125a85f0976') in 0.058218 seconds 
+  Import took 0.060744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba106a30add40e35c21de979cd6a9a21') in 0.082594 seconds 
+  Import took 0.085269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Models/Humans/Black_Human/textures/shoes04_diffuse.png
+  artifactKey: Guid(ae51e1ea5a99b0c4b93172c608d89035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Humans/Black_Human/textures/shoes04_diffuse.png using Guid(ae51e1ea5a99b0c4b93172c608d89035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a841bb841485c114a50a04a00f5de99') in 0.033438 seconds 
+  Import took 0.036067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/file6.png
+  artifactKey: Guid(225382cb1d2d7e14a9e22326fa7bf155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/file6.png using Guid(225382cb1d2d7e14a9e22326fa7bf155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf2344fcb3ccd96c208319d40321afa') in 0.058610 seconds 
+  Import took 0.061167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif
+  artifactKey: Guid(06e4a78c75e10c145a9156e32089ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif using Guid(06e4a78c75e10c145a9156e32089ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991dd959421caa9e64bb7c671127e721') in 0.014099 seconds 
+  Import took 0.016697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b7c8c3e3c9a45adbdca63c88707d17') in 0.038806 seconds 
+  Import took 0.042104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/EffectExamples/Scenes/Menu/ReflectionProbe-1.exr
+  artifactKey: Guid(169a8370c9af86f46bac118280da2234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Scenes/Menu/ReflectionProbe-1.exr using Guid(169a8370c9af86f46bac118280da2234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2990e4e415e52c4b93138dc0af33a6') in 0.017119 seconds 
+  Import took 0.019663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/file6.001.png
+  artifactKey: Guid(6b3baa35e5112474ca6a4a9a76cb17f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/file6.001.png using Guid(6b3baa35e5112474ca6a4a9a76cb17f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae85ba44e50695a3d93e7531d736dc2f') in 0.057480 seconds 
+  Import took 0.060136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/EffectExamples/TutorialInfo/Icons/ParticlePack5x_Icon.png
+  artifactKey: Guid(1b854426d1f38f842a143cde84f59573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/TutorialInfo/Icons/ParticlePack5x_Icon.png using Guid(1b854426d1f38f842a143cde84f59573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ad7c7ebe4973932bd2358769bff547') in 0.019463 seconds 
+  Import took 0.022088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file1.png
+  artifactKey: Guid(4ae5a7c968634d7409d9f37784cc2a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file1.png using Guid(4ae5a7c968634d7409d9f37784cc2a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320fb3206d4cafe11fdbec85f55f125a') in 0.042776 seconds 
+  Import took 0.045390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/EffectExamples/WaterEffects/Textures/ImpactSplashParticle.tif
+  artifactKey: Guid(a4948475d3e9a794cad36c380b171ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WaterEffects/Textures/ImpactSplashParticle.tif using Guid(a4948475d3e9a794cad36c380b171ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b754b87cb2de29ac2c02ba1908d80d91') in 0.015534 seconds 
+  Import took 0.018135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file7.png
+  artifactKey: Guid(9f3f856681b616b4b92bcf98db1bfe0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file7.png using Guid(9f3f856681b616b4b92bcf98db1bfe0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280a8d20fa069f2e68d269f8981b2e3b') in 0.052640 seconds 
+  Import took 0.055214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif
+  artifactKey: Guid(82c211cd7b28abb4a9e4ee77e8bd1b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif using Guid(82c211cd7b28abb4a9e4ee77e8bd1b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff316d815deac4f208352b08d61a850') in 0.015504 seconds 
+  Import took 0.018050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/file6.png
+  artifactKey: Guid(01ecc77cf0f6a0046b399d20af4664cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/file6.png using Guid(01ecc77cf0f6a0046b399d20af4664cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b2ef0356eb80ab35f1a17c650fadc7') in 0.058627 seconds 
+  Import took 0.061167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/file1.png
+  artifactKey: Guid(3dc4735a29071af4facbe6d35387c944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/file1.png using Guid(3dc4735a29071af4facbe6d35387c944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a241ec141166ee379c3e1dde04bccdf') in 0.046220 seconds 
+  Import took 0.048690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/file3.png
+  artifactKey: Guid(271f43171b9bbd248a386bb11486f060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/file3.png using Guid(271f43171b9bbd248a386bb11486f060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01afd81a41f3eec5a541e8d63407a792') in 0.043752 seconds 
+  Import took 0.046312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/Regina_Bottom_Diffuse.png
+  artifactKey: Guid(5c0a64d8f095e1c4b935a5a959e3428a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/Regina_Bottom_Diffuse.png using Guid(5c0a64d8f095e1c4b935a5a959e3428a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70370bcaf9b7e11efd850afc09f9a52') in 0.056618 seconds 
+  Import took 0.059192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file7.001.png
+  artifactKey: Guid(4279d358ac3107444b6d8998b684d2a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/file7.001.png using Guid(4279d358ac3107444b6d8998b684d2a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1db172f6e7c7911b4eb3e6f665357c') in 0.053213 seconds 
+  Import took 0.055772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Fabric.jpg
+  artifactKey: Guid(b809a2a46f11f4b4393250c6a950fe62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Fabric.jpg using Guid(b809a2a46f11f4b4393250c6a950fe62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f886859ad5575ab6dba9ca8e2c963ff') in 0.041603 seconds 
+  Import took 0.044113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022569 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/Ch12__mod__V01_01_Ch12_Body_Diffuse_1.png
+  artifactKey: Guid(14904e0f35addce4c8e5120f1f0575a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/Ch12__mod__V01_01_Ch12_Body_Diffuse_1.png using Guid(14904e0f35addce4c8e5120f1f0575a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4b0b99c0cf8057dfb5fb5d9f06a48c') in 0.048438 seconds 
+  Import took 0.051612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.637108 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/Capacitando.fbx
+  artifactKey: Guid(eadcd866c03912b4db2703d149bef8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/Capacitando.fbx using Guid(eadcd866c03912b4db2703d149bef8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76916991f37698640c0a49d2d6e5804') in 0.052109 seconds 
+  Import took 0.055947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.652781 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/Capacitando.fbx
+  artifactKey: Guid(eadcd866c03912b4db2703d149bef8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/Capacitando.fbx using Guid(eadcd866c03912b4db2703d149bef8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca61c0422d82fb3136ab7a2f2737cbd') in 0.039787 seconds 
+  Import took 0.043857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.984034 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/Capacitando.fbx
+  artifactKey: Guid(eadcd866c03912b4db2703d149bef8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/Capacitando.fbx using Guid(eadcd866c03912b4db2703d149bef8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0058220613a83a59965ccfdb8d64cd4a') in 0.034695 seconds 
+  Import took 0.038148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.101325 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Sala de capacitación.fbx
+  artifactKey: Guid(ad68fe85e6c59884c92b343ed9747d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Sala de capacitación.fbx using Guid(ad68fe85e6c59884c92b343ed9747d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d23f10119e90b56927d2f50cbcc3afb') in 0.137801 seconds 
+  Import took 0.141011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.412853 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/personaje6.fbx
+  artifactKey: Guid(3464b538cdf378944b97fbfe0a8c6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/personaje6.fbx using Guid(3464b538cdf378944b97fbfe0a8c6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9531d532ad78e008808405812a8fed01') in 0.097768 seconds 
+  Import took 0.101455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.142931 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/personaje6.fbx
+  artifactKey: Guid(3464b538cdf378944b97fbfe0a8c6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/personaje6.fbx using Guid(3464b538cdf378944b97fbfe0a8c6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '293bdc3cde22436f1a5ddd9b72ecd623') in 0.101108 seconds 
+  Import took 0.104586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.615816 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2
+  artifactKey: Guid(a3d2be2c3dd5bd446a4019f8b6ac48d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2 using Guid(a3d2be2c3dd5bd446a4019f8b6ac48d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393eccbfc9bdf41998aed4fa447e8307') in 0.006186 seconds 
+  Import took 0.009462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.170242 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/untitled.fbx
+  artifactKey: Guid(d0ef2146d54b7644cbee93741db7246d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/untitled.fbx using Guid(d0ef2146d54b7644cbee93741db7246d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73e972ae2bc961a5164d184f7eda71c') in 0.029346 seconds 
+  Import took 0.033044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.755497 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/untitled.fbx
+  artifactKey: Guid(d0ef2146d54b7644cbee93741db7246d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/untitled.fbx using Guid(d0ef2146d54b7644cbee93741db7246d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc17a734d0c63057e22d523b9175045') in 0.025649 seconds 
+  Import took 0.029452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.134981 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/personaje6.fbx
+  artifactKey: Guid(3464b538cdf378944b97fbfe0a8c6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/personaje6.fbx using Guid(3464b538cdf378944b97fbfe0a8c6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98ca491514505cbb843e4816bd1dac65') in 0.090971 seconds 
+  Import took 0.094749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.774650 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje/Personajes_sentados_animcontroller.controller
+  artifactKey: Guid(889a815f2ee73f842b64efcd44798157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje/Personajes_sentados_animcontroller.controller using Guid(889a815f2ee73f842b64efcd44798157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c81b282afe17cc059cd0a55a0e34dc') in 0.008159 seconds 
+  Import took 0.011447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041107 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje/Armature.001_mixamo.com_Layer0.anim
+  artifactKey: Guid(738d97df5aa344e3391cf8fa15780aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje/Armature.001_mixamo.com_Layer0.anim using Guid(738d97df5aa344e3391cf8fa15780aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9fc76837a103a904266380fe658c7d') in 0.057586 seconds 
+  Import took 0.060743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.418278 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje/personaje_alturas-caida_libre-golpe_martillo.controller
+  artifactKey: Guid(eb51b017148644f58a0f8f8ebba95e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Golpe_personaje_montaje/personaje_alturas-caida_libre-golpe_martillo.controller using Guid(eb51b017148644f58a0f8f8ebba95e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a89bed8741357f350730f6cc198496') in 0.057278 seconds 
+  Import took 0.060441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.273441 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personajes_sentados_animcontroller.controller
+  artifactKey: Guid(889a815f2ee73f842b64efcd44798157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personajes_sentados_animcontroller.controller using Guid(889a815f2ee73f842b64efcd44798157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b70157816a3d33eb125a4279cc901d') in 0.002749 seconds 
+  Import took 0.006175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.656669 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/untitled.fbx
+  artifactKey: Guid(df1f08c5aad4e2d46bbc1a75d2bce2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/untitled.fbx using Guid(df1f08c5aad4e2d46bbc1a75d2bce2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9d8532771fabb3224878565f9fb696') in 0.141140 seconds 
+  Import took 0.144728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.718844 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/Armature_Armature_mixamo.com_Layer0.anim
+  artifactKey: Guid(52529fb2900ffe84ab2231104ec9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/Armature_Armature_mixamo.com_Layer0.anim using Guid(52529fb2900ffe84ab2231104ec9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd30bff6366c59f9948e9052fa1f900') in 0.010071 seconds 
+  Import took 0.013203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.539744 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/Sitting Idle (2).fbx
+  artifactKey: Guid(f706cce0b634ad34bb258d46a32d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/Sitting Idle (2).fbx using Guid(f706cce0b634ad34bb258d46a32d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db36f22f75e0bdbba0443abe536fc8d') in 0.217293 seconds 
+  Import took 0.220725 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.069717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.146 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2610.
+Total: 1.881900 ms (FindLiveObjects: 0.208100 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.605400 ms  DeleteObjects: 0.021600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13.062157 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/mixamo.com.anim
+  artifactKey: Guid(f08d3851faf2e024bbcd7876d43d0f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/mixamo.com.anim using Guid(f08d3851faf2e024bbcd7876d43d0f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9267ec608ea9b95be56dbf9fef988385') in 0.017402 seconds 
+  Import took 0.020553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.265863 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/alturas_cl_pjhablanoanimcontroller.controller
+  artifactKey: Guid(85a79f332ed3cd541bb36d7ca4a5054c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/alturas_cl_pjhablanoanimcontroller.controller using Guid(85a79f332ed3cd541bb36d7ca4a5054c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5475a4e433d38f7102a60cb94d955f6e') in 0.007055 seconds 
+  Import took 0.009915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.710505 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/alturas_cl_pj_hablado_animcontroller.controller
+  artifactKey: Guid(85a79f332ed3cd541bb36d7ca4a5054c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/alturas_cl_pj_hablado_animcontroller.controller using Guid(85a79f332ed3cd541bb36d7ca4a5054c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647957be88e8bea0e0879e952d9b2673') in 0.006459 seconds 
+  Import took 0.009434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.853921 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/mixamo.com.anim
+  artifactKey: Guid(c22d07e129b078746bc9c9f18db5215a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Personaje Hablando/mixamo.com.anim using Guid(c22d07e129b078746bc9c9f18db5215a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1394d8471c76538a2e3f18e3374a08e5') in 0.007754 seconds 
+  Import took 0.010692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.110984 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1
+  artifactKey: Guid(93650c2862f8045feb75c6186861d8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1 using Guid(93650c2862f8045feb75c6186861d8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148eb0469702330500f2767dde0f9e1b') in 0.006181 seconds 
+  Import took 0.009515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1
+  artifactKey: Guid(93650c2862f8045feb75c6186861d8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1 using Guid(93650c2862f8045feb75c6186861d8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148eb0469702330500f2767dde0f9e1b') in 0.002022 seconds 
+  Import took 0.004052 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2614.
+Total: 1.853600 ms (FindLiveObjects: 0.209900 ms CreateObjectMapping: 0.046600 ms MarkObjects: 1.578800 ms  DeleteObjects: 0.017300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 28.634080 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller.controller
+  artifactKey: Guid(1645b60d93a284c4bbf96971e6198198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller.controller using Guid(1645b60d93a284c4bbf96971e6198198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9553886911a16d1b75665c3f91b75f0') in 0.013868 seconds 
+  Import took 0.017347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.291645 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller 1.controller
+  artifactKey: Guid(bbbf0091f1c40c74fa7b5c920ae76d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller 1.controller using Guid(bbbf0091f1c40c74fa7b5c920ae76d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130f20983ade010775b08b8050187e7d') in 0.006460 seconds 
+  Import took 0.009468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.977966 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller 2.controller
+  artifactKey: Guid(24f3106eba064cf4ba541c9447f7bcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller 2.controller using Guid(24f3106eba064cf4ba541c9447f7bcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9897c966bedc6767e1460cd16287579') in 0.006282 seconds 
+  Import took 0.009243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.614085 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller.controller
+  artifactKey: Guid(1645b60d93a284c4bbf96971e6198198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller.controller using Guid(1645b60d93a284c4bbf96971e6198198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb34c4cff999ec29c1b944c819948d26') in 0.002796 seconds 
+  Import took 0.005649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.786799 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller 1.controller
+  artifactKey: Guid(bbbf0091f1c40c74fa7b5c920ae76d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_1_alturas_cl_animcontroller 1.controller using Guid(bbbf0091f1c40c74fa7b5c920ae76d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f21b92ee9896243e8704beeaae674f') in 0.003075 seconds 
+  Import took 0.006015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.620880 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 1.controller
+  artifactKey: Guid(bbbf0091f1c40c74fa7b5c920ae76d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 1.controller using Guid(bbbf0091f1c40c74fa7b5c920ae76d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ff66fa0aa8408193943f6989322a07') in 0.006759 seconds 
+  Import took 0.009799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.016793 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 2.controller
+  artifactKey: Guid(21fdc2b6c0e3759429ebcbfb95da6cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 2.controller using Guid(21fdc2b6c0e3759429ebcbfb95da6cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd259c36425014ccdc0e1bfb4d01fb45f') in 0.006589 seconds 
+  Import took 0.009365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.365263 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 3.controller
+  artifactKey: Guid(3f8b55b3697de834abb1459518d88b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 3.controller using Guid(3f8b55b3697de834abb1459518d88b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc2f9ca16dd1a011fc9c5dc0261c362') in 0.006874 seconds 
+  Import took 0.009925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.222077 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 4.controller
+  artifactKey: Guid(81e27b6d350a09e45852da242b372ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 4.controller using Guid(81e27b6d350a09e45852da242b372ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c170076ed50dd845db1b3051b411511') in 0.006470 seconds 
+  Import took 0.009359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.255751 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 5.controller
+  artifactKey: Guid(125e07b2bcefc984894847594993041c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 5.controller using Guid(125e07b2bcefc984894847594993041c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce055b03ade5a29bde185969146436ec') in 0.006305 seconds 
+  Import took 0.009198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.221764 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 6.controller
+  artifactKey: Guid(10965fc98bfab4246b542811d9690702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/pj_alturas_cl_animcontroller 6.controller using Guid(10965fc98bfab4246b542811d9690702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed51a2f5a5cc9b9deaa904ba1baf07d') in 0.006415 seconds 
+  Import took 0.009325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.722419 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/pj_alturas_cl_animcontroller 6.controller
+  artifactKey: Guid(10965fc98bfab4246b542811d9690702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/pj_alturas_cl_animcontroller 6.controller using Guid(10965fc98bfab4246b542811d9690702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a010c6c4b7e7557434dae01485b751fa') in 0.002725 seconds 
+  Import took 0.005577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.519995 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/pj_alturas_cl_animcontroller 2.controller
+  artifactKey: Guid(21fdc2b6c0e3759429ebcbfb95da6cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/pj_alturas_cl_animcontroller 2.controller using Guid(21fdc2b6c0e3759429ebcbfb95da6cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c5b746fca0d0828dc593e848699ad5') in 0.002436 seconds 
+  Import took 0.005400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.243877 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/mixamo.com.anim
+  artifactKey: Guid(f08d3851faf2e024bbcd7876d43d0f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/mixamo.com.anim using Guid(f08d3851faf2e024bbcd7876d43d0f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d1cdd8f99426870930825a6e9b2785') in 0.005364 seconds 
+  Import took 0.008382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000803 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/mixamo.com.anim
+  artifactKey: Guid(f08d3851faf2e024bbcd7876d43d0f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje2/mixamo.com.anim using Guid(f08d3851faf2e024bbcd7876d43d0f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d1cdd8f99426870930825a6e9b2785') in 0.005288 seconds 
+  Import took 0.008353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.438731 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/Armature_Armature_mixamo.com_Layer0.anim
+  artifactKey: Guid(52529fb2900ffe84ab2231104ec9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/Armature_Armature_mixamo.com_Layer0.anim using Guid(52529fb2900ffe84ab2231104ec9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856deb258fba36d03a3a009a927ed9bf') in 0.010522 seconds 
+  Import took 0.013739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000908 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/Armature_Armature_mixamo.com_Layer0.anim
+  artifactKey: Guid(52529fb2900ffe84ab2231104ec9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje1/Armature_Armature_mixamo.com_Layer0.anim using Guid(52529fb2900ffe84ab2231104ec9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856deb258fba36d03a3a009a927ed9bf') in 0.007555 seconds 
+  Import took 0.010358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.302360 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/pj_alturas_cl_animcontroller 3.controller
+  artifactKey: Guid(3f8b55b3697de834abb1459518d88b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/pj_alturas_cl_animcontroller 3.controller using Guid(3f8b55b3697de834abb1459518d88b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541b25e7ea638a222a582f2fe92f99d6') in 0.004466 seconds 
+  Import took 0.007516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.175083 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Sitting Idle (3).fbx
+  artifactKey: Guid(e17d2e540a93c434085109b75272abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/Sitting Idle (3).fbx using Guid(e17d2e540a93c434085109b75272abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60929d551bab110592c26ff9098c4611') in 0.180345 seconds 
+  Import took 0.183756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.176213 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/mixamo.com.anim
+  artifactKey: Guid(b9b914fa6f1f0b2479e80582353615c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje3/mixamo.com.anim using Guid(b9b914fa6f1f0b2479e80582353615c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16342434e4d38b2fcbe9c490bc9951e7') in 0.005054 seconds 
+  Import took 0.008234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.671956 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/Sitting Idle (4).fbx
+  artifactKey: Guid(2bb469ae217dd9a4ab7b7816f0dcafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/Sitting Idle (4).fbx using Guid(2bb469ae217dd9a4ab7b7816f0dcafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807ddd3ca104973d23e6c95db6d82463') in 0.087449 seconds 
+  Import took 0.090863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.561297 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/mixamo.com.anim
+  artifactKey: Guid(115c21537ff807447b297e8b1bf1e56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/mixamo.com.anim using Guid(115c21537ff807447b297e8b1bf1e56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade88e75e8795ee23ee9682c43470981') in 0.005037 seconds 
+  Import took 0.008046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.373337 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/pj_alturas_cl_animcontroller 4.controller
+  artifactKey: Guid(81e27b6d350a09e45852da242b372ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/pj_alturas_cl_animcontroller 4.controller using Guid(81e27b6d350a09e45852da242b372ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6d52d58bb0b64236dd356eb31f2d40') in 0.008191 seconds 
+  Import took 0.011333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/pj_alturas_cl_animcontroller 4.controller
+  artifactKey: Guid(81e27b6d350a09e45852da242b372ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje4/pj_alturas_cl_animcontroller 4.controller using Guid(81e27b6d350a09e45852da242b372ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6d52d58bb0b64236dd356eb31f2d40') in 0.002393 seconds 
+  Import took 0.004787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.992515 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/Armature_ArmatureAction.anim
+  artifactKey: Guid(8a37f69c51700934a83705509e4d9e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/Armature_ArmatureAction.anim using Guid(8a37f69c51700934a83705509e4d9e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb1291767a48c98ed55c8553703f669') in 0.009610 seconds 
+  Import took 0.012892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.833550 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/pj_alturas_cl_animcontroller 5.controller
+  artifactKey: Guid(125e07b2bcefc984894847594993041c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje5/pj_alturas_cl_animcontroller 5.controller using Guid(125e07b2bcefc984894847594993041c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db58dbb9339f2d1f7dee65c65d2f640') in 0.002719 seconds 
+  Import took 0.006070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.476921 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Sala de capacitación.fbx
+  artifactKey: Guid(ad68fe85e6c59884c92b343ed9747d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/Sala de capacitacion/Sala de capacitación.fbx using Guid(ad68fe85e6c59884c92b343ed9747d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e261e45ecfca495f175fe05ddbc362') in 0.130772 seconds 
+  Import took 0.134052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.903536 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/Armature_ArmatureAction.anim
+  artifactKey: Guid(b1e72d56bd13a124ba9848c65e8e7fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Induccion/personaje6/Armature_ArmatureAction.anim using Guid(b1e72d56bd13a124ba9848c65e8e7fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34dd72cf31f48fd895bc461397eb9cde') in 0.005696 seconds 
+  Import took 0.008808 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2619.
+Total: 1.861200 ms (FindLiveObjects: 0.204300 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.588600 ms  DeleteObjects: 0.021400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 134.560673 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/New Folder
+  artifactKey: Guid(4eef3bbade23cc14ba227aa07b472e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/New Folder using Guid(4eef3bbade23cc14ba227aa07b472e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed286e598635aff7a836f4ca36e8c20') in 0.009003 seconds 
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.283998 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento
+  artifactKey: Guid(4eef3bbade23cc14ba227aa07b472e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento using Guid(4eef3bbade23cc14ba227aa07b472e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd779cff6f2d8d877cba3bd238d5a1d64') in 0.006136 seconds 
+  Import took 0.009073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.074257 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Player
+  artifactKey: Guid(cc5680a4afb6ecd45b8c9fd4465478a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Player using Guid(cc5680a4afb6ecd45b8c9fd4465478a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17ed39c7c5658de4d5849904f2ff441') in 0.006148 seconds 
+  Import took 0.009184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.018981 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Player/personaje.fbx
+  artifactKey: Guid(9c00e9039cde83846bb155bfb0d76b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Player/personaje.fbx using Guid(9c00e9039cde83846bb155bfb0d76b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db99fe7f5bd3699727f5b70641b9f7d') in 0.102992 seconds 
+  Import took 0.106542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.284720 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/estructura.fbx
+  artifactKey: Guid(ee13bd4442ac41a40ad149fd1669f50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/estructura.fbx using Guid(ee13bd4442ac41a40ad149fd1669f50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534f77924c5acf3de0e5b26b6b14fd20') in 0.090006 seconds 
+  Import took 0.093358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.458050 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png
+  artifactKey: Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png using Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5a8d47f25583b2bc715fe86b67f713') in 0.015915 seconds 
+  Import took 0.018933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014985 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png
+  artifactKey: Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png using Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5a8d47f25583b2bc715fe86b67f713') in 0.008707 seconds 
+  Import took 0.011186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.276624 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png
+  artifactKey: Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png using Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c389ca2c63603df19e3894eefc06c795') in 0.011161 seconds 
+  Import took 0.014359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png
+  artifactKey: Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png using Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c389ca2c63603df19e3894eefc06c795') in 0.008640 seconds 
+  Import took 0.011197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.034210 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 4 - Parrafo 4.png
+  artifactKey: Guid(2090391602e4d154a9fc1ebf57c57c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 4 - Parrafo 4.png using Guid(2090391602e4d154a9fc1ebf57c57c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccfb38d27322af4692d50e31cd1ff428') in 0.014321 seconds 
+  Import took 0.017361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.705744 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png
+  artifactKey: Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png using Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd4132907e6a542a8ea6109f77189dd') in 0.012212 seconds 
+  Import took 0.015518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png
+  artifactKey: Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png using Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd4132907e6a542a8ea6109f77189dd') in 0.008543 seconds 
+  Import took 0.011442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.159411 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png
+  artifactKey: Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png using Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabafe41e236156d077c2d52656effe5') in 0.023681 seconds 
+  Import took 0.026773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.669859 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png
+  artifactKey: Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png using Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8893a9bc7f7c28e95456e55db6eac4e7') in 0.015622 seconds 
+  Import took 0.018851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.944239 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+  artifactKey: Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png using Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3befe195304e77d99c2ad0409c3ac57') in 0.012602 seconds 
+  Import took 0.015790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.022528 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 4 - Parrafo 4.png
+  artifactKey: Guid(2090391602e4d154a9fc1ebf57c57c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 4 - Parrafo 4.png using Guid(2090391602e4d154a9fc1ebf57c57c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68cb853629c02ea967b2d3d6bffba28') in 0.018163 seconds 
+  Import took 0.021435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3916.310317 seconds.
+  path: Assets/Animations/Controllers
+  artifactKey: Guid(586fd1d2260e141c3b346f9c54c6ce3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers using Guid(586fd1d2260e141c3b346f9c54c6ce3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '392072c34fffc8b7e34ebdff6a12c230') in 0.007110 seconds 
+  Import took 0.010751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Animations/Controllers
+  artifactKey: Guid(586fd1d2260e141c3b346f9c54c6ce3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers using Guid(586fd1d2260e141c3b346f9c54c6ce3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '392072c34fffc8b7e34ebdff6a12c230') in 0.002383 seconds 
+  Import took 0.004899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.831314 seconds.
+  path: Assets/Animations/Controllers/Procedimiento_anim_controller.controller
+  artifactKey: Guid(1d58cb77771e37646836b9d382696190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers/Procedimiento_anim_controller.controller using Guid(1d58cb77771e37646836b9d382696190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1088ef1aa7947531744ed2ae2d128c21') in 0.007200 seconds 
+  Import took 0.010361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037523 seconds.
+  path: Assets/Animations/Controllers/HumanParent.controller
+  artifactKey: Guid(57a143a23d656334ab2fc33db68733fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers/HumanParent.controller using Guid(57a143a23d656334ab2fc33db68733fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d644116d199901cccc96c5f6895f9d9') in 0.016250 seconds 
+  Import took 0.019260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.567760 seconds.
+  path: Assets/Animations/Controllers/Riesgo_Montaje_Controller.controller
+  artifactKey: Guid(5eab89d16f7e14bc4a173383b7c3d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers/Riesgo_Montaje_Controller.controller using Guid(5eab89d16f7e14bc4a173383b7c3d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ccc5d86f1c4c2c3a05233d21d045de8') in 0.020453 seconds 
+  Import took 0.023598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.712175 seconds.
+  path: Assets/Animations/Controllers/partes.controller
+  artifactKey: Guid(f194a3b068597444aa8c039df3e9b670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers/partes.controller using Guid(f194a3b068597444aa8c039df3e9b670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3e311d4cbee157a0ad5114e15ae2ce') in 0.016685 seconds 
+  Import took 0.019839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.310385 seconds.
+  path: Assets/Animations/Controllers/inspecciones.controller
+  artifactKey: Guid(51e39294bf3a0a748bfe97c0937d8e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers/inspecciones.controller using Guid(51e39294bf3a0a748bfe97c0937d8e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f3083737c16bec2fb7335cfccdc6e7') in 0.019256 seconds 
+  Import took 0.022449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.272450 seconds.
+  path: Assets/Animations/Clips
+  artifactKey: Guid(a111ab03d5502412081855c39cce8c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Clips using Guid(a111ab03d5502412081855c39cce8c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcb127572bbbe6ea0d4245212bc76c1e') in 0.006888 seconds 
+  Import took 0.010058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.477745 seconds.
+  path: Assets/Animations/Clips/Procedimiento_anim.anim
+  artifactKey: Guid(e2e85b71b80471b499fb541cdd13992c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Clips/Procedimiento_anim.anim using Guid(e2e85b71b80471b499fb541cdd13992c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00749174715695cd198b28246d13135c') in 0.006855 seconds 
+  Import took 0.009831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035236 seconds.
+  path: Assets/Animations/Clips/Estandares-partes.anim
+  artifactKey: Guid(3c44e8205900a754a95a06de8622a0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Clips/Estandares-partes.anim using Guid(3c44e8205900a754a95a06de8622a0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f900a9f3e987c1d4b5e8fcfe173a7b54') in 0.006719 seconds 
+  Import took 0.009850 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.001 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2624.
+Total: 1.935700 ms (FindLiveObjects: 0.217500 ms CreateObjectMapping: 0.046600 ms MarkObjects: 1.649400 ms  DeleteObjects: 0.021100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2624.
+Total: 1.931700 ms (FindLiveObjects: 0.234300 ms CreateObjectMapping: 0.043300 ms MarkObjects: 1.641700 ms  DeleteObjects: 0.011700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003367 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2628.
+Total: 1.931500 ms (FindLiveObjects: 0.200800 ms CreateObjectMapping: 0.043400 ms MarkObjects: 1.669000 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2628.
+Total: 2.040100 ms (FindLiveObjects: 0.293200 ms CreateObjectMapping: 0.050200 ms MarkObjects: 1.684500 ms  DeleteObjects: 0.011500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2628.
+Total: 1.904000 ms (FindLiveObjects: 0.218700 ms CreateObjectMapping: 0.043300 ms MarkObjects: 1.630800 ms  DeleteObjects: 0.010600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2628.
+Total: 2.215200 ms (FindLiveObjects: 0.230900 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.924900 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
