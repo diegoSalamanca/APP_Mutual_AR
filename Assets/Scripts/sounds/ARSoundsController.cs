@@ -36,30 +36,53 @@ public class ARSoundsController : MonoBehaviour
     IEnumerator SincronizeAudio(int index)
     {
 
-        var clip = textListScriptables[index].audioClip;
-
-        audioSource.clip = clip;
-        audioSource.Play();               
-
-        while (audioSource.time < clip.length)
+        if (textListScriptables[index].audioClip)
         {
-           
-            var actualSegment = (int)(textListScriptables[index].texts.Length * audioSource.time / clip.length);
-            print(actualSegment);
+            var clip = textListScriptables[index].audioClip;
+            audioSource.clip = clip;
+            audioSource.Play();
 
-            var value = ((1 * audioSource.time) / clip.length);
-            slider.value = value;
-            if (actualSegment < textListScriptables[index].texts.Length)
+            while (audioSource.time < clip.length)
             {
-                textMesh.text = textListScriptables[index].texts[actualSegment];
-            }                
-            
+                var actualSegment = (int)(textListScriptables[index].texts.Length * audioSource.time / clip.length);
+                print(actualSegment);
+
+                var value = ((1 * audioSource.time) / clip.length);
+                slider.value = value;
+                if (actualSegment < textListScriptables[index].texts.Length)
+                {
+                    textMesh.text = textListScriptables[index].texts[actualSegment];
+                }
+
+                yield return null;
+            }
+
             yield return null;
+
+            textMesh.text = "";
         }
 
-        yield return null;
+        else
+        {            
+            slider.value = 0;
+            audioSource.Stop();
+            var segment =  (1 / (float)textListScriptables[index].texts.Length);
+            
 
-        textMesh.text = "";
+            for (int i = 0; i < textListScriptables[index].texts.Length; i++)
+            {                
+                textMesh.text = textListScriptables[index].texts[i];
+                slider.value += segment;
+                yield return new WaitForSeconds(3f);
+                
+            }
+
+            yield return new WaitForSeconds(3f);
+            textMesh.text = "";
+        }
+        
+
+        
 
 
         if (index == 0 && !secondaryActivity)

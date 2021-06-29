@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: ce9b9b0c5e53bc14aaaf2f7493e2fa52
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3898430362254980871
+    second: The_City:mesh01.001|Armature.004Action
+  - first:
+      74: 2651475616344807845
+    second: The_City:mesh01.001|keytruckAction
+  - first:
+      74: 5989097371053163884
+    second: The_City:mesh01.001|The_City:mesh01.006Action
+  - first:
+      74: 3922568234409202452
+    second: The_City:mesh01.006|Armature.004Action
+  - first:
+      74: -366873679854987320
+    second: The_City:mesh01.006|keytruckAction
+  - first:
+      74: -3507281675736638692
+    second: The_City:mesh01.006|The_City:mesh01.006Action
+  - first:
+      74: 2807712050794677371
+    second: Plane.002|Armature.004Action
+  - first:
+      74: 3436875389432381078
+    second: Plane.002|keytruckAction
+  - first:
+      74: -6375219764079085232
+    second: Plane.002|The_City:mesh01.006Action
+  - first:
+      74: -6357651154236285156
+    second: Plane.007|Armature.004Action
+  - first:
+      74: -4343450648174182955
+    second: Plane.007|keytruckAction
+  - first:
+      74: 2537830503015172553
+    second: Plane.007|The_City:mesh01.006Action
+  - first:
+      74: 4612994130194754735
+    second: Plane.006|Armature.004Action
+  - first:
+      74: -1602859099831818779
+    second: Plane.006|keytruckAction
+  - first:
+      74: 1123952965530327159
+    second: Plane.006|The_City:mesh01.006Action
+  - first:
+      74: 2793442952574513951
+    second: Plane.003|Armature.004Action
+  - first:
+      74: -2320597587421886137
+    second: Plane.003|keytruckAction
+  - first:
+      74: -5677450707349589596
+    second: Plane.003|The_City:mesh01.006Action
+  - first:
+      74: 4873155209729017148
+    second: Plane.004|Armature.004Action
+  - first:
+      74: 7439373354614601774
+    second: Plane.004|keytruckAction
+  - first:
+      74: 1219574851018952796
+    second: Plane.004|The_City:mesh01.006Action
+  - first:
+      74: 3676285361412993298
+    second: Plane.005|Armature.004Action
+  - first:
+      74: -677444778626966066
+    second: Plane.005|keytruckAction
+  - first:
+      74: -3760792780982421863
+    second: Plane.005|The_City:mesh01.006Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHAPAMETALICA
+    second: {fileID: 2100000, guid: c8ea245997e11da45903a7ebfac6a9f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f6ba895b8277b9c4d97752465996ac2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 46e0eae00681c504f996db0ee6cd7775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 641bc0c909c680143b4af8caae352eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: dbf7328d88743c04d8c16191788009fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 8fd3122edfd5e6449acd9cb3a8ff9c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_2_Lane_Curve
+    second: {fileID: 2100000, guid: c263f044cae120c478f8a07a260631c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_2_Lane_Driveway
+    second: {fileID: 2100000, guid: c984e0a54f232294da1772c5ce737eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_2_Lane_Straight
+    second: {fileID: 2100000, guid: 1ec130132c5f1034f88b750b0ab18437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_2_Lane_T
+    second: {fileID: 2100000, guid: f4319e435c760e24aa41a34ea277ac24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_2_Lane_X
+    second: {fileID: 2100000, guid: 77cf925453fdee440b9b7bc9e662da0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Branch
+    second: {fileID: 2100000, guid: b22da8cbdb3bf5348991d91daf824a3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolsa texture
+    second: {fileID: 2100000, guid: 9857b0ed4a902b341a0d1456d19d5cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolsa texture_AZUL
+    second: {fileID: 2100000, guid: e1dd9623f342a4c48b4654b883ac5f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 9807781d9c1d1e846919cead3aaf5912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 417958a382fdbda4ab0b58310afc996c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
