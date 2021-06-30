@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: "Emplazamiento - Se\xF1alizaci\xF3n cubierta o Retirada"
+  m_EditorClassIdentifier: 
+  texts:
+  - "La se\xF1alizaci\xF3n permanente, cuya presencia pueda inducir"
+  - " a error debido a las nuevas condiciones de operaci\xF3n impuestas"
+  - " por el esquema de tr\xE1nsito adoptado, deber\xE1 ser retirada o cubierta,"
+  - " de tal manera que no pueda ser vista de d\xEDa o de noche."
+  audioClip: {fileID: 8300000, guid: 5e381149a67c1434b8c4677ad3c1fcc1, type: 3}

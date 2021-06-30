@@ -24,7 +24,82 @@ ModelImporter:
   - first:
       74: -3183799723849902780
     second: BMW E30|Volkswagen AmarokAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium
+    second: {fileID: 2100000, guid: 8b3b9f93e1b1c4a4c84aee4d8f26f035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black plastic
+    second: {fileID: 2100000, guid: 407e0352b0c6e9246bc6757a926e5fac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrom
+    second: {fileID: 2100000, guid: 4d3d1691475f3db4da021990bb98ff97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fog lights
+    second: {fileID: 2100000, guid: 476bbda860d43aa47a3aba29c95e39c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: aba47c1ef5951da41a54440a4009aebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlight
+    second: {fileID: 2100000, guid: 61a72865a1e2cb244964b79dd5ca88ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior 1
+    second: {fileID: 2100000, guid: 538d687170ab7714f9d8e3052d00467e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior 2
+    second: {fileID: 2100000, guid: e4d264b36f6336c4cbd98024d3e73bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marrakesh brown (metallic)
+    second: {fileID: 2100000, guid: 971fa3b224785bf4f9bc8565644eab9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange plastic
+    second: {fileID: 2100000, guid: 3b7e7c87350afd94eb5ea55a6c7551e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflector
+    second: {fileID: 2100000, guid: 10937f7e37d05484895c677bcb7c3cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reverse lights
+    second: {fileID: 2100000, guid: 33ee0c8dfa70b454bbfa7a7b1e3f99a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: acd3cb7b15b70e34ca703fb8707be269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail lights
+    second: {fileID: 2100000, guid: 350b4ef8b23db6f4785a00fa1f382861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Underbody
+    second: {fileID: 2100000, guid: de71c7523dcd6a641aae87f9315dc04e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

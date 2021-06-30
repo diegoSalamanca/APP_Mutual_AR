@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Emplazamiento - Sistema de soporte
+  m_EditorClassIdentifier: 
+  texts:
+  - "El sistema de soporte de las se\xF1ales y elementos de canalizaci\xF3n"
+  - " debe asegurar que \xE9stos se mantengan en la posici\xF3n correcta"
+  - " y que si inadvertidamente es impactado por un veh\xEDculo,"
+  - "no represente un peligro grave para \xE9ste, para los peatones"
+  - ' o para los trabajadores de la obra.'
+  - "Cuando sea necesario lastrar las bases de esas se\xF1ales"
+  - ' y/o  elementos se recomienda el uso de sacos de arena.'
+  - " Nunca deben utilizarse en sus bases hormig\xF3n, estructuras met\xE1licas o
+    piedras."
+  audioClip: {fileID: 8300000, guid: b9e8a26bb6a9c554fb139f4f0f04449d, type: 3}

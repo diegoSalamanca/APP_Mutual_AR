@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Emplazamiento - Bandereros
+  m_EditorClassIdentifier: 
+  texts:
+  - Los bandereros otorgan derecho de paso alternadamente;
+  - aseguran que al otorgar derecho de paso en un sentido,
+  - "el tramo se encuentre despejado de veh\xEDculos que transiten"
+  - " en sentido contrario, y evitan la generaci\xF3n de demoras"
+  - "excesivas al tr\xE1nsito, cualquiera sea el sentido de circulaci\xF3n,"
+  - " ya que \xE9stas son un est\xEDmulo al no respeto de las indicaciones del sistema."
+  audioClip: {fileID: 8300000, guid: 60d578d86afa0394e87757f42bbdd9d8, type: 3}

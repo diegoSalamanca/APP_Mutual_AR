@@ -21,7 +21,107 @@ ModelImporter:
   - first:
       74: -4335177170090435049
     second: Volkswagen Amarok|Volkswagen AmarokAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium.002
+    second: {fileID: 2100000, guid: 244f435b13e449145b35235d012dc733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Paint.002
+    second: {fileID: 2100000, guid: ba88f356b349f78448ef27d5d04895b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black plastic.002
+    second: {fileID: 2100000, guid: 83ab74f8d7591434daf7f604d99ad618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrom (matte)
+    second: {fileID: 2100000, guid: 2de0cdff2cbba4e4eaea662a4efad29d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrom.002
+    second: {fileID: 2100000, guid: 905535974bb8e3f41b5dc96c27a8aee4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cutter.002
+    second: {fileID: 2100000, guid: b524f4e5a0c2d9e49b8d96ce5a9e6be9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fog lights.002
+    second: {fileID: 2100000, guid: 8a67912185f32664eb1468967fed9f33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.002
+    second: {fileID: 2100000, guid: ac595e3d1b27d1045a28a1b0018dd171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlight.002
+    second: {fileID: 2100000, guid: 521f5108c274184458fc462374a240d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior (dark)
+    second: {fileID: 2100000, guid: 28b6505440b7e8b4b87d09d68adb5bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior (light)
+    second: {fileID: 2100000, guid: 1db06956c72553a46968c6657ca3ca23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange plastic.002
+    second: {fileID: 2100000, guid: 24bb14430572d6c419853dae9c582d38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflector.002
+    second: {fileID: 2100000, guid: c8b28e79850a5f24bb6ab713d6c48098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reverse lights.001
+    second: {fileID: 2100000, guid: 4a5a26fa0655cc8498c3966b9daac9bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber.002
+    second: {fileID: 2100000, guid: b7d004bb525547340aaaced96d57aa88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shades
+    second: {fileID: 2100000, guid: 0bc69af21a8e8f0438ed6c1cdeb58886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver paint (metallic)
+    second: {fileID: 2100000, guid: 852e23fb1719f8f4bb1807297b887217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail lights.002
+    second: {fileID: 2100000, guid: bd150409d3e3ae0448340f4e156ca37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Underbody.002
+    second: {fileID: 2100000, guid: 597015eada051134db4c06dc303dd59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windshield
+    second: {fileID: 2100000, guid: 948a87dacb62c7f45867c05c3df441e8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

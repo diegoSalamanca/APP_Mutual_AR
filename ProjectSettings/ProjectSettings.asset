@@ -130,7 +130,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.64.5
+  bundleVersion: 1.65.5
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -242,7 +242,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: /Users/diegosalamanca/Dropbox/Documentos Trabajo/eABC Learning/Mutual
+  AndroidKeystoreName: C:/Users/diego/Dropbox/Documentos Trabajo/eABC Learning/Mutual
     AR/Android Data/Android Sign/user.keystore
   AndroidKeyaliasName: ra mutual
   AndroidBuildApkPerCpuArchitecture: 0

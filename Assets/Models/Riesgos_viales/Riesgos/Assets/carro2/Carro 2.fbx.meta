@@ -21,7 +21,82 @@ ModelImporter:
   - first:
       74: 1721122016102583354
     second: BMW E34|Volkswagen AmarokAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium.001
+    second: {fileID: 2100000, guid: 4555f8f2d7fe182429c213e36cc80dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Paint.001
+    second: {fileID: 2100000, guid: 21ca07a41a7d5a84893ddbecba3b67b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black plastic.001
+    second: {fileID: 2100000, guid: b113a2875a44eca4e8811571772f25cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black window trim
+    second: {fileID: 2100000, guid: 29b3f361f35799245b91dc14d06c9d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrom.001
+    second: {fileID: 2100000, guid: 6f41a109055dda847910a0271ead6d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fog lights.001
+    second: {fileID: 2100000, guid: 9fece3e8daf042f428217ae773a90acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.001
+    second: {fileID: 2100000, guid: 3b8c966480c5a4d459626a76f4a5ec94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior 1.001
+    second: {fileID: 2100000, guid: d43f540f2f572f24ea71196cb2f701e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior 2.001
+    second: {fileID: 2100000, guid: 638f5ac7d894a3844bfd8756ef8fa0a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange plastic.001
+    second: {fileID: 2100000, guid: 20744c51d8fc149499bc358592ad001b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red paint (metallic)
+    second: {fileID: 2100000, guid: e2ef60fa2b3883840862eec9a37b1f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflector.001
+    second: {fileID: 2100000, guid: 868483219a8e1984796efbcc4dfd8831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber.001
+    second: {fileID: 2100000, guid: b27180801b5ae504589f9311a9331206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail lights.001
+    second: {fileID: 2100000, guid: 45339f2ebf891aa41800fc6c9cf45328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Underbody.001
+    second: {fileID: 2100000, guid: f257cc24e718fdc40ba4d156b2c5a570, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
