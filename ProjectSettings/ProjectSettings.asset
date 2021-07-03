@@ -130,7 +130,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.65.5
+  bundleVersion: 1.7.5
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -150,10 +150,10 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.APP_Mutual
-    iPhone: com.RA.Mutual
+    iPhone: com.RAv2.Mutual
   buildNumber:
     Standalone: 0
-    iPhone: 6
+    iPhone: 5
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 5
@@ -242,7 +242,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/diego/Dropbox/Documentos Trabajo/eABC Learning/Mutual
+  AndroidKeystoreName: /Users/diegosalamanca/Dropbox/Documentos Trabajo/eABC Learning/Mutual
     AR/Android Data/Android Sign/user.keystore
   AndroidKeyaliasName: ra mutual
   AndroidBuildApkPerCpuArchitecture: 0

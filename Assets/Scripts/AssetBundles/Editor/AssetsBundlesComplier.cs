@@ -7,7 +7,7 @@ public class AssetsBundlesComplier
     [MenuItem("Assets/Build AssetBundles")]
     static void BuildAllAssetBundles()
     {
-        string assetBundleDirectory = "StreamingAssets";
+        string assetBundleDirectory = "Assets/StreamingAssets";
 
         if (!Directory.Exists(Application.streamingAssetsPath))
         {
@@ -15,5 +15,6 @@ public class AssetsBundlesComplier
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
     }
+
 }
 
