@@ -42,7 +42,9 @@ public class AssetBundleDownloader : MonoBehaviour
         var request = UnityWebRequestAssetBundle.GetAssetBundle(url, 1, 0);
 
         var operacion = request.SendWebRequest();
-      
+
+        string size = request.GetResponseHeader("Content-Length");
+
 
         if (request.error != null)
         {
@@ -58,7 +60,7 @@ public class AssetBundleDownloader : MonoBehaviour
         {
             print("% = " + request.downloadProgress);
             slider.value = request.downloadProgress;
-            textoEstado.text = "Descargando datos adicionales "+ (request.downloadProgress * 100).ToString("f0")+ "%" ;
+            textoEstado.text = "Descargando " + System.Convert.ToInt64(size) + " de datos adicionales "+ (request.downloadProgress * 100).ToString("f0")+ "%" ;
             yield return null;
         }
 

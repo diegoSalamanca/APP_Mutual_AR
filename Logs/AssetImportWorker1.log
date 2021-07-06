@@ -3208,3 +3208,808 @@ Received Import Request.
 Start importing Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_senales.prefab using Guid(cf835c06531f4424aab2bee6bb070453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af831a4210c8f0dc620d46add8cf403f') in 0.495216 seconds 
   Import took 0.549659 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 51.129036 seconds.
+  path: Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_canalizadores.prefab
+  artifactKey: Guid(299a85854e8e84cedabfc3a8e2328e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_canalizadores.prefab using Guid(299a85854e8e84cedabfc3a8e2328e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313bd973efb885b2739d3b6337239cfc') in 0.217149 seconds 
+  Import took 0.235774 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 291.1 MB.
+System memory in use after: 291.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 37.013834 ms (FindLiveObjects: 0.485416 ms CreateObjectMapping: 0.043292 ms MarkObjects: 36.406708 ms  DeleteObjects: 0.077542 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 430.588852 seconds.
+  path: Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_bandereros.prefab
+  artifactKey: Guid(a3b80b985bb9a46c9978d4f29adeaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_bandereros.prefab using Guid(a3b80b985bb9a46c9978d4f29adeaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc292d5649e79a57e5942152f32bc89a') in 0.481361 seconds 
+  Import took 0.569359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.181810 seconds.
+  path: Assets/AssetBundles/Riesgos Viales/bundle_trabajo_alturas_riesgos_viales.prefab
+  artifactKey: Guid(9ba146343f6c742fb8adc423031a744a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Riesgos Viales/bundle_trabajo_alturas_riesgos_viales.prefab using Guid(9ba146343f6c742fb8adc423031a744a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fed55de00a6812280e42c2cc45bb20') in 0.501505 seconds 
+  Import took 0.524192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.140546 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Climatico.prefab
+  artifactKey: Guid(7f9dccd76ba624fc49ac6c9a55e07ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Climatico.prefab using Guid(7f9dccd76ba624fc49ac6c9a55e07ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29aae704e74283a6072eb657484cd1ca') in 0.077611 seconds 
+  Import took 0.088401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.532702 seconds.
+  path: Assets/AssetBundles/trabajo_alturas
+  artifactKey: Guid(ad26d380d6efb4745a8a55752f5bffb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas using Guid(ad26d380d6efb4745a8a55752f5bffb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91226d4559129f30ca8778e337742b6') in 0.006857 seconds 
+  Import took 0.024421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.721795 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_alturas_seguridad.prefab
+  artifactKey: Guid(7f80565b7129f4f4fbd4c85a2c2c2131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_alturas_seguridad.prefab using Guid(7f80565b7129f4f4fbd4c85a2c2c2131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd542cd166337fe416d298e89d2984e7') in 0.390153 seconds 
+  Import took 0.401834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 318.997341 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab
+  artifactKey: Guid(4a89d62e3edbc460ab426bb124200a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab using Guid(4a89d62e3edbc460ab426bb124200a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728915e24a31b93ff5fa3c16ce63720c') in 0.416358 seconds 
+  Import took 0.431336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 411.781920 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_procedimiento.prefab
+  artifactKey: Guid(2c306d6a83e3c414cb0044f6325d951f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_procedimiento.prefab using Guid(2c306d6a83e3c414cb0044f6325d951f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cdf1d1915fad0806e35e29535ecf3a6') in 0.253549 seconds 
+  Import took 0.275024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.495192 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_induccion.prefab
+  artifactKey: Guid(9ef9d1956635a40d2ba52cecb879d999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_induccion.prefab using Guid(9ef9d1956635a40d2ba52cecb879d999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970e05de77071f1af0c4f3d316f5ceaa') in 0.330776 seconds 
+  Import took 0.347569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.354042 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_mantenimiento.prefab
+  artifactKey: Guid(8e64d463a7a114d6eb4f7c58dd5e2313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_mantenimiento.prefab using Guid(8e64d463a7a114d6eb4f7c58dd5e2313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd283fe68bd5052e99c301dca5277880f') in 0.103011 seconds 
+  Import took 0.109098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.826837 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_sobrecarga.prefab
+  artifactKey: Guid(7d3f6a2dcabc34125836bb8816329d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_sobrecarga.prefab using Guid(7d3f6a2dcabc34125836bb8816329d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4483b2add7aded922887460e2afbba50') in 0.108077 seconds 
+  Import took 0.113045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.239332 seconds.
+  path: Assets/AssetBundles/bundle_trabajo_Alturas_Caida_Libre_objetos.prefab
+  artifactKey: Guid(084198561ba814b158f9d032172244df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/bundle_trabajo_Alturas_Caida_Libre_objetos.prefab using Guid(084198561ba814b158f9d032172244df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00565b98a0753ec059f20290da0c0f5a') in 0.146942 seconds 
+  Import took 0.151162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.759306 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab
+  artifactKey: Guid(933400c77466944d687050b7a5c09004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab using Guid(933400c77466944d687050b7a5c09004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d354faca2a66917f87ce53aec26ab6b') in 0.225336 seconds 
+  Import took 0.244463 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 296.8 MB.
+System memory in use after: 297.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 51.423833 ms (FindLiveObjects: 0.784416 ms CreateObjectMapping: 0.045209 ms MarkObjects: 50.524625 ms  DeleteObjects: 0.068667 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 179.736015 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_mantenimiento.prefab
+  artifactKey: Guid(8e64d463a7a114d6eb4f7c58dd5e2313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_mantenimiento.prefab using Guid(8e64d463a7a114d6eb4f7c58dd5e2313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2795c75d77cd7ea318a4935cc1428cc4') in 0.315216 seconds 
+  Import took 0.339974 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 14.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 297.3 MB.
+System memory in use after: 297.4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 26.655541 ms (FindLiveObjects: 0.426125 ms CreateObjectMapping: 0.042709 ms MarkObjects: 26.120625 ms  DeleteObjects: 0.065125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 282.582476 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab
+  artifactKey: Guid(933400c77466944d687050b7a5c09004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab using Guid(933400c77466944d687050b7a5c09004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6295420623d21183640f655225baa696') in 0.398894 seconds 
+  Import took 0.566919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001665 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab
+  artifactKey: Guid(4a89d62e3edbc460ab426bb124200a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab using Guid(4a89d62e3edbc460ab426bb124200a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe8edaf51c8334b70d90264dcc71a6c') in 0.410508 seconds 
+  Import took 0.418377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.541625 seconds.
+  path: Assets/AssetBundles/trabajo_alturas/bundle_trabajo_alturas_seguridad.prefab
+  artifactKey: Guid(7f80565b7129f4f4fbd4c85a2c2c2131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/trabajo_alturas/bundle_trabajo_alturas_seguridad.prefab using Guid(7f80565b7129f4f4fbd4c85a2c2c2131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b766c698e86e26025ae550b57d0aa9') in 0.236971 seconds 
+  Import took 0.258580 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 299.3 MB.
+System memory in use after: 299.4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 29.873459 ms (FindLiveObjects: 0.423833 ms CreateObjectMapping: 0.043292 ms MarkObjects: 29.342458 ms  DeleteObjects: 0.062792 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9891.852442 seconds.
+  path: Assets/Resources/Prefabs/Actividad_trabajo_alturas_Accientes.prefab
+  artifactKey: Guid(0d4d8830c5e1c45f08348c7f384fec5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Actividad_trabajo_alturas_Accientes.prefab using Guid(0d4d8830c5e1c45f08348c7f384fec5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4b9f7cf3bb0922ab4c5bd1621d7c63') in 1.505726 seconds 
+  Import took 1.786235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.460967 seconds.
+  path: Assets/Resources/Prefabs/MessagePanel.prefab
+  artifactKey: Guid(ca7e1a898a9d92e409650e9a3595bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/MessagePanel.prefab using Guid(ca7e1a898a9d92e409650e9a3595bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d484fead3ef1e544bf51e0f2b27ce7') in 0.169115 seconds 
+  Import took 0.182476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014787 seconds.
+  path: Assets/Resources/Prefabs/MessagePanel.prefab
+  artifactKey: Guid(ca7e1a898a9d92e409650e9a3595bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/MessagePanel.prefab using Guid(ca7e1a898a9d92e409650e9a3595bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d484fead3ef1e544bf51e0f2b27ce7') in 0.031508 seconds 
+  Import took 0.042221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.998292 seconds.
+  path: Assets/StreamingAssets/StreamingAssets.manifest
+  artifactKey: Guid(0df4f4bb5f68a409cb99a4f1e5d06421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/StreamingAssets.manifest using Guid(0df4f4bb5f68a409cb99a4f1e5d06421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2acec266a3eafe1c19c2a8cc2f461cff') in 1.114366 seconds 
+  Import took 1.144644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.171193 seconds.
+  path: Assets/StreamingAssets/StreamingAssets
+  artifactKey: Guid(48b70dc1927e64158afd231989af0854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/StreamingAssets using Guid(48b70dc1927e64158afd231989af0854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086a321dad6528b2b3a26d276d18a628') in 0.001855 seconds 
+  Import took 0.004477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.183601 seconds.
+  path: Assets/StreamingAssets/mutual_bundles.1.manifest
+  artifactKey: Guid(aeb1f099c053245d789010bd98383981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/mutual_bundles.1.manifest using Guid(aeb1f099c053245d789010bd98383981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578ed241c2226372b0022a398e8099a2') in 0.003968 seconds 
+  Import took 0.007183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.461311 seconds.
+  path: Assets/StreamingAssets/mutual_bundles.1
+  artifactKey: Guid(4bba05f31be5942c3a18112c01aa8be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/mutual_bundles.1 using Guid(4bba05f31be5942c3a18112c01aa8be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c212d7a5689dc0711e04251f43d056') in 0.254242 seconds 
+  Import took 0.266583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 609.751200 seconds.
+  path: Assets/LastBuild.buildreport
+  artifactKey: Guid(027327ebf167a41e98424c6c302a4ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LastBuild.buildreport using Guid(027327ebf167a41e98424c6c302a4ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b393aff3bfd4b5bae8cb5e5d387b34a2') in 0.521457 seconds 
+  Import took 0.587715 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 14.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 312.7 MB.
+System memory in use after: 312.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 251.180709 ms (FindLiveObjects: 4.549333 ms CreateObjectMapping: 0.070958 ms MarkObjects: 243.546959 ms  DeleteObjects: 3.012667 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 312.8 MB.
+System memory in use after: 312.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 67.258333 ms (FindLiveObjects: 1.918959 ms CreateObjectMapping: 0.045125 ms MarkObjects: 63.997167 ms  DeleteObjects: 1.296125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1705.844603 seconds.
+  path: Assets/StreamingAssets
+  artifactKey: Guid(c29bc0941a55e4511bea916a5412c31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets using Guid(c29bc0941a55e4511bea916a5412c31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017e76fc8faedfa0acd24bbfbe43ff59') in 0.007587 seconds 
+  Import took 0.081680 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 312.9 MB.
+System memory in use after: 313.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 45.159750 ms (FindLiveObjects: 0.750167 ms CreateObjectMapping: 0.046291 ms MarkObjects: 44.319250 ms  DeleteObjects: 0.043167 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1125.061220 seconds.
+  path: Assets/Scripts/AssetBundles/AssetBundleDownloader.cs
+  artifactKey: Guid(b6ebf12f0a4fe4d029f9630cd4d16309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AssetBundles/AssetBundleDownloader.cs using Guid(b6ebf12f0a4fe4d029f9630cd4d16309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7755d4a3d82371a4745168b6281cb33d') in 0.345894 seconds 
+  Import took 1.069713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010525 seconds.
+  path: Assets/Scripts/AssetBundles/BundlesData.cs
+  artifactKey: Guid(ef20766a314f64c5396aa290d65d2114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AssetBundles/BundlesData.cs using Guid(ef20766a314f64c5396aa290d65d2114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7f1ea70e2a46ffd89aa9e353712b00') in 0.014544 seconds 
+  Import took 0.023223 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.240 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 324.7 MB.
+System memory in use after: 324.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2696.
+Total: 9.099916 ms (FindLiveObjects: 0.599250 ms CreateObjectMapping: 0.056208 ms MarkObjects: 8.407459 ms  DeleteObjects: 0.035791 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 230.545418 seconds.
+  path: Assets/Scripts/AssetBundles/Editor/AssetsBundlesComplier.cs
+  artifactKey: Guid(9465c89dd0867334ea7e54a0df37ddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AssetBundles/Editor/AssetsBundlesComplier.cs using Guid(9465c89dd0867334ea7e54a0df37ddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2755de2b5ab4b5edbb038bbd5bfb7ddb') in 0.022960 seconds 
+  Import took 0.027403 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.805 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 325.2 MB.
+System memory in use after: 325.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 8.588167 ms (FindLiveObjects: 0.797625 ms CreateObjectMapping: 0.079917 ms MarkObjects: 7.660042 ms  DeleteObjects: 0.048667 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 61.651007 seconds.
+  path: Assets/Scripts/AssetBundles/Editor/AssetsBundlesComplier.cs
+  artifactKey: Guid(9465c89dd0867334ea7e54a0df37ddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AssetBundles/Editor/AssetsBundlesComplier.cs using Guid(9465c89dd0867334ea7e54a0df37ddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20a925c3b161646c4d70f21a89c2a06') in 0.014320 seconds 
+  Import took 0.019111 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 289.2 MB.
+System memory in use after: 289.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 6.017042 ms (FindLiveObjects: 0.359334 ms CreateObjectMapping: 0.042541 ms MarkObjects: 5.559709 ms  DeleteObjects: 0.054708 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 289.4 MB.
+System memory in use after: 289.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 15.429209 ms (FindLiveObjects: 0.405750 ms CreateObjectMapping: 0.042000 ms MarkObjects: 14.929458 ms  DeleteObjects: 0.051167 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 317.974160 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio
+  artifactKey: Guid(f6203e6ad98cab7409d3b13cb3d7d31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio using Guid(f6203e6ad98cab7409d3b13cb3d7d31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229149a909260c53ddbcc5e2d7fbc299') in 0.012291 seconds 
+  Import took 0.286715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.222553 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En Andamio Comienzo.fbx
+  artifactKey: Guid(175c6f5ca17c8054c9f1d20d5af9a819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En Andamio Comienzo.fbx using Guid(175c6f5ca17c8054c9f1d20d5af9a819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407dd8dc4fc066e945f60876efb63635') in 1.819619 seconds 
+  Import took 1.840421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.858548 seconds.
+  path: Assets/Models/Andamios/Tipos
+  artifactKey: Guid(4c93271b92d67134292968e5408ef615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos using Guid(4c93271b92d67134292968e5408ef615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d0e60b51c1b28f86c492981821ad7c') in 0.002622 seconds 
+  Import took 0.014729 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 295.0 MB.
+System memory in use after: 295.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2704.
+Total: 44.848542 ms (FindLiveObjects: 0.741292 ms CreateObjectMapping: 0.044875 ms MarkObjects: 44.013000 ms  DeleteObjects: 0.048625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 94.871243 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En Andamio Comienzo.fbx
+  artifactKey: Guid(175c6f5ca17c8054c9f1d20d5af9a819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En Andamio Comienzo.fbx using Guid(175c6f5ca17c8054c9f1d20d5af9a819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5ce101e855722d23447cd5ed566933') in 0.245012 seconds 
+  Import took 0.259080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 497.490673 seconds.
+  path: Assets/Models/Andamios/Tipos/Andamio anclado/Andamio_Anclado.fbx
+  artifactKey: Guid(a44eea158992cfb49add66e4dc9310a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Andamio anclado/Andamio_Anclado.fbx using Guid(a44eea158992cfb49add66e4dc9310a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb1c678f2903a233aafaab299a052ac') in 0.404840 seconds 
+  Import took 0.435324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 384.216532 seconds.
+  path: Assets/Models/Andamios/Estandares/personaje Parado
+  artifactKey: Guid(170cd89241e1b3f4d904c5b4bccdd0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Estandares/personaje Parado using Guid(170cd89241e1b3f4d904c5b4bccdd0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d12ad89bf110ed87551d0c2950f219') in 0.014145 seconds 
+  Import took 0.047787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.498694 seconds.
+  path: Assets/Models/Andamios/Estandares/Panel Electricidad
+  artifactKey: Guid(d7c3d287be8e71e4990db468077a4b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Estandares/Panel Electricidad using Guid(d7c3d287be8e71e4990db468077a4b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d6fc8f6254e38019176c999091c4d9') in 0.002163 seconds 
+  Import took 0.005805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.430799 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Ducto.prefab
+  artifactKey: Guid(61fce0e0abe734857bab2995ac89d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Ducto.prefab using Guid(61fce0e0abe734857bab2995ac89d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5823aa7d6493d326f57bf84a74757a') in 0.568008 seconds 
+  Import took 0.584912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 649.443890 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_inspecciones.prefab
+  artifactKey: Guid(aab0f121aefc142058babe2c5dddb8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_inspecciones.prefab using Guid(aab0f121aefc142058babe2c5dddb8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9519d16f81e7c04caec9fda3ceb74b') in 0.174727 seconds 
+  Import took 0.215641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.089271 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_Andamio_Comienzo.prefab
+  artifactKey: Guid(a7710f1de567847d0aefc3ffb7ca1409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_Andamio_Comienzo.prefab using Guid(a7710f1de567847d0aefc3ffb7ca1409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfee337d1f2a781ae4b3686bb84a8412') in 0.127153 seconds 
+  Import took 0.142373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.799723 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Electrico.prefab
+  artifactKey: Guid(caca46af7ccfb4f37b757beb1c46d172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Electrico.prefab using Guid(caca46af7ccfb4f37b757beb1c46d172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a887a22bdfa817079dc96adadb0967') in 0.183844 seconds 
+  Import took 0.194865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.468094 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Materiales.prefab
+  artifactKey: Guid(bb106cceb0e3642c78826b3fe2d0a1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Materiales.prefab using Guid(bb106cceb0e3642c78826b3fe2d0a1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e843ea6fa0331f414cfa412c39fa2fa') in 0.037178 seconds 
+  Import took 0.041609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.400612 seconds.
+  path: Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Montaje.prefab
+  artifactKey: Guid(40f4232bf67a74db08be61039653229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Montaje.prefab using Guid(40f4232bf67a74db08be61039653229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d05c9184d7caa9c886342742898b93d') in 0.421431 seconds 
+  Import took 0.425760 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.194 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 330.8 MB.
+System memory in use after: 331.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2708.
+Total: 10.535750 ms (FindLiveObjects: 0.277791 ms CreateObjectMapping: 0.086625 ms MarkObjects: 9.779834 ms  DeleteObjects: 0.390584 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015567 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.875 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 331.0 MB.
+System memory in use after: 331.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2712.
+Total: 5.521000 ms (FindLiveObjects: 0.725125 ms CreateObjectMapping: 0.092458 ms MarkObjects: 4.676250 ms  DeleteObjects: 0.026375 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002816 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.211 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 331.2 MB.
+System memory in use after: 331.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2716.
+Total: 4.342167 ms (FindLiveObjects: 0.282542 ms CreateObjectMapping: 0.073833 ms MarkObjects: 3.954916 ms  DeleteObjects: 0.030083 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 405.672504 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje en andamio.controller
+  artifactKey: Guid(986392ce2e3024b43b02d1660faad854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje en andamio.controller using Guid(986392ce2e3024b43b02d1660faad854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27c687bc886408db93beec5852e06db') in 0.937440 seconds 
+  Import took 0.959363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.037105 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Cabeza.png
+  artifactKey: Guid(a25fbcbb185e2dd468d29bbc5b308241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Cabeza.png using Guid(a25fbcbb185e2dd468d29bbc5b308241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd812384b8abbc85587689ccaf0324cca') in 0.979080 seconds 
+  Import took 0.991988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060849 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Uniforme.png
+  artifactKey: Guid(842dad648ba946646ba533d86dd6f806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Uniforme.png using Guid(842dad648ba946646ba533d86dd6f806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5585845a2fcbe3809e875ee41ca1e1e') in 0.014307 seconds 
+  Import took 0.017129 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 304.2 MB.
+System memory in use after: 304.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2718.
+Total: 7.385833 ms (FindLiveObjects: 0.393500 ms CreateObjectMapping: 0.044208 ms MarkObjects: 6.910292 ms  DeleteObjects: 0.036875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 212.356064 seconds.
+  path: Assets/StreamingAssets/mutual_bundles.1.manifest
+  artifactKey: Guid(aeb1f099c053245d789010bd98383981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/mutual_bundles.1.manifest using Guid(aeb1f099c053245d789010bd98383981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d24a3718f7ab37241fa5bcc3fe623c') in 0.032175 seconds 
+  Import took 0.058424 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.509 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 341.6 MB.
+System memory in use after: 341.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2722.
+Total: 4.953417 ms (FindLiveObjects: 1.066458 ms CreateObjectMapping: 0.088208 ms MarkObjects: 3.466625 ms  DeleteObjects: 0.331292 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
