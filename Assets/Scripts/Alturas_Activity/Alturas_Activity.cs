@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Alturas_Activity : MonoBehaviour
 {
-    public ARSoundsController soundsController;
+    
 
     public TextListScriptable goodAnswerScriptable, badAnswerScriptable;
 
@@ -21,6 +21,7 @@ public class Alturas_Activity : MonoBehaviour
 
     public void SelectEscalera()
     {
+        var soundsController = FindObjectOfType<ARSoundsController>();
         //AudioSource.PlayOneShot(correctAnswer);
         soundsController.PlayAuidoClip(goodAnswerScriptable);
         playerContainer.localPosition = posEscalera;
@@ -30,6 +31,7 @@ public class Alturas_Activity : MonoBehaviour
 
     public void SelectSilla()
     {
+        var soundsController = FindObjectOfType<ARSoundsController>();
         //AudioSource.PlayOneShot(badAnswer);
         soundsController.PlayAuidoClip(badAnswerScriptable);
         chairAnimator.SetTrigger("anim");

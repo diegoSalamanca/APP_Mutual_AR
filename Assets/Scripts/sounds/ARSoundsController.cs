@@ -87,12 +87,12 @@ public class ARSoundsController : MonoBehaviour
 
         if (index == 0 && !secondaryActivity)
         {
-            var message = Instantiate(Resources.Load("Prefabs/MessagePanel"), FindObjectOfType<Canvas>().transform) as GameObject;
+            var message = Instantiate(Resources.Load("Prefabs/MessagePanel"), FindObjectOfType<MainCanvas>().transform) as GameObject;
             message.GetComponent<MessagePanel>().SetMessage(ButtonsMessage);
         }
         else if (secondaryActivity)
         {
-            var activity = Instantiate(Resources.Load("Prefabs/Actividad_trabajo_alturas_Accientes"), FindObjectOfType<Canvas>().transform) as GameObject;
+            var activity = Instantiate(Resources.Load("Prefabs/Actividad_trabajo_alturas_Accientes"), FindObjectOfType<MainCanvas>().transform) as GameObject;
             
         }
         

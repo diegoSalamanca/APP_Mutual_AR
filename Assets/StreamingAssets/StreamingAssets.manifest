@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3840658299
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mutual_bundles
+      Dependencies: {}

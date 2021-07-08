@@ -13,7 +13,29 @@ public class AssetsBundlesComplier
         {
             Directory.CreateDirectory(assetBundleDirectory);
         }
-        BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+
+        AssetBundleManifest assetMf = BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+
+
+        //save hash
+
+        
+      
+
+        Hash128 hash128 = assetMf.GetAssetBundleHash("AssetBundles");
+
+        string data = hash128.ToString();
+        string path = "Assets/Resources/AssetInfo/AssetBundleInfo.txt";
+
+        //Save the Hash128 to the Resources folder
+        using (FileStream fileStream = new FileStream(path, FileMode.Create))
+        {
+            using (StreamWriter writer = new StreamWriter(fileStream))
+            {
+                writer.Write(data);
+            }
+        }
+        UnityEditor.AssetDatabase.Refresh();
     }
 
 }

@@ -1,0 +1,148 @@
+ManifestFileVersion: 0
+CRC: 1870385713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fee1f6604d70335a9b2720cfb1cf109
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18020a74e25d469c07e0e29ff2553e9e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7db132499eb5e4816a7903a2245e208e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68f830d23fdf2440598028b3e38f348e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec41122b502e54742be843f956a50fa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f7f1bc5d5be74d42ae3a7bb3050042f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Humans/Black_Human/Walk-human.controller
+- Assets/Resources/Animations/Controllers/Procedimiento_anim_controller.controller
+- Assets/Resources/Prefabs/Actividad_trabajo_alturas_Accientes.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_canalizadores.prefab
+- Assets/Models/Andamios/Estandares/personaje Parado/Personaje parado andamio.fbx
+- Assets/Resources/Animations/Clips/EnpasisAlphaAnimation.anim
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_sobrecarga.prefab
+- Assets/Resources/Animations/Controllers/Riesgo_Montaje_Controller.controller
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_operario.prefab
+- Assets/Resources/Animations/Controllers/inspecciones.controller
+- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Electrico.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_inspecciones.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_recomendaciones.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_peaton.prefab
+- Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje en
+  andamio.controller
+- Assets/AssetBundles/Andamios/bundle_Andamio_Movil.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_senales.prefab
+- Assets/Resources/Prefabs/MessagePanel.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_induccion.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamio_Comienzo.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamio_Anclado.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_trabajo_alturas_riesgos_viales.prefab
+- Assets/Resources/Animations/Clips/Procedimiento_anim.anim
+- Assets/Resources/Animations/Clips/Black-human-move.anim
+- Assets/Models/Humans/Black_Human/Black_Human.fbx
+- Assets/Resources/Animations/Controllers/EnphasisiContoller.controller
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_mecanismos.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_intro.prefab
+- Assets/Resources/Animations/Clips/RiesgoMontajeAnim.anim
+- Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_personal.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamio_Apoyo_Simple.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_bandereros.prefab
+- Assets/Resources/Animations/Clips/Estandares-partes.anim
+- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Ducto.prefab
+- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Climatico.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_alturas_seguridad.prefab
+- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Materiales.prefab
+- Assets/Resources/Animations/Controllers/HumanParent.controller
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_obrero.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamio_Colgante.prefab
+- Assets/Resources/Animations/Controllers/partes.controller
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_intro.prefab
+- "Assets/Models/Riesgos_viales/Emplazamiento/Se\xF1ales-emplazamiento/Se\xF1ales-emplazamiento-anim-controller.controller"
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_conductor.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_soporte.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_mantenimiento.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_intro.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_peaton.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_procedimiento.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_objetos.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_senalizacion.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_partes.prefab
+- Assets/Resources/Animations/Clips/Estandares-inspecciones.anim
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamio_Voladizo.prefab
+- Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En
+  Andamio Comienzo.fbx
+- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Montaje.prefab
+Dependencies: []
