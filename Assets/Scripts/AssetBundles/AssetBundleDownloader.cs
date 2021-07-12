@@ -21,9 +21,19 @@ public class AssetBundleDownloader : MonoBehaviour
 
     string hash;
 
+
+
     private void Start()
-    {        
+    {       
+
+#if UNITY_IOS
+
+        urlServer = urlServer + "ios/";
+
+#endif
+
         ValidateVersion();
+
     }
 
 
