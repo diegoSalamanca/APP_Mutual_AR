@@ -2289,3 +2289,19 @@ Received Import Request.
 Start importing Assets/Models/Extintor/Extintor de Dioxido de Carbono/Textura Extintor Dioxido de Carbono.png using Guid(487f09a01f31943129b6db1ef6559ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bec14e5d6853ea0cae8b32e7f928535') in 0.082038 seconds 
   Import took 0.144559 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 291.337907 seconds.
+  path: Assets/Textures/Capsula Cortadora de carnes/Menú 
+  artifactKey: Guid(c0b955119964547ebbe40cb1d47c48cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Capsula Cortadora de carnes/Menú  using Guid(c0b955119964547ebbe40cb1d47c48cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602b93d298c0ad4e03b0e40f94dce52b') in 0.003385 seconds 
+  Import took 0.016176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.198542 seconds.
+  path: Assets/Textures/Capsula Cortadora de carnes/Menu
+  artifactKey: Guid(c0b955119964547ebbe40cb1d47c48cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Capsula Cortadora de carnes/Menu using Guid(c0b955119964547ebbe40cb1d47c48cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0839a2ad96e94d95dd16788a82dff497') in 0.001105 seconds 
+  Import took 0.004975 seconds .
+
