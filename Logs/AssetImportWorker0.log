@@ -1845,3 +1845,447 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006684 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.387 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1854 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 309.9 MB.
+System memory in use after: 310.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2541.
+Total: 1.500958 ms (FindLiveObjects: 0.153167 ms CreateObjectMapping: 0.037708 ms MarkObjects: 1.285875 ms  DeleteObjects: 0.023542 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2317.661326 seconds.
+  path: Assets/Textures/Capsula Desfibriladores
+  artifactKey: Guid(2630bc33a43b94fb6b5117659f0f1e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Capsula Desfibriladores using Guid(2630bc33a43b94fb6b5117659f0f1e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8df0d0b0fd44fa37d6c59aed1028f20') in 0.018929 seconds 
+  Import took 0.035731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1255.038238 seconds.
+  path: Assets/Textures/1x
+  artifactKey: Guid(d06a698987f51c3428221ba3665db2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/1x using Guid(d06a698987f51c3428221ba3665db2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c9c0683ed31f6da47e5b4d9ea0b776') in 0.003877 seconds 
+  Import took 0.015929 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005115 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.368 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1854 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 310.2 MB.
+System memory in use after: 310.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2545.
+Total: 1.483709 ms (FindLiveObjects: 0.152291 ms CreateObjectMapping: 0.038333 ms MarkObjects: 1.269958 ms  DeleteObjects: 0.022208 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 440.216226 seconds.
+  path: Assets/Scripts/ExtintoresActivity.cs
+  artifactKey: Guid(76ce2e778bc0741228ace79774008bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ExtintoresActivity.cs using Guid(76ce2e778bc0741228ace79774008bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2398c7d33f2b4ae7d91ddffed84d609') in 0.753390 seconds 
+  Import took 0.773586 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.469 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 314.7 MB.
+System memory in use after: 314.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2550.
+Total: 1.549792 ms (FindLiveObjects: 0.161667 ms CreateObjectMapping: 0.041416 ms MarkObjects: 1.324792 ms  DeleteObjects: 0.021084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 26.691095 seconds.
+  path: Assets/Scripts/extintoresActivity
+  artifactKey: Guid(bc8d7f7fa6f2b4e83ab578cf695ce728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/extintoresActivity using Guid(bc8d7f7fa6f2b4e83ab578cf695ce728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85fbca53a1988c16763d9f5010faa3a') in 0.006792 seconds 
+  Import took 0.011123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040091 seconds.
+  path: Assets/Scripts/extintoresActivity
+  artifactKey: Guid(bc8d7f7fa6f2b4e83ab578cf695ce728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/extintoresActivity using Guid(bc8d7f7fa6f2b4e83ab578cf695ce728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85fbca53a1988c16763d9f5010faa3a') in 0.001012 seconds 
+  Import took 0.003750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003166 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.513 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 314.9 MB.
+System memory in use after: 315.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2554.
+Total: 1.838625 ms (FindLiveObjects: 0.285583 ms CreateObjectMapping: 0.044917 ms MarkObjects: 1.474542 ms  DeleteObjects: 0.032750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 900.972241 seconds.
+  path: Assets/Models/Extintor old/seguro-extintor
+  artifactKey: Guid(be4847498e8dc0144b0906ad878e8cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor old/seguro-extintor using Guid(be4847498e8dc0144b0906ad878e8cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cded533221cb8fd13678937c15b9eef') in 0.020905 seconds 
+  Import took 0.039296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.861700 seconds.
+  path: Assets/Models/Extintor old/extintor_manguera_sola.fbx
+  artifactKey: Guid(4d35d86f074fe7549bf73621ae1bfa97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor old/extintor_manguera_sola.fbx using Guid(4d35d86f074fe7549bf73621ae1bfa97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccf45ffe65a10e9fd5394ee061e915dd') in 0.347685 seconds 
+  Import took 0.351571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164891 seconds.
+  path: Assets/Models/Extintor old/extintor_manguera_recta_sola.fbx
+  artifactKey: Guid(9c76c5e372077fd4bb9e6e2f757376ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor old/extintor_manguera_recta_sola.fbx using Guid(9c76c5e372077fd4bb9e6e2f757376ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448ca8573fe8a3ed0734c8a626b18fdf') in 0.026445 seconds 
+  Import took 0.030407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.458621 seconds.
+  path: Assets/Models/Extintor old/extintor_gatillo.fbx
+  artifactKey: Guid(978fd6bf3610332499d2d938fb382ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor old/extintor_gatillo.fbx using Guid(978fd6bf3610332499d2d938fb382ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ff3ab73568f5cc877ae6176a8427c1') in 0.025630 seconds 
+  Import took 0.030020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.439599 seconds.
+  path: Assets/Models/Extintor old/extintor_cifon.fbx
+  artifactKey: Guid(11143ca1a70864940aa429ae32ce15f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor old/extintor_cifon.fbx using Guid(11143ca1a70864940aa429ae32ce15f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913d817eb4f91dbd123240c77430dd1d') in 0.026277 seconds 
+  Import took 0.031027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.813832 seconds.
+  path: Assets/Models/Extintor/Extintor Polvo Quimico Seco
+  artifactKey: Guid(11f6d5c4819ec470888c731c517e36f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor Polvo Quimico Seco using Guid(11f6d5c4819ec470888c731c517e36f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0e462adde6c9ddb0cc4e4c59547598') in 0.002553 seconds 
+  Import took 0.019422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.625090 seconds.
+  path: Assets/Models/Extintor/Extintor de Agua Presurizada
+  artifactKey: Guid(f723654f456c44d56b3c217260e7a8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor de Agua Presurizada using Guid(f723654f456c44d56b3c217260e7a8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4f0c7fe69198f7baae0cf3c03947f5') in 0.001550 seconds 
+  Import took 0.008999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.970978 seconds.
+  path: Assets/Models/Extintor/Extintor de Dioxido de Carbono/Modelado Extintor Dioxido de carbono.fbx
+  artifactKey: Guid(0704e09843c1a4c4cb127af4fe1fcd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor de Dioxido de Carbono/Modelado Extintor Dioxido de carbono.fbx using Guid(0704e09843c1a4c4cb127af4fe1fcd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef30e73807fd68e65d0d9cbede4575d6') in 0.154502 seconds 
+  Import took 0.158879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.501434 seconds.
+  path: Assets/Models/Extintor/Extintor de Dioxido de Carbono/Sello Animado.fbx
+  artifactKey: Guid(8d0a3739e2aa445cc8e6c68b2c1dc283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor de Dioxido de Carbono/Sello Animado.fbx using Guid(8d0a3739e2aa445cc8e6c68b2c1dc283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b8a9014ee4ed9ab75e801f70c51357') in 0.126062 seconds 
+  Import took 0.160923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.698732 seconds.
+  path: Assets/Models/Extintor/Extintor de Dioxido de Carbono/Modelado Extintor Dioxido de carbono.fbx
+  artifactKey: Guid(0704e09843c1a4c4cb127af4fe1fcd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor de Dioxido de Carbono/Modelado Extintor Dioxido de carbono.fbx using Guid(0704e09843c1a4c4cb127af4fe1fcd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e95e80108049f1f4aa3a64a2377c0f') in 0.140309 seconds 
+  Import took 0.160139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.952762 seconds.
+  path: Assets/Models/Extintor/Extintor Polvo Quimico Seco/Extintor Polvo Quimico Seco.fbx
+  artifactKey: Guid(0f69368b159574ca68c59ed056e74961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor Polvo Quimico Seco/Extintor Polvo Quimico Seco.fbx using Guid(0f69368b159574ca68c59ed056e74961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551947a2951df6d768814bc4fb1fe75e') in 0.139317 seconds 
+  Import took 0.150140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.230386 seconds.
+  path: Assets/Models/Extintor/Extintor Polvo Quimico Seco/Extintor Polvo Quimico Seco.fbx
+  artifactKey: Guid(0f69368b159574ca68c59ed056e74961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor Polvo Quimico Seco/Extintor Polvo Quimico Seco.fbx using Guid(0f69368b159574ca68c59ed056e74961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578c6c8f7f7d9574fa671d3e3c81b062') in 0.106658 seconds 
+  Import took 0.110414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.682106 seconds.
+  path: Assets/Models/Extintor/Extintor Polvo Quimico Seco/Argolla Animada.fbx
+  artifactKey: Guid(5987fd27956324305afc7a8c4c7171bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor Polvo Quimico Seco/Argolla Animada.fbx using Guid(5987fd27956324305afc7a8c4c7171bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ef80983131095a32b88653af57742cf') in 0.054458 seconds 
+  Import took 0.066876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1925.283320 seconds.
+  path: Assets/Scriptables/Extintores/Partes/extintores-componentes-cilindro.asset
+  artifactKey: Guid(d9baeffc2c38e40e8bdc908a67903bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scriptables/Extintores/Partes/extintores-componentes-cilindro.asset using Guid(d9baeffc2c38e40e8bdc908a67903bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e912330404de4db39808702c46e6238') in 0.165767 seconds 
+  Import took 0.245973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 499.768188 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Extintor Dioxido de carbono.fbx
+  artifactKey: Guid(b0c2407b3f5dd483583fca0c474b7e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Extintor Dioxido de carbono.fbx using Guid(b0c2407b3f5dd483583fca0c474b7e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8236352daf475894d30f908d7fd1656') in 0.759007 seconds 
+  Import took 0.776150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.259808 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Extintor_polvo seco final.fbx
+  artifactKey: Guid(5e343184a7bb94b0f9efaf40befdcc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Extintor_polvo seco final.fbx using Guid(5e343184a7bb94b0f9efaf40befdcc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa16362c3387b990e2eec39f8c1c619') in 0.086776 seconds 
+  Import took 0.094168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.454839 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera/madera render.fbx
+  artifactKey: Guid(6a00a9d755412446faddf0a3d068be84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera/madera render.fbx using Guid(6a00a9d755412446faddf0a3d068be84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be41fa38b5e053a6271fa431a6b98b09') in 0.058736 seconds 
+  Import took 0.063242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.694787 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera/Material_Base_Color.png
+  artifactKey: Guid(09950b2d6f5d04b1cafd156c916f99c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera/Material_Base_Color.png using Guid(09950b2d6f5d04b1cafd156c916f99c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970d8c76a755928274bb423e2484511f') in 0.106147 seconds 
+  Import took 0.111998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.286980 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera
+  artifactKey: Guid(7f4c42f613be246dd95d582435ee3940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera using Guid(7f4c42f613be246dd95d582435ee3940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df06e7bead48e5dd20ffb1224383c85') in 0.006007 seconds 
+  Import took 0.018970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001150 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera
+  artifactKey: Guid(7f4c42f613be246dd95d582435ee3940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera using Guid(7f4c42f613be246dd95d582435ee3940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df06e7bead48e5dd20ffb1224383c85') in 0.000775 seconds 
+  Import took 0.004446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.094002 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco
+  artifactKey: Guid(c3eab638b25de4483bdb27680e692a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco using Guid(c3eab638b25de4483bdb27680e692a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f7b5d65e57ad3b697df704049f2b2d') in 0.003099 seconds 
+  Import took 0.008355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.953616 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Textura Extintor Dioxido de carbono.png
+  artifactKey: Guid(bd6cfad5a7f80438b830296042746ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Textura Extintor Dioxido de carbono.png using Guid(bd6cfad5a7f80438b830296042746ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f294d2acb14cc2a28ace11673a6ae735') in 0.022635 seconds 
+  Import took 0.026918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Textura Extintor Dioxido de carbono.png
+  artifactKey: Guid(bd6cfad5a7f80438b830296042746ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Textura Extintor Dioxido de carbono.png using Guid(bd6cfad5a7f80438b830296042746ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f294d2acb14cc2a28ace11673a6ae735') in 0.005849 seconds 
+  Import took 0.009381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.622226 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Microondas
+  artifactKey: Guid(de13b173395e24c34b39f791d314f558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono/Microondas using Guid(de13b173395e24c34b39f791d314f558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ebce8e1227bd5c350ad3876b1753aa') in 0.004907 seconds 
+  Import took 0.010046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.505336 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada
+  artifactKey: Guid(02acf93f907eb4b96bca198ee7d336ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada using Guid(02acf93f907eb4b96bca198ee7d336ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a8cec4a7a805284b08f363b17c3d2e') in 0.002311 seconds 
+  Import took 0.009449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.969123 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/Gasolina_final.fbx
+  artifactKey: Guid(d4361f05e9fbf47d88ca321d5cca918a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/Gasolina_final.fbx using Guid(d4361f05e9fbf47d88ca321d5cca918a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7fd3a7c3361345e6c3e6384aaa87fd') in 0.055496 seconds 
+  Import took 0.063598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.505321 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/Material.001_Base_Color.png
+  artifactKey: Guid(8b72b7a81f134416d9b4457536897351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/Material.001_Base_Color.png using Guid(8b72b7a81f134416d9b4457536897351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba2b8a1db49b68d3698f33b03b417c7') in 0.013488 seconds 
+  Import took 0.018265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.234352 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/Material.003_Base_Color (1).png
+  artifactKey: Guid(49a8da92686eb46a0942ab2428463e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/Material.003_Base_Color (1).png using Guid(49a8da92686eb46a0942ab2428463e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a33516105b0f8c955da5c150d8f54b1') in 0.029407 seconds 
+  Import took 0.042144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.533203 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/render.png
+  artifactKey: Guid(dd42e4f6482b14a169cf485055a6782e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina/render.png using Guid(dd42e4f6482b14a169cf485055a6782e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299f74a0b318db0c84440be601956d04') in 0.010854 seconds 
+  Import took 0.016314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.716576 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina
+  artifactKey: Guid(5ef06abea483d4b9c81681022fdbbd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Polvo Quimico Seco/Gasolina using Guid(5ef06abea483d4b9c81681022fdbbd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a01f326ee14cae1429996c6c565bc6') in 0.003089 seconds 
+  Import took 0.008444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.800155 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera/render madera.png
+  artifactKey: Guid(9f42a92dc1f5c45618475b9a099d20d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Extintor Agua Presurizada/Madera/render madera.png using Guid(9f42a92dc1f5c45618475b9a099d20d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f132f683187d9dc5a79e908d5a5b5b96') in 0.050559 seconds 
+  Import took 0.068531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3909.705469 seconds.
+  path: Assets/Models/Extintor/Extintor de Agua Presurizada/Argolla Animada.fbx
+  artifactKey: Guid(edd109e91ed624010b54998df6750e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor de Agua Presurizada/Argolla Animada.fbx using Guid(edd109e91ed624010b54998df6750e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de0307ef6e3cc870ef68463fdd07e13') in 0.110710 seconds 
+  Import took 0.124758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1891.684170 seconds.
+  path: Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono
+  artifactKey: Guid(cdd17d7279038416cbf0759b0848ecc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Como Extinguir un Fuego Incipiente/Animacion Extintor Dioxido de Carbono using Guid(cdd17d7279038416cbf0759b0848ecc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde08b9c6b8885e54e69dff08e1ff04d') in 0.002765 seconds 
+  Import took 0.024043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6924.821354 seconds.
+  path: Assets/Models/Extintor/Extintor de Dioxido de Carbono/Textura Extintor Dioxido de Carbono.png
+  artifactKey: Guid(487f09a01f31943129b6db1ef6559ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Extintor/Extintor de Dioxido de Carbono/Textura Extintor Dioxido de Carbono.png using Guid(487f09a01f31943129b6db1ef6559ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bec14e5d6853ea0cae8b32e7f928535') in 0.082038 seconds 
+  Import took 0.144559 seconds .
+
