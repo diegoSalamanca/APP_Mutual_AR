@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class ARSoundsController : MonoBehaviour
 {
-    public bool secondaryActivity;
+    public bool secondaryActivity, extintoresActivity;
+    
     AudioSource audioSource;
     public Slider slider;
     //public AudioClip[] audioClips;
@@ -19,11 +20,28 @@ public class ARSoundsController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
+    public void ExtintoresNextStep(int newIndex)
+    {
+        if (extintoresActivity)
+        {
+           
+            coroutine = StartCoroutine(SincronizeAudio(newIndex));
+        }
+    }
+
 
     public void PlayAuido(int index)
     {
         StopAllCoroutines();
-        coroutine = StartCoroutine(SincronizeAudio(index));
+        if (extintoresActivity)
+        {
+            coroutine = StartCoroutine(SincronizeAudio(0));
+        }
+        else
+        {
+            coroutine = StartCoroutine(SincronizeAudio(index));
+        }
+        
     }
 
     public void PlayAuidoClip(TextListScriptable textListScriptable)
@@ -82,10 +100,8 @@ public class ARSoundsController : MonoBehaviour
         }
         
 
-        
 
-
-        if (index == 0 && !secondaryActivity)
+        if (index == 0 && !secondaryActivity && !extintoresActivity)
         {
             var message = Instantiate(Resources.Load("Prefabs/MessagePanel"), FindObjectOfType<MainCanvas>().transform) as GameObject;
             message.GetComponent<MessagePanel>().SetMessage(ButtonsMessage);
@@ -94,8 +110,8 @@ public class ARSoundsController : MonoBehaviour
         {
             var activity = Instantiate(Resources.Load("Prefabs/Actividad_trabajo_alturas_Accientes"), FindObjectOfType<MainCanvas>().transform) as GameObject;
             
-        }
-        
+        }  
+
     }
 
     IEnumerator SincronizeAudio(TextListScriptable textListScriptable)
