@@ -11,18 +11,44 @@ public class ExtintoresActivity : MonoBehaviour
 
     int indexActivity = 0;
 
+    public int ExtintorType;
+
+    public int objectType;
+
     public GameObject[] UiControls;
 
     public Image buttonManillaImage;
 
     public Sprite[] spritesManilla;
 
+    public ParticleSystem quimicoExtintor, fuego;
+
+    public AudioSource audioFuego, audioExtintor;
+
+    public Animator animatorManguera, animatorArgolla, animatorSello;
+
+    public Texture[] extintoresTextures;
+    public GameObject[] objects;
+
+    public GameObject sello, argolla;
+
+
+    public Material extintorMaterial;
     
 
     Coroutine ManillaCorutine;
 
     private void OnEnable()
     {
+        foreach (var item in objects)
+        {
+            item.SetActive(false);
+        }
+
+        objects[objectType].SetActive(true);
+
+        extintorMaterial.mainTexture = extintoresTextures[ExtintorType];
+
         soundsController = FindObjectOfType<ARSoundsController>();
         indexActivity = 0;
         disableControls();
@@ -30,8 +56,17 @@ public class ExtintoresActivity : MonoBehaviour
 
         buttonManillaImage.sprite = spritesManilla[0];
 
-        
+        var part = fuego.main;
+        part.maxParticles = 10;
 
+        audioFuego.Play();
+
+        animatorManguera.SetTrigger("idle");
+        animatorArgolla.SetTrigger("idle");
+        animatorSello.SetTrigger("idle");
+
+        sello.SetActive(true);
+        argolla.SetActive(true);
     }
 
     void disableControls()
@@ -62,6 +97,8 @@ public class ExtintoresActivity : MonoBehaviour
         if (value > 0.9f)
         {
             NextStep();
+            animatorArgolla.SetTrigger("anim");
+            animatorSello.SetTrigger("anim");
         }
     }
 
@@ -70,6 +107,8 @@ public class ExtintoresActivity : MonoBehaviour
         if (value > 0.9f)
         {
             NextStep();
+            animatorManguera.SetTrigger("anim");
+            DisableSelloYArgolla();
         }
     }
 
@@ -77,6 +116,8 @@ public class ExtintoresActivity : MonoBehaviour
     {
         ManillaCorutine = StartCoroutine(ManillaPress());
         buttonManillaImage.sprite = spritesManilla[1];
+        audioExtintor.Play();
+        quimicoExtintor.Play();
     }
 
 
@@ -84,17 +125,38 @@ public class ExtintoresActivity : MonoBehaviour
     {
         StopCoroutine(ManillaCorutine);
         buttonManillaImage.sprite = spritesManilla[0];
+        audioExtintor.Stop();
+        quimicoExtintor.Stop();
     }
 
     IEnumerator ManillaPress()
     {
-
+        var part = fuego.main;
         for (int i = 0; i < 5; i++)
         {
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(1);            
+            part.maxParticles -= 2;
+            if (part.maxParticles == 0)
+            {
+                fireEnds();
+                yield break;
+            }
+                
         }
+        part.maxParticles = 0;
+    }
 
+    void fireEnds()
+    {
+        audioExtintor.Stop();
+        quimicoExtintor.Stop();
+        audioFuego.Stop();
         NextStep();
+    }
 
+    public void DisableSelloYArgolla()
+    {
+        sello.SetActive(false);
+        argolla.SetActive(false);
     }
 }
