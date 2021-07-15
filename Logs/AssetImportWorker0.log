@@ -1,622 +1,502 @@
 Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'es' Physical Memory: 32694 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MacOS/Unity
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
+C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58510
-Successfully changed project path to: /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
-/Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
+58379
+Successfully changed project path to: C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2
+C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 153.28 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 54.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2/Assets
 GfxDevice: creating device client; threaded=0
-2021-07-15 16:56:03.910 Unity[46535:2597280] (null) preferred device: Apple M1 (high power)
-2021-07-15 16:56:03.910 Unity[46535:2597280] Metal devices available: 1
-2021-07-15 16:56:03.910 Unity[46535:2597280] 0: Apple M1 (high power)
-2021-07-15 16:56:03.910 Unity[46535:2597280] Using device Apple M1 (high power)
-Initializing Metal device caps: Apple M1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5600 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     6104 MB
+    Driver:   27.20.14501.18003
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56535
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001724 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002213 seconds.
+Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 58.89 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 50.69 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.126 seconds
+- Completed reload, in  1.649 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003336 seconds.
+Registered in 0.003360 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.27 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 50.31 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.417 seconds
+- Completed reload, in  0.885 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1911 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 257.1 MB.
-System memory in use after: 257.2 MB.
+System memory in use before: 163.1 MB.
+System memory in use after: 163.2 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2363.
-Total: 3.131541 ms (FindLiveObjects: 0.395167 ms CreateObjectMapping: 0.038042 ms MarkObjects: 2.594417 ms  DeleteObjects: 0.102750 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 1.892000 ms (FindLiveObjects: 0.184100 ms CreateObjectMapping: 0.041200 ms MarkObjects: 1.590000 ms  DeleteObjects: 0.075700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/EffectExamples/Scenes
-  artifactKey: Guid(6e2175e19ead3b341ad1be4afbe9075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/Scenes using Guid(6e2175e19ead3b341ad1be4afbe9075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e641d702877a6375d6cd17b5e42457c6') in 0.008832 seconds 
-  Import took 0.013150 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/EffectExamples/Shared
-  artifactKey: Guid(d20707e94d6582c4bb82c70bda7918f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/Shared using Guid(d20707e94d6582c4bb82c70bda7918f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8042bff2ce50041a8e2010fe99a2516b') in 0.000630 seconds 
-  Import took 0.003565 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.364654 seconds.
-  path: Assets/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat
-  artifactKey: Guid(f06455b167e1b0b428c9af62d7aa6832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat using Guid(f06455b167e1b0b428c9af62d7aa6832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd450ed418306db6300e6f3af20089c62') in 1.325879 seconds 
-  Import took 1.332641 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.886696 seconds.
-  path: Assets/Textures/Ui_Assets_mesa1.png
-  artifactKey: Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Ui_Assets_mesa1.png using Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f084acde84520b6d7969363d2829f3f') in 0.720066 seconds 
-  Import took 0.729792 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.234832 seconds.
-  path: Assets/Textures/Ui_Assets_mesa1.png
-  artifactKey: Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Ui_Assets_mesa1.png using Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba9d35525beb0ac67301481b3872780') in 0.088554 seconds 
-  Import took 0.115021 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 34.188465 seconds.
-  path: Assets/Textures/trabajo alturas/1. Botón Seguridad en el trabajo en alturas.png
-  artifactKey: Guid(cedac5d99615d45628ccedbef56ee26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/trabajo alturas/1. Botón Seguridad en el trabajo en alturas.png using Guid(cedac5d99615d45628ccedbef56ee26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1ddd765e19a5384a249a1353ab99db') in 0.020910 seconds 
-  Import took 0.030123 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Textures/trabajo alturas/3. Botón Caida Libre.png
-  artifactKey: Guid(57787f75786334dfb86fa854538048f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/trabajo alturas/3. Botón Caida Libre.png using Guid(57787f75786334dfb86fa854538048f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0962be52767b6dca90b91f53346241bb') in 0.011281 seconds 
-  Import took 0.014344 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Textures/Riesgo Viales/2. Personas Expuestas a accidentes.png
-  artifactKey: Guid(a6e86b06084e1442f897c7d75bb7721f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Riesgo Viales/2. Personas Expuestas a accidentes.png using Guid(a6e86b06084e1442f897c7d75bb7721f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae18f2d4fac00647ba57e96964e99bf') in 0.009885 seconds 
-  Import took 0.013230 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Textures/trabajo alturas/1. Botón Seguridad en el trabajo en alturas.png
-  artifactKey: Guid(cedac5d99615d45628ccedbef56ee26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/trabajo alturas/1. Botón Seguridad en el trabajo en alturas.png using Guid(cedac5d99615d45628ccedbef56ee26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1ddd765e19a5384a249a1353ab99db') in 0.008523 seconds 
-  Import took 0.011632 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Banderero.png
-  artifactKey: Guid(fa67c0a7439eb7b40b55ad8ad2ebaaf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Banderero.png using Guid(fa67c0a7439eb7b40b55ad8ad2ebaaf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49b55abeddd2d0461af5936647d7331') in 0.020627 seconds 
-  Import took 0.023972 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Textures/Riesgo Viales/1. Riesgos Viales.png
-  artifactKey: Guid(e846c26bb93364286828d92684c90281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Riesgo Viales/1. Riesgos Viales.png using Guid(e846c26bb93364286828d92684c90281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12099a0db04e4678474ac4dbd6d8f1d0') in 0.008968 seconds 
-  Import took 0.012122 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Textures/layout Andamios/Alejar.png
-  artifactKey: Guid(1340162199628e7419338c4803ad7397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Alejar.png using Guid(1340162199628e7419338c4803ad7397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9edd119e849e70595f31e4dbc8ba83d') in 0.017392 seconds 
-  Import took 0.023247 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001380 seconds.
-  path: Assets/Textures/trabajo alturas/2. Botón Accidentes.png
-  artifactKey: Guid(2a167cd9f5fe04913b854150fcd6d165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/trabajo alturas/2. Botón Accidentes.png using Guid(2a167cd9f5fe04913b854150fcd6d165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb19b85ff54e9a0f71726e545ef62f4e') in 0.017996 seconds 
-  Import took 0.021636 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Textures/Riesgo Viales/3. Emplazamiento.png
-  artifactKey: Guid(16630cfefc67b4af7adb863bd4491226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Riesgo Viales/3. Emplazamiento.png using Guid(16630cfefc67b4af7adb863bd4491226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573ad60fa43ee493d4b5e2ba9e717f1c') in 0.009292 seconds 
-  Import took 0.012664 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.805357 seconds.
-  path: Assets/Textures/Layout 2_ Submenu/Botón Accidentes en Andamios.png
-  artifactKey: Guid(45df67f4a116472488ffb916f6e57c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 2_ Submenu/Botón Accidentes en Andamios.png using Guid(45df67f4a116472488ffb916f6e57c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4406e3d1220360debfe274a4b0fd07b') in 0.012552 seconds 
-  Import took 0.016601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Textures/Layout 2_ Submenu/Botón Estándares Normativos.png
-  artifactKey: Guid(a487c5b1c45ec474d9de17db052b211b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 2_ Submenu/Botón Estándares Normativos.png using Guid(a487c5b1c45ec474d9de17db052b211b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1557060145fdb74256568882b5f33ed2') in 0.009412 seconds 
-  Import took 0.012148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.067754 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Submenú/Clase A.png
-  artifactKey: Guid(4b7ce93ed8eaf48f79efa8aa31e5d7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Submenú/Clase A.png using Guid(4b7ce93ed8eaf48f79efa8aa31e5d7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02ebb28ee92402f58bd2bcb70a30ed5') in 0.015848 seconds 
-  Import took 0.023100 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Submenú/Clase B.png
-  artifactKey: Guid(4b0610fa8315a4c93a8c2be431a584d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Submenú/Clase B.png using Guid(4b0610fa8315a4c93a8c2be431a584d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a24ee110906900be69af7e19cecaba') in 0.010822 seconds 
-  Import took 0.013750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Submenú/Clase A.png
-  artifactKey: Guid(4b7ce93ed8eaf48f79efa8aa31e5d7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Submenú/Clase A.png using Guid(4b7ce93ed8eaf48f79efa8aa31e5d7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02ebb28ee92402f58bd2bcb70a30ed5') in 0.007890 seconds 
-  Import took 0.010985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.073706 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Submenú/Clase B.png
-  artifactKey: Guid(4b0610fa8315a4c93a8c2be431a584d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Submenú/Clase B.png using Guid(4b0610fa8315a4c93a8c2be431a584d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a24ee110906900be69af7e19cecaba') in 0.009520 seconds 
-  Import took 0.013146 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.218174 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Submenú/Clase C.png
-  artifactKey: Guid(08c2f2815292945e290b9115c1de4d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Submenú/Clase C.png using Guid(08c2f2815292945e290b9115c1de4d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117ba1066222f9ba8e6d32e8ac847d55') in 0.010224 seconds 
-  Import took 0.014087 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Componentes de un extintor.png
-  artifactKey: Guid(ac66d680d4d0e4e91b006a5518eb1e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Componentes de un extintor.png using Guid(ac66d680d4d0e4e91b006a5518eb1e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4f98c20368830b2d3ea868dc76ba25') in 0.008600 seconds 
-  Import took 0.011946 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.122042 seconds.
-  path: Assets/Textures/Capsula Cortadora de carnes/Menu/Cortadora de carne y huesos.png
-  artifactKey: Guid(391abc2e16dff452db6dedda92ddeda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Cortadora de carnes/Menu/Cortadora de carne y huesos.png using Guid(391abc2e16dff452db6dedda92ddeda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d299436ac768d9f485d77277bfd41e') in 0.011686 seconds 
-  Import took 0.015280 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Fin Trabajos en la vía.png
-  artifactKey: Guid(1d2ce32575f045f4c8944878827ac0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Fin Trabajos en la vía.png using Guid(1d2ce32575f045f4c8944878827ac0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f93939ff4bc812dfee92140d6252485') in 0.017956 seconds 
-  Import took 0.021053 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/EffectExamples/Misc Effects/Textures/DustMoteParticle.png
-  artifactKey: Guid(394e93ce356b57344903a08ff72fcab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/Misc Effects/Textures/DustMoteParticle.png using Guid(394e93ce356b57344903a08ff72fcab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53dfb7bc80ffe6db0260e9b99ae6f44') in 0.009255 seconds 
-  Import took 0.012472 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Textures/Capsula_SPDC/Menú/Elementos del sistema SPDC.png
-  artifactKey: Guid(6ac385df24f684698848e596b242c590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula_SPDC/Menú/Elementos del sistema SPDC.png using Guid(6ac385df24f684698848e596b242c590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddf3b5e63ac3d11041d45f2eff3f6a3') in 0.008601 seconds 
-  Import took 0.011505 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Textures/Capsula_SPDC/Menú/Espacio libre requerido para detener la caída.png
-  artifactKey: Guid(880f0d08c9dd84b45a63f2147a92a23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula_SPDC/Menú/Espacio libre requerido para detener la caída.png using Guid(880f0d08c9dd84b45a63f2147a92a23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a425eb1f5530d5e37295c234ca234e86') in 0.008696 seconds 
-  Import took 0.011294 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 4 - Parrafo 4.png
-  artifactKey: Guid(2090391602e4d154a9fc1ebf57c57c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 4 - Parrafo 4.png using Guid(2090391602e4d154a9fc1ebf57c57c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc13e6f007024e55ef4b2f1c5c9a878') in 0.009414 seconds 
-  Import took 0.012334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Textures/Layout 2_ Submenu/Logo Mutual de Seguridad.png
-  artifactKey: Guid(a3ed5a3107ef4b9468a4ef66e2396615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 2_ Submenu/Logo Mutual de Seguridad.png using Guid(a3ed5a3107ef4b9468a4ef66e2396615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8f019e32ee77087b28e4bb6791ddfa') in 0.009221 seconds 
-  Import took 0.012058 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/Textures/Capsula Cortadora de carnes/Menu/Moledora de carne.png
-  artifactKey: Guid(7751554e40dd64b6da78c556ddba3084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Cortadora de carnes/Menu/Moledora de carne.png using Guid(7751554e40dd64b6da78c556ddba3084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204833ab0c7f0aa0f9921157f4b2c468') in 0.015554 seconds 
-  Import took 0.019334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Textures/layout Andamios/Fondo.png
-  artifactKey: Guid(f16b8d6d8d01d9348ab6b3795de01e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Fondo.png using Guid(f16b8d6d8d01d9348ab6b3795de01e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e5ae6d4e5fc95b1ff2fc3914483b54') in 0.016565 seconds 
-  Import took 0.021004 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/Textures/Capsula Desfibriladores/Menú/Cómo utilizar el desfibrilador.png
-  artifactKey: Guid(15a31fbb2fe8a4c559728081e9567d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Desfibriladores/Menú/Cómo utilizar el desfibrilador.png using Guid(15a31fbb2fe8a4c559728081e9567d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d7c0d54743f3e8583695e6e8c37a6e') in 0.009472 seconds 
-  Import took 0.012856 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png
-  artifactKey: Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 1 - Parrafo 1.png using Guid(9cc271cf131df8640ba7006ac889305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd33a009648d2cc9984fd2865dff37e6') in 0.009334 seconds 
-  Import took 0.012676 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png
-  artifactKey: Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png using Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d26aa3ffe7f513608fef97770ae4d57') in 0.008860 seconds 
-  Import took 0.011410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Textures/layout Andamios/Mover.png
-  artifactKey: Guid(4570addfe1a2ba643a22bbeb20a039e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Mover.png using Guid(4570addfe1a2ba643a22bbeb20a039e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd226bc56979be3b3c7f8af12a3672215') in 0.008450 seconds 
-  Import took 0.011962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/Textures/Capsula_SPDC/Menú/Fundamentos de la guía SPDC.png
-  artifactKey: Guid(5b6f2b30676474c67976241a0cb9e466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula_SPDC/Menú/Fundamentos de la guía SPDC.png using Guid(5b6f2b30676474c67976241a0cb9e466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '211fee90271ca4017d82cadb14f138fd') in 0.009747 seconds 
-  Import took 0.012175 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Textures/Capsula Cortadora de carnes/Menu/Laminadora de fiambre.png
-  artifactKey: Guid(a9d1441c783454a218dcfefabcf2806b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Cortadora de carnes/Menu/Laminadora de fiambre.png using Guid(a9d1441c783454a218dcfefabcf2806b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84d819b210fcd60a637bcdcb9e637c7') in 0.008330 seconds 
-  Import took 0.011180 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Textures/layout Andamios/Lineas Cámara.png
-  artifactKey: Guid(bf92f2a2fbf04eb4dbaad626c9327d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Lineas Cámara.png using Guid(bf92f2a2fbf04eb4dbaad626c9327d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91153e0888776e5f1b0bbd47348fe1d') in 0.010540 seconds 
-  Import took 0.013682 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/Textures/Layout 1 _ Menu Principal/Logo Mutual de Seguridad.png
-  artifactKey: Guid(d8075c6cc37c09e46b613b00ca0faffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 1 _ Menu Principal/Logo Mutual de Seguridad.png using Guid(d8075c6cc37c09e46b613b00ca0faffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfebeadd23244f1a6adf1435f6cd683') in 0.008778 seconds 
-  Import took 0.011977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Plugins/iTween/Images/iTweenNews.png
-  artifactKey: Guid(70ae88ee4c1a745d0819de61ec68af19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/iTween/Images/iTweenNews.png using Guid(70ae88ee4c1a745d0819de61ec68af19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd05c92ecaf30e4c80ed35fe22f5910') in 0.023054 seconds 
-  Import took 0.025977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Textures/1x/Mutual_icons.png
-  artifactKey: Guid(c78a956fbddea5b40b22bc7b03ed44f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/1x/Mutual_icons.png using Guid(c78a956fbddea5b40b22bc7b03ed44f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560e2b725312e52af2210abf3fd1c566') in 0.028366 seconds 
-  Import took 0.031461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/Textures/Layout 1 _ Menu Principal/Pantalla Menú Composición.png
-  artifactKey: Guid(0d0461f27ac97484f87856e6ddb14b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 1 _ Menu Principal/Pantalla Menú Composición.png using Guid(0d0461f27ac97484f87856e6ddb14b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9dc145b34ee5d4f74fefb631e0b35c') in 0.033258 seconds 
-  Import took 0.036055 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Textures/layout Andamios/Girar Izquierda.png
-  artifactKey: Guid(414de027d0b0ce540a047f05dfed46b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Girar Izquierda.png using Guid(414de027d0b0ce540a047f05dfed46b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ef594e2d7f96498d00cf171ccc309f') in 0.008849 seconds 
-  Import took 0.011653 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Textures/layout Andamios/Girar Derecha.png
-  artifactKey: Guid(fbd6c2db36d37e04ab258da7e24d89dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Girar Derecha.png using Guid(fbd6c2db36d37e04ab258da7e24d89dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d83da6638251368b69d8047afbda15') in 0.007863 seconds 
-  Import took 0.011504 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png
-  artifactKey: Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png using Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7c310ca580bafe318f770a6cd89240') in 0.008849 seconds 
-  Import took 0.012452 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Textures/1x/Mutual_icons.png
-  artifactKey: Guid(c78a956fbddea5b40b22bc7b03ed44f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/1x/Mutual_icons.png using Guid(c78a956fbddea5b40b22bc7b03ed44f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560e2b725312e52af2210abf3fd1c566') in 0.027717 seconds 
-  Import took 0.031646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Textures/Capsula Extintores/Menú/Cómo Extinguir un fuego incipiente.png
-  artifactKey: Guid(3679b8e438f034a8d88745c06e774e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Capsula Extintores/Menú/Cómo Extinguir un fuego incipiente.png using Guid(3679b8e438f034a8d88745c06e774e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd130714e7a8acde684f78661d59010') in 0.009198 seconds 
-  Import took 0.011915 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png
-  artifactKey: Guid(af1f1b45fa6b5e64894c04ceb8a592f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png using Guid(af1f1b45fa6b5e64894c04ceb8a592f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb694283086a0f634346459e341288a') in 0.010324 seconds 
-  Import took 0.013197 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Textures/Layout 1 _ Menu Principal/Fondo Menú Principal.png
-  artifactKey: Guid(d7b9f94de747ce84cb0d43ca6f0501c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 1 _ Menu Principal/Fondo Menú Principal.png using Guid(d7b9f94de747ce84cb0d43ca6f0501c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd54f408ce1757a20f60d8353fd30c148') in 0.010090 seconds 
-  Import took 0.013327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Textures/layout Andamios/Slide Izquierda.png
-  artifactKey: Guid(745696092adfcc3428f06d0bde0020c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Slide Izquierda.png using Guid(745696092adfcc3428f06d0bde0020c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716e07d6b513c734c44295ec0fb8fb57') in 0.006868 seconds 
-  Import took 0.010120 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Textures/layout Andamios/Slider Derecha.png
-  artifactKey: Guid(dd5c7c2b2f8687a478b5e3151da48b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Slider Derecha.png using Guid(dd5c7c2b2f8687a478b5e3151da48b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0faa6a49e8e7fcb95d11e0f1f02d8e') in 0.006623 seconds 
-  Import took 0.009932 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.040312 seconds.
-  path: Assets/Textures/layout Andamios/Slider Derecha.png
-  artifactKey: Guid(dd5c7c2b2f8687a478b5e3151da48b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Slider Derecha.png using Guid(dd5c7c2b2f8687a478b5e3151da48b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0faa6a49e8e7fcb95d11e0f1f02d8e') in 0.006822 seconds 
-  Import took 0.010552 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png
-  artifactKey: Guid(1c1f5fdffb8c5a944a978e8debb8fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png using Guid(1c1f5fdffb8c5a944a978e8debb8fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1508fbd8ca4306c4bfcc7147659b9512') in 0.021452 seconds 
-  Import took 0.024103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.030924 seconds.
-  path: Assets/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png
-  artifactKey: Guid(1c1f5fdffb8c5a944a978e8debb8fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png using Guid(1c1f5fdffb8c5a944a978e8debb8fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1508fbd8ca4306c4bfcc7147659b9512') in 0.017648 seconds 
-  Import took 0.021429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002262 seconds.
-  path: Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheetwhite.png
-  artifactKey: Guid(e2e739ae67393d84bb70be5435a1b864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheetwhite.png using Guid(e2e739ae67393d84bb70be5435a1b864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48abef1e9a38153011e290c19026d755') in 0.024320 seconds 
-  Import took 0.027832 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/Textures/layout Andamios/Sonido Encendido.png
-  artifactKey: Guid(46fe1ba9e1d09a649807ec60337036b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Sonido Encendido.png using Guid(46fe1ba9e1d09a649807ec60337036b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e59ff03f1c55e3d6e21e90b502bb5d54') in 0.010299 seconds 
-  Import took 0.013902 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/EffectExamples/WeaponEffects/Textures/TinyStonesParticleSheet.png
-  artifactKey: Guid(ce97ed62c0a56e84ab25e22c8dfd5bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/WeaponEffects/Textures/TinyStonesParticleSheet.png using Guid(ce97ed62c0a56e84ab25e22c8dfd5bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9919e1dbcbb0330d997c9617234f2a1') in 0.019660 seconds 
-  Import took 0.023431 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Textures/Trabajo-Alturas.png
-  artifactKey: Guid(fa92defb17d484b8e8e99229b9ab3e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Trabajo-Alturas.png using Guid(fa92defb17d484b8e8e99229b9ab3e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962ab2ed4189287cfb95ce0624d7a288') in 0.013009 seconds 
-  Import took 0.015663 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Textures/layout Andamios/Sonido Apagado.png
-  artifactKey: Guid(8264313c94d4d5347b135b053e0e23d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Sonido Apagado.png using Guid(8264313c94d4d5347b135b053e0e23d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aff0eefd5bdf222a58711a4a072ea3b') in 0.008241 seconds 
-  Import took 0.011281 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png
-  artifactKey: Guid(d3c9883e2f0eef44f9241b6f8428f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png using Guid(d3c9883e2f0eef44f9241b6f8428f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d2fe7176ae4ad37a6f9545188ced7b') in 0.017445 seconds 
-  Import took 0.020488 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Trabajos en la vía.png
-  artifactKey: Guid(e2dd59a0e25fddf4fb1ac2ca8b5802a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Trabajos en la vía.png using Guid(e2dd59a0e25fddf4fb1ac2ca8b5802a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b635332df7f573a48b86115ff1b7cf') in 0.016757 seconds 
-  Import took 0.021399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Tránsito de maquinaria.png
-  artifactKey: Guid(518c41c7ae6c8a54b9aceab08832c32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Señales-emplazamiento/Tránsito de maquinaria.png using Guid(518c41c7ae6c8a54b9aceab08832c32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8563836c7a819dd156b1e74d9e724bd') in 0.012275 seconds 
-  Import took 0.015331 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007099 seconds.
-  path: Assets/EffectExamples/Shared/Sprites/UnityLogoSprite.tif
-  artifactKey: Guid(cafbb0229cd09a44a929ded63df426cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/Shared/Sprites/UnityLogoSprite.tif using Guid(cafbb0229cd09a44a929ded63df426cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c476d4561a8f97392c4c6bdb6bc6182c') in 0.481885 seconds 
-  Import took 0.485124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Textures/layout Andamios/Zoom.png
-  artifactKey: Guid(2130873d35566094081979ff0135de67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/layout Andamios/Zoom.png using Guid(2130873d35566094081979ff0135de67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8cbff60747008824a6cbd97919e0b2') in 0.007959 seconds 
-  Import took 0.010784 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 67.155116 seconds.
-  path: Assets/Resources/Animations/Clips/handIndicatorAnimController.controller
-  artifactKey: Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/handIndicatorAnimController.controller using Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a796bec413e1ee7fe988901aa4b365') in 0.342446 seconds 
-  Import took 0.376598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Resources/Animations/Clips/Estandares-partes.anim
-  artifactKey: Guid(3c44e8205900a754a95a06de8622a0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/Estandares-partes.anim using Guid(3c44e8205900a754a95a06de8622a0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80bf9d6cc146f4d10cc00d9a4eab9581') in 0.080711 seconds 
-  Import took 0.084081 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.585648 seconds.
   path: Assets/Resources/Animations/Controllers/handIndicatorAnimController.controller
   artifactKey: Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Controllers/handIndicatorAnimController.controller using Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717c08ccdef2d1a6c07067820e058db2') in 0.002915 seconds 
-  Import took 0.007596 seconds .
+Start importing Assets/Resources/Animations/Controllers/handIndicatorAnimController.controller using Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea79830c95caa5a0667f0b6b3de11a3') in 0.032866 seconds 
+  Import took 0.035964 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 35.248722 seconds.
+  Time since last request: 36.717598 seconds.
   path: Assets/Resources/Animations/Clips/HandIndicatorAnimController.anim
   artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/HandIndicatorAnimController.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851af0fd3a46fea1d4288032266f4935') in 0.023011 seconds 
-  Import took 0.063103 seconds .
+Start importing Assets/Resources/Animations/Clips/HandIndicatorAnimController.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5bd68d514e19f98546f40c7c7a7941') in 0.007622 seconds 
+  Import took 0.012419 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 4.162267 seconds.
+  path: Assets/Resources/Animations/Clips/HandIndicatorAnim.anim
+  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Clips/HandIndicatorAnim.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4425fedf36ab8827598fc7a60441f75c') in 0.006764 seconds 
+  Import took 0.010411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.964932 seconds.
+  path: Assets/Resources/Animations/Clips/HandIndicatorAnim.anim
+  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Clips/HandIndicatorAnim.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237aa9cb9ca3779c06279bf22f7a9037') in 0.002821 seconds 
+  Import took 0.005767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002435 seconds.
+  path: Assets/Resources/Animations/Clips/HandIndicatorAnim.anim
+  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Clips/HandIndicatorAnim.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237aa9cb9ca3779c06279bf22f7a9037') in 0.002507 seconds 
+  Import took 0.005425 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003485 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.4 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 1.904500 ms (FindLiveObjects: 0.187200 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.654200 ms  DeleteObjects: 0.017100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.5 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 2.242200 ms (FindLiveObjects: 0.181900 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.994900 ms  DeleteObjects: 0.018900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.5 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2355.
+Total: 1.866800 ms (FindLiveObjects: 0.201200 ms CreateObjectMapping: 0.053600 ms MarkObjects: 1.594100 ms  DeleteObjects: 0.016900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003594 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.5 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 1.779400 ms (FindLiveObjects: 0.180600 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.535400 ms  DeleteObjects: 0.016400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.793 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.5 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2363.
+Total: 1.808600 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.555900 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.5 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 2.132600 ms (FindLiveObjects: 0.183800 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.883700 ms  DeleteObjects: 0.018500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.6 MB.
+System memory in use after: 121.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 2.186700 ms (FindLiveObjects: 0.220800 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.901700 ms  DeleteObjects: 0.016800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 824.934706 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.fbx
+  artifactKey: Guid(41666ea03f49ee346b5476e1bd99f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.fbx using Guid(41666ea03f49ee346b5476e1bd99f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0dd267f0a9157d1c5346d838e34b28') in 0.171812 seconds 
+  Import took 0.175602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.736107 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx
+  artifactKey: Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx using Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c99393506cb17b0cc0e05e03181c737') in 0.045045 seconds 
+  Import took 0.049139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.882999 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx
+  artifactKey: Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx using Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc9d9e207bf8dec4631a13591c2edf4') in 0.058212 seconds 
+  Import took 0.061819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.405358 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Personaje amortiguador.fbx
+  artifactKey: Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Personaje amortiguador.fbx using Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650763b1fbf8ba3db4b8ea6e9968ff63') in 0.071781 seconds 
+  Import took 0.076305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.372943 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Microcapsula SPDC en base a un estrobo amortiguador de impacto.pptx
+  artifactKey: Guid(b7b97f51e2660204dbd26a581f30a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Microcapsula SPDC en base a un estrobo amortiguador de impacto.pptx using Guid(b7b97f51e2660204dbd26a581f30a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7809f3fec3a08fd31f6b9e42fa4b22a8') in 0.009799 seconds 
+  Import took 0.012826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.389106 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.fbx
+  artifactKey: Guid(f3a362e4fbf9119488eace3c16e23529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.fbx using Guid(f3a362e4fbf9119488eace3c16e23529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fe02bfa2a4cca1237db290058f77a3') in 0.036260 seconds 
+  Import took 0.039854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.999052 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx
+  artifactKey: Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx using Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76958acc822818df63bccf18088f767') in 0.047324 seconds 
+  Import took 0.050646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.213943 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx
+  artifactKey: Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx using Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa4b850040251e029ce2dc94168c915') in 0.054063 seconds 
+  Import took 0.059386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.216576 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx
+  artifactKey: Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx using Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bce40ec56b4319a42551fcd115bfa5') in 0.054124 seconds 
+  Import took 0.059482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.612655 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Torre Autorretractil.fbx
+  artifactKey: Guid(fdb8ac6b220ffee49952f8499b89f54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Torre Autorretractil.fbx using Guid(fdb8ac6b220ffee49952f8499b89f54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e27d98299cd971e672df937596dd65') in 0.038182 seconds 
+  Import took 0.043075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.943631 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Textura Arnés Retráctil.png
+  artifactKey: Guid(6eefa32727a48f04b9a4c244d02d9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Textura Arnés Retráctil.png using Guid(6eefa32727a48f04b9a4c244d02d9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddbf868c94fb77f4686b4db8ab45e34') in 0.040448 seconds 
+  Import took 0.043858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.792159 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx
+  artifactKey: Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx using Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7aa9798d4c24155c3d391c57652093') in 0.006829 seconds 
+  Import took 0.010069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.258944 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Linea de vida anclaje temporal.fbx
+  artifactKey: Guid(19530683242237340a34241e75f3feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Linea de vida anclaje temporal.fbx using Guid(19530683242237340a34241e75f3feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5465e9b6864e9150b6f1c14a57ed608c') in 0.055946 seconds 
+  Import took 0.059499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.489369 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Escena anclaje temporal.fbx
+  artifactKey: Guid(ce08a61d99db29841860399ea1669798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Escena anclaje temporal.fbx using Guid(ce08a61d99db29841860399ea1669798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a3b4d0f4626fb047febd58bb797ee1') in 0.070333 seconds 
+  Import took 0.073774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.368887 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Personaje anclaje temporal.fbx
+  artifactKey: Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Personaje anclaje temporal.fbx using Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fcfdb396d5bd520a2b1e6b437e2c74') in 0.052898 seconds 
+  Import took 0.056652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.412059 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Linea de vida vertical.fbx
+  artifactKey: Guid(904ddb3600e172542ba7af6ab2dbdd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Linea de vida vertical.fbx using Guid(904ddb3600e172542ba7af6ab2dbdd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfdd628ae9a18b50520f90daeee40e9') in 0.049317 seconds 
+  Import took 0.052630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.998056 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Microcapsula SPDC en base a una línea de vida vertical permanente.pptx
+  artifactKey: Guid(73c2d1a4754ffba4d9683e8a6cb18b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Microcapsula SPDC en base a una línea de vida vertical permanente.pptx using Guid(73c2d1a4754ffba4d9683e8a6cb18b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f26aabc62285a37381571f0d7447866') in 0.006584 seconds 
+  Import took 0.009600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.503746 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Personaje linea de vida vertical.fbx
+  artifactKey: Guid(dec720098f3063f438acf49623513ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Personaje linea de vida vertical.fbx using Guid(dec720098f3063f438acf49623513ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95be1c1f7c80c79318b3eda8f82e438') in 0.055099 seconds 
+  Import took 0.058719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.917166 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Subtítulo SPDC en base a una línea de vida vertical permanente.txt
+  artifactKey: Guid(4a2d786fd0d4e544390621c1294ead80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Subtítulo SPDC en base a una línea de vida vertical permanente.txt using Guid(4a2d786fd0d4e544390621c1294ead80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2631e7ff550bc09f5bd362667d2ee0c') in 0.011175 seconds 
+  Import took 0.014567 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

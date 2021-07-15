@@ -65,7 +65,7 @@ public class ExtintoresActivity : MonoBehaviour
         animatorArgolla.SetTrigger("idle");
         animatorSello.SetTrigger("idle");
 
-        sello.SetActive(true);
+        //sello.SetActive(true);
         argolla.SetActive(true);
     }
 
