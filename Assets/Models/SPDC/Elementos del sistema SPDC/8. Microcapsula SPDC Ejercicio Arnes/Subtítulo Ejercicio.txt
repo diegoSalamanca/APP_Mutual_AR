@@ -1,0 +1,12 @@
+PREGUNTA
+
+¿Cuál de estos elementos utilizarías para un descenso controlado y evitar una caída?
+
+CORRECTO
+
+¡Correcto! Este es el elemento adecuado para un descenso controlado.
+
+INCORRECTO
+
+¡Incorrecto! Este no es el elemento adecuado para un descenso controlado.
+

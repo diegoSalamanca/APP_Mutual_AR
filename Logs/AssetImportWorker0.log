@@ -1,502 +1,371 @@
 Using pre-set license
-Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'es' Physical Memory: 32694 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2
+/Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58379
-Successfully changed project path to: C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2
-C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2
+54379
+Successfully changed project path to: /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
+/Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 54.63 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 152.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/diego/Documents/Unity Projects/APP_Mutual_v2/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2/Assets
 GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon RX 5600 XT (ID=0x731f)
-    Vendor:   
-    VRAM:     6104 MB
-    Driver:   27.20.14501.18003
+2021-07-16 16:52:48.366 Unity[66903:3117542] (null) preferred device: Apple M1 (high power)
+2021-07-16 16:52:48.366 Unity[66903:3117542] Metal devices available: 1
+2021-07-16 16:52:48.366 Unity[66903:3117542] 0: Apple M1 (high power)
+2021-07-16 16:52:48.366 Unity[66903:3117542] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56903
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002213 seconds.
-Native extension for WindowsStandalone target not found
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001558 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 50.69 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 48.99 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.649 seconds
+- Completed reload, in  2.963 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003360 seconds.
+Registered in 0.002913 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 50.31 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 52.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.885 seconds
+- Completed reload, in  2.808 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1911 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 163.1 MB.
-System memory in use after: 163.2 MB.
+Unloading 1914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 261.2 MB.
+System memory in use after: 261.3 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2343.
-Total: 1.892000 ms (FindLiveObjects: 0.184100 ms CreateObjectMapping: 0.041200 ms MarkObjects: 1.590000 ms  DeleteObjects: 0.075700 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2374.
+Total: 2.961834 ms (FindLiveObjects: 0.200500 ms CreateObjectMapping: 0.043500 ms MarkObjects: 2.616416 ms  DeleteObjects: 0.100667 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Resources/Animations/Controllers/handIndicatorAnimController.controller
-  artifactKey: Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Controllers/handIndicatorAnimController.controller using Guid(8a02e72ab53504d9ca35cb38b6c2343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea79830c95caa5a0667f0b6b3de11a3') in 0.032866 seconds 
-  Import took 0.035964 seconds .
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.controller
+  artifactKey: Guid(9a50908e00c12471c89dae97e4a0ddd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.controller using Guid(9a50908e00c12471c89dae97e4a0ddd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4b78e69fe5b376a122945c6f86b40c') in 1.226754 seconds 
+  Import took 1.248786 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 36.717598 seconds.
-  path: Assets/Resources/Animations/Clips/HandIndicatorAnimController.anim
-  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/HandIndicatorAnimController.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5bd68d514e19f98546f40c7c7a7941') in 0.007622 seconds 
-  Import took 0.012419 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.162267 seconds.
-  path: Assets/Resources/Animations/Clips/HandIndicatorAnim.anim
-  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/HandIndicatorAnim.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4425fedf36ab8827598fc7a60441f75c') in 0.006764 seconds 
-  Import took 0.010411 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 214.964932 seconds.
-  path: Assets/Resources/Animations/Clips/HandIndicatorAnim.anim
-  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/HandIndicatorAnim.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237aa9cb9ca3779c06279bf22f7a9037') in 0.002821 seconds 
-  Import took 0.005767 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002435 seconds.
-  path: Assets/Resources/Animations/Clips/HandIndicatorAnim.anim
-  artifactKey: Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Animations/Clips/HandIndicatorAnim.anim using Guid(87e6a0799b07847c2ac852f4e7efcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237aa9cb9ca3779c06279bf22f7a9037') in 0.002507 seconds 
-  Import took 0.005425 seconds .
+  Time since last request: 4.972933 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Personaje amortiguador.controller
+  artifactKey: Guid(807cc10c1688b4fb39185d2553992bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Personaje amortiguador.controller using Guid(807cc10c1688b4fb39185d2553992bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2d9990d7d1faec68580db26ed410e1') in 0.004680 seconds 
+  Import took 0.009389 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003485 seconds.
+Registered in 0.003873 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.785 seconds
+- Completed reload, in  2.205 seconds
 Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.4 MB.
-System memory in use after: 158.6 MB.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 256.8 MB.
+System memory in use after: 256.9 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2347.
-Total: 1.904500 ms (FindLiveObjects: 0.187200 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.654200 ms  DeleteObjects: 0.017100 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 1.481750 ms (FindLiveObjects: 0.134583 ms CreateObjectMapping: 0.038959 ms MarkObjects: 1.286458 ms  DeleteObjects: 0.020875 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003596 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.773 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.5 MB.
-System memory in use after: 158.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2351.
-Total: 2.242200 ms (FindLiveObjects: 0.181900 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.994900 ms  DeleteObjects: 0.018900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003627 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.773 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.5 MB.
-System memory in use after: 158.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2355.
-Total: 1.866800 ms (FindLiveObjects: 0.201200 ms CreateObjectMapping: 0.053600 ms MarkObjects: 1.594100 ms  DeleteObjects: 0.016900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003594 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.816 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.5 MB.
-System memory in use after: 158.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2359.
-Total: 1.779400 ms (FindLiveObjects: 0.180600 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.535400 ms  DeleteObjects: 0.016400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003789 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.793 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.5 MB.
-System memory in use after: 158.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2363.
-Total: 1.808600 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.555900 ms  DeleteObjects: 0.018600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003255 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.801 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1855 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.5 MB.
-System memory in use after: 158.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2367.
-Total: 2.132600 ms (FindLiveObjects: 0.183800 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.883700 ms  DeleteObjects: 0.018500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 5.12 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 121.6 MB.
-System memory in use after: 121.8 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2367.
-Total: 2.186700 ms (FindLiveObjects: 0.220800 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.901700 ms  DeleteObjects: 0.016800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
 Received Import Request.
-  Time since last request: 824.934706 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.fbx
-  artifactKey: Guid(41666ea03f49ee346b5476e1bd99f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.fbx using Guid(41666ea03f49ee346b5476e1bd99f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0dd267f0a9157d1c5346d838e34b28') in 0.171812 seconds 
-  Import took 0.175602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.736107 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx
-  artifactKey: Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx using Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c99393506cb17b0cc0e05e03181c737') in 0.045045 seconds 
-  Import took 0.049139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.882999 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx
-  artifactKey: Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx using Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc9d9e207bf8dec4631a13591c2edf4') in 0.058212 seconds 
-  Import took 0.061819 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 138.405358 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Personaje amortiguador.fbx
-  artifactKey: Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Personaje amortiguador.fbx using Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650763b1fbf8ba3db4b8ea6e9968ff63') in 0.071781 seconds 
-  Import took 0.076305 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.372943 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Microcapsula SPDC en base a un estrobo amortiguador de impacto.pptx
-  artifactKey: Guid(b7b97f51e2660204dbd26a581f30a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Microcapsula SPDC en base a un estrobo amortiguador de impacto.pptx using Guid(b7b97f51e2660204dbd26a581f30a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7809f3fec3a08fd31f6b9e42fa4b22a8') in 0.009799 seconds 
-  Import took 0.012826 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.389106 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.fbx
-  artifactKey: Guid(f3a362e4fbf9119488eace3c16e23529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.fbx using Guid(f3a362e4fbf9119488eace3c16e23529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fe02bfa2a4cca1237db290058f77a3') in 0.036260 seconds 
-  Import took 0.039854 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.999052 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx
-  artifactKey: Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx using Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76958acc822818df63bccf18088f767') in 0.047324 seconds 
-  Import took 0.050646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 106.213943 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx
-  artifactKey: Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx using Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa4b850040251e029ce2dc94168c915') in 0.054063 seconds 
-  Import took 0.059386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.216576 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx
+  Time since last request: 866.738268 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx
   artifactKey: Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx using Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bce40ec56b4319a42551fcd115bfa5') in 0.054124 seconds 
-  Import took 0.059482 seconds .
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx using Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24135d743d47c9d369995e1cb8264e3a') in 0.921505 seconds 
+  Import took 0.940127 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.612655 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Torre Autorretractil.fbx
-  artifactKey: Guid(fdb8ac6b220ffee49952f8499b89f54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Torre Autorretractil.fbx using Guid(fdb8ac6b220ffee49952f8499b89f54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e27d98299cd971e672df937596dd65') in 0.038182 seconds 
-  Import took 0.043075 seconds .
+  Time since last request: 0.000633 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx
+  artifactKey: Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx using Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '800717520e51cf2772663b4595815b48') in 0.097766 seconds 
+  Import took 0.103156 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.943631 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Textura Arnés Retráctil.png
-  artifactKey: Guid(6eefa32727a48f04b9a4c244d02d9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Textura Arnés Retráctil.png using Guid(6eefa32727a48f04b9a4c244d02d9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddbf868c94fb77f4686b4db8ab45e34') in 0.040448 seconds 
-  Import took 0.043858 seconds .
+  Time since last request: 0.488229 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil
+  artifactKey: Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil using Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8679983fde643e44412db0d51fa10c8') in 0.001138 seconds 
+  Import took 0.006240 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 28.792159 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx
-  artifactKey: Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx using Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7aa9798d4c24155c3d391c57652093') in 0.006829 seconds 
-  Import took 0.010069 seconds .
+  Time since last request: 0.000834 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil
+  artifactKey: Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil using Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8679983fde643e44412db0d51fa10c8') in 0.000702 seconds 
+  Import took 0.005231 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 14.258944 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Linea de vida anclaje temporal.fbx
-  artifactKey: Guid(19530683242237340a34241e75f3feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Linea de vida anclaje temporal.fbx using Guid(19530683242237340a34241e75f3feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5465e9b6864e9150b6f1c14a57ed608c') in 0.055946 seconds 
-  Import took 0.059499 seconds .
+  Time since last request: 17.795716 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Subtítulo SPDC en base a una línea de vida autorretráctil.txt
+  artifactKey: Guid(4e638c21f4922f745980f7f7540c04ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Subtítulo SPDC en base a una línea de vida autorretráctil.txt using Guid(4e638c21f4922f745980f7f7540c04ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd949c8dd56590661ed463830b8f0d033') in 1.546258 seconds 
+  Import took 1.581122 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.489369 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Escena anclaje temporal.fbx
-  artifactKey: Guid(ce08a61d99db29841860399ea1669798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Escena anclaje temporal.fbx using Guid(ce08a61d99db29841860399ea1669798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a3b4d0f4626fb047febd58bb797ee1') in 0.070333 seconds 
-  Import took 0.073774 seconds .
+  Time since last request: 0.000313 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj
+  artifactKey: Guid(c9edeb5975f194f318290df908d068f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj using Guid(c9edeb5975f194f318290df908d068f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6df064b73d884d0fdef31e7bfdb0eb') in 0.001670 seconds 
+  Import took 0.005477 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.368887 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Personaje anclaje temporal.fbx
-  artifactKey: Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Personaje anclaje temporal.fbx using Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fcfdb396d5bd520a2b1e6b437e2c74') in 0.052898 seconds 
-  Import took 0.056652 seconds .
+  Time since last request: 54.058832 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/Personaje Autorretractil.fbx
+  artifactKey: Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/Personaje Autorretractil.fbx using Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22722558977079cecaee0be2ebafb3e5') in 0.138775 seconds 
+  Import took 0.153895 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 55.412059 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Linea de vida vertical.fbx
-  artifactKey: Guid(904ddb3600e172542ba7af6ab2dbdd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Linea de vida vertical.fbx using Guid(904ddb3600e172542ba7af6ab2dbdd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfdd628ae9a18b50520f90daeee40e9') in 0.049317 seconds 
-  Import took 0.052630 seconds .
+  Time since last request: 52.152082 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/ArmatureAction.001.anim
+  artifactKey: Guid(486991893aa044b1d9c74545ecd00fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/ArmatureAction.001.anim using Guid(486991893aa044b1d9c74545ecd00fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae845c6aaa2fbcc1ce08eb0cf55ed66') in 0.170120 seconds 
+  Import took 0.184967 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.998056 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Microcapsula SPDC en base a una línea de vida vertical permanente.pptx
-  artifactKey: Guid(73c2d1a4754ffba4d9683e8a6cb18b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Microcapsula SPDC en base a una línea de vida vertical permanente.pptx using Guid(73c2d1a4754ffba4d9683e8a6cb18b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f26aabc62285a37381571f0d7447866') in 0.006584 seconds 
-  Import took 0.009600 seconds .
+  Time since last request: 23.849899 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim
+  artifactKey: Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim using Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434696757320ae4ea3a1ecf981d2692b') in 0.005730 seconds 
+  Import took 0.012405 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.503746 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Personaje linea de vida vertical.fbx
-  artifactKey: Guid(dec720098f3063f438acf49623513ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Personaje linea de vida vertical.fbx using Guid(dec720098f3063f438acf49623513ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95be1c1f7c80c79318b3eda8f82e438') in 0.055099 seconds 
-  Import took 0.058719 seconds .
+  Time since last request: 0.003665 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim
+  artifactKey: Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim using Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434696757320ae4ea3a1ecf981d2692b') in 0.003124 seconds 
+  Import took 0.007797 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 19.917166 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Subtítulo SPDC en base a una línea de vida vertical permanente.txt
-  artifactKey: Guid(4a2d786fd0d4e544390621c1294ead80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Subtítulo SPDC en base a una línea de vida vertical permanente.txt using Guid(4a2d786fd0d4e544390621c1294ead80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2631e7ff550bc09f5bd362667d2ee0c') in 0.011175 seconds 
-  Import took 0.014567 seconds .
+  Time since last request: 2.480825 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Microcapsula SPDC en base a una línea de vida autorretráctil.pptx
+  artifactKey: Guid(a276f8791472d9d40936027f1f564b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Microcapsula SPDC en base a una línea de vida autorretráctil.pptx using Guid(a276f8791472d9d40936027f1f564b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c921bf95cab36b409cc362995dda59eb') in 0.651371 seconds 
+  Import took 0.657068 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.330 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 292.2 MB.
+System memory in use after: 292.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 1.760542 ms (FindLiveObjects: 0.195458 ms CreateObjectMapping: 0.042583 ms MarkObjects: 1.486875 ms  DeleteObjects: 0.034625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.221 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 292.4 MB.
+System memory in use after: 292.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 1.450542 ms (FindLiveObjects: 0.156625 ms CreateObjectMapping: 0.038041 ms MarkObjects: 1.232417 ms  DeleteObjects: 0.022709 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 522.389876 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/textos_spdc_3.anim
+  artifactKey: Guid(a4ec506b2cd2d4e69ac35131c06932f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/textos_spdc_3.anim using Guid(a4ec506b2cd2d4e69ac35131c06932f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef5eb290622fbe02acc7189a4cf947e') in 0.053930 seconds 
+  Import took 0.082805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.845337 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/container.controller
+  artifactKey: Guid(7f938c729cacf46b3a743f33b6350563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/container.controller using Guid(7f938c729cacf46b3a743f33b6350563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e18afcf0a206a04c3f8fe8a23c3f93d') in 0.018983 seconds 
+  Import took 0.034967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.561532 seconds.
+  path: Assets/Audios/Trabajo Alturas/Caida_libre/Audio Procedimiento.wav
+  artifactKey: Guid(c09d0302c7f2b874fbe10b70ee9f8e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/Trabajo Alturas/Caida_libre/Audio Procedimiento.wav using Guid(c09d0302c7f2b874fbe10b70ee9f8e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b118c6b79a5826ad8001cd99341d2f5b') in 0.770293 seconds 
+  Import took 0.780523 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.559 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 297.0 MB.
+System memory in use after: 297.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2437.
+Total: 1.664500 ms (FindLiveObjects: 0.192500 ms CreateObjectMapping: 0.044583 ms MarkObjects: 1.391000 ms  DeleteObjects: 0.035583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004909 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.317 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 297.3 MB.
+System memory in use after: 297.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2441.
+Total: 1.410500 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.036291 ms MarkObjects: 1.205792 ms  DeleteObjects: 0.026958 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

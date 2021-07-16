@@ -1,0 +1,3 @@
+Los ACC Clase D son aquellos que cumplen los requisitos para ACC Clase A y
+que tienen elementos de fijación adicionales que permiten al usuario conectarse a un sistema de descenso controlado. Los ACC Clase D tienen incorporado
+elementos de fijación para ascenso/descenso controlado en situaciones tales que le permita al usuario, adoptar en forma aproximada la posición de sentado mientras está en suspensión. Los elementos de fijación para ascenso/descenso controlado no son adecuados para conectarse a un SPDC.

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: linea vida horizontal
+  m_EditorClassIdentifier: 
+  texts:
+  - "1) L\xEDnea de vida horizontal "
+  - 2) Deslizador horizontal
+  - 3) Estrobo con amortiguador
+  - "4) Arn\xE9s de Cuerpo completo (ACC)"
+  audioClip: {fileID: 8300000, guid: ab8d172a530ed19488faf3b2e6d75202, type: 3}

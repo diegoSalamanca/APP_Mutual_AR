@@ -1,17 +1,8 @@
 fileFormatVersion: 2
-guid: 5d5110ef9fced2340bf1c82e50f8c4cb
+guid: 6a0e35450a469404fb11438751b32492
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: 7001736878801954451
-    second: ArmatureAction.001
-  - first:
-      74: -1422011007694221501
-    second: Armature|ArmatureAction.001
-  - first:
-      74: 4419690823084351075
-    second: Armature|nudo agarraderaAction
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 2

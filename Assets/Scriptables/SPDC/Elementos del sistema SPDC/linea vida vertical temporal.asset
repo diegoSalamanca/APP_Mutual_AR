@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: linea vida vertical temporal
+  m_EditorClassIdentifier: 
+  texts:
+  - 1)  Punto de Anclaje
+  - "2) Arn\xE9s de Cuerpo completo "
+  - "3) Dispositivo para detenci\xF3n tipo deslizante"
+  - "4) L\xEDnea de vida vertical temporal"
+  - "5) Masa para tracci\xF3n"
+  audioClip: {fileID: 8300000, guid: 8bee3cf9488c2eb46908a3fa1ecb44b9, type: 3}

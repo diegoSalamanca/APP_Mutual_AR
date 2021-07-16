@@ -1,56 +1,8 @@
 fileFormatVersion: 2
-guid: 73e3abefaa1dd434f8d7bb46ab149ca4
+guid: 5b05a55b261c54f899c6a7ed7785cecf
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: 1021645820220355276
-    second: Armature|mixamo.com|Layer0.001
-  - first:
-      74: -9125523489441110064
-    second: Armature|Action.001
-  - first:
-      74: 4781951162920444690
-    second: Armature|ArmatureAction
-  - first:
-      74: -1422011007694221501
-    second: Armature|ArmatureAction.001
-  - first:
-      74: 6093225430303232669
-    second: Armature|ArmatureAction.002
-  - first:
-      74: -8142089128061488179
-    second: Armature|Armature|Armature|pose|Armature|pose
-  - first:
-      74: -4791504522942941401
-    second: Armature|Armature|mixamo.com|Layer0
-  - first:
-      74: 6165553400957861818
-    second: Armature|Armature|mixamo.com|Layer0.001
-  - first:
-      74: 5730792835839064624
-    second: Armature|Armature|pose|pose
-  - first:
-      74: -1059931693697564503
-    second: Armature|Idle pose
-  - first:
-      74: 5056475711504163352
-    second: Armature|NurbsCurve.001Action
-  - first:
-      74: -6144864862168972270
-    second: Armature|NurbsCurve.001Action.001
-  - first:
-      74: 4780934357371276625
-    second: Armature|NurbsCurveAction
-  - first:
-      74: -4386097317725932752
-    second: Armature|NurbsCurveAction.001
-  - first:
-      74: -5911733981512947759
-    second: Armature|NurbsPathAction
-  - first:
-      74: -446385382370774679
-    second: Armature|NurbsPathAction.001
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 2

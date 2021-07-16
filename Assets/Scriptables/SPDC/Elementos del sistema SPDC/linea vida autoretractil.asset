@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: linea vida autoretractil
+  m_EditorClassIdentifier: 
+  texts:
+  - 1) Punto de Anclaje
+  - "2) L\xEDnea de vida autoretr\xE1ctil"
+  - "3) Arn\xE9s de Cuerpo completo "
+  audioClip: {fileID: 8300000, guid: 286e5c37e5f019f448cd6d28f327ec83, type: 3}
