@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 342681029bf41ff459374cb8dab5d045
+guid: dec720098f3063f438acf49623513ca1
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
@@ -9,13 +9,42 @@ ModelImporter:
   - first:
       74: 4781951162920444690
     second: Armature|ArmatureAction
+  externalObjects:
   - first:
-      74: -4791504522942941401
-    second: Armature|Armature|mixamo.com|Layer0
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 82662bc7550474772b87731a7aad6c64, type: 2}
   - first:
-      74: 4828028426687900610
-    second: Armature|Cube.002Action
-  externalObjects: {}
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 6fad321827ca841ad94e55dc6a6d6eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: eb79c21b6f5e548aaba5a2cae0b94b4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 2d801f1be28d947e98a8d7563ad18317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_dorado
+    second: {fileID: 2100000, guid: 4237cd1a1fb8c4b2fab510d3b00779d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 3b7e80ce321824fa782120367c4de379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: 8bee1b6de5a5b42c0a832104865fa410, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -20,6 +20,11 @@ public class ARSoundsController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
+    public void StopSincronizeAudio()
+    {
+        StopAllCoroutines();
+    }
+
     public void ExtintoresNextStep(int newIndex)
     {
         if (extintoresActivity)

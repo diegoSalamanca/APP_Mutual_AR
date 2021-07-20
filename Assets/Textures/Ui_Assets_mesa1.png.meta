@@ -32,6 +32,24 @@ TextureImporter:
   - first:
       213: 298557136860547789
     second: Ui_Assets_mesa1_10
+  - first:
+      213: 6587313947961192407
+    second: Ui_Assets_mesa1_11
+  - first:
+      213: 8403476234688844625
+    second: Ui_Assets_mesa1_12
+  - first:
+      213: 6645025678956959816
+    second: Ui_Assets_mesa1_13
+  - first:
+      213: -5859242421616606335
+    second: Ui_Assets_mesa1_14
+  - first:
+      213: 6699542482817716862
+    second: Ui_Assets_mesa1_15
+  - first:
+      213: -8443602705402606340
+    second: Ui_Assets_mesa1_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -375,7 +393,7 @@ TextureImporter:
         width: 240
         height: 290
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -383,6 +401,132 @@ TextureImporter:
       bones: []
       spriteID: dca0bb75220b42400800000000000000
       internalID: 298557136860547789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa1_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 520
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe3347227da6b50800000000000000
+      internalID: 6587313947961192407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa1_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 297
+        width: 232
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d017ac152f9470800000000000000
+      internalID: 8403476234688844625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa1_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 354
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848149de5afd73c50800000000000000
+      internalID: 6645025678956959816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa1_14
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 615
+        width: 225
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18384a6af0acfaea0800000000000000
+      internalID: -5859242421616606335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa1_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 279
+        width: 259
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721df5746e89fc50800000000000000
+      internalID: 6699542482817716862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa1_16
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 8
+        width: 207
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc43f7531c42da80800000000000000
+      internalID: -8443602705402606340
       vertices: []
       indices: 
       edges: []

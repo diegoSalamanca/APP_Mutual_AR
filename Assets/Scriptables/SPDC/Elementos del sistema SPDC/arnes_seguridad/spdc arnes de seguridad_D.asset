@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: spdc arnes de seguridad_D
+  m_EditorClassIdentifier: 
+  texts:
+  - 'Los ACC Clase D son aquellos que cumplen los requisitos para ACC Clase Ay que
+    tienen elementos  '
+  - "de fijaci\xF3n adicionales que permiten al usuario conectarse a un sistema de
+    descenso controlado. "
+  - "Los ACC Clase D tienen incorporado elementos de fijaci\xF3n para ascenso/descenso
+    controlado en "
+  - "situaciones tales que le permita al usuario, adoptar en forma aproximada la
+    posici\xF3n de sentado "
+  - "mientras est\xE1 en suspensi\xF3n. Los elementos de fijaci\xF3n para ascenso/descenso
+    controlado no son"
+  - adecuados para conectarse a un SPDC.
+  audioClip: {fileID: 8300000, guid: aa1731f23203d4a48ae4eada51c5a653, type: 3}

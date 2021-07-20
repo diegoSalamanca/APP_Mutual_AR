@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: linea vida vertical permanente
   m_EditorClassIdentifier: 
   texts:
-  - 1) Punto de Anclaje
+  - 1) y 5) Punto de Anclaje
   - "2) Arn\xE9s de Cuerpo completo "
   - "3) Dispositivo para detenci\xF3n tipo deslizante."
   - "4) L\xEDnea de vida vertical permanente"
-  - 5) Punto de Anclaje
   audioClip: {fileID: 8300000, guid: b7a62f9cbd17247499089b7b6b8d0aa4, type: 3}

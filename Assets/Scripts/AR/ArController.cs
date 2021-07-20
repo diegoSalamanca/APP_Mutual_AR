@@ -77,12 +77,10 @@ public class ArController : MonoBehaviour
     public void EnableAndamiosIndex(int index)
     {
         DisableAndamios();
+        arSoundsController.PlayAuido(index);
         Models[index].SetActive(true);        
         sceneObjects.localScale = Vector3.one;
         sceneObjects.rotation = Quaternion.Euler(Vector3.zero);
-
-        arSoundsController.PlayAuido(index);
-
 
     }
 

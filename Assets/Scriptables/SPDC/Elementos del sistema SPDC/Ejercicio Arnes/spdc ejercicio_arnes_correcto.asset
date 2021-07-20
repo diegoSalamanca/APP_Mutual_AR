@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: spdc ejercicio_arnes_correcto
+  m_EditorClassIdentifier: 
+  texts:
+  - "\xA1Correcto! Este es el elemento adecuado para un descenso controlado."
+  audioClip: {fileID: 8300000, guid: 696ba25a5bb734958884d0b9fb172f0b, type: 3}

@@ -12,60 +12,60 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59582
+54379
 Successfully changed project path to: /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
 /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 149.71 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 152.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/diegosalamanca/Documents/Unity Projects/APP_Mutual_v2/Assets
 GfxDevice: creating device client; threaded=0
-2021-07-16 12:27:16.545 Unity[64093:2885337] (null) preferred device: Apple M1 (high power)
-2021-07-16 12:27:16.545 Unity[64093:2885337] Metal devices available: 1
-2021-07-16 12:27:16.545 Unity[64093:2885337] 0: Apple M1 (high power)
-2021-07-16 12:27:16.546 Unity[64093:2885337] Using device Apple M1 (high power)
+2021-07-16 16:52:48.366 Unity[66903:3117542] (null) preferred device: Apple M1 (high power)
+2021-07-16 16:52:48.366 Unity[66903:3117542] Metal devices available: 1
+2021-07-16 16:52:48.366 Unity[66903:3117542] 0: Apple M1 (high power)
+2021-07-16 16:52:48.366 Unity[66903:3117542] Using device Apple M1 (high power)
 Initializing Metal device caps: Apple M1
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56093
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56903
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001329 seconds.
+Registered in 0.001558 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 48.76 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 48.99 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.140 seconds
+- Completed reload, in  2.963 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003752 seconds.
+Registered in 0.002913 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.67 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 52.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.634 seconds
+- Completed reload, in  2.808 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.48 seconds
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1914 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 261.1 MB.
-System memory in use after: 261.2 MB.
+System memory in use before: 261.2 MB.
+System memory in use after: 261.3 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2374.
-Total: 12.425334 ms (FindLiveObjects: 0.619250 ms CreateObjectMapping: 0.052833 ms MarkObjects: 11.388625 ms  DeleteObjects: 0.363584 ms)
+Total: 2.961834 ms (FindLiveObjects: 0.200500 ms CreateObjectMapping: 0.043500 ms MarkObjects: 2.616416 ms  DeleteObjects: 0.100667 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -79,641 +79,161 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Audios/SPDC/Audio Linea de vida Horizontal.wav
-  artifactKey: Guid(ab8d172a530ed19488faf3b2e6d75202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC/Audio Linea de vida Horizontal.wav using Guid(ab8d172a530ed19488faf3b2e6d75202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719bb879be96b7d137cec67bc169d877') in 1.178566 seconds 
-  Import took 1.185262 seconds .
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.controller
+  artifactKey: Guid(9a50908e00c12471c89dae97e4a0ddd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.controller using Guid(9a50908e00c12471c89dae97e4a0ddd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4b78e69fe5b376a122945c6f86b40c') in 1.226754 seconds 
+  Import took 1.248786 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.745735 seconds.
-  path: Assets/Audios/SPDC
-  artifactKey: Guid(a4db6cc5ed104424f91ea471501f6961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC using Guid(a4db6cc5ed104424f91ea471501f6961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a45f3ce7ebf5014e0dde460d2bb9a8b') in 0.001567 seconds 
-  Import took 0.014359 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.710938 seconds.
-  path: Assets/Audios/SPDC/Audio SPDC en base a un estrobo amortiguador de impacto.mp3
-  artifactKey: Guid(79d2a0f3edb40e6489bb25bc523c4019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC/Audio SPDC en base a un estrobo amortiguador de impacto.mp3 using Guid(79d2a0f3edb40e6489bb25bc523c4019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af6c37e0977e310eb0b24962d1b89ab') in 0.598502 seconds 
-  Import took 0.612655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2586.035765 seconds.
-  path: Assets/Audios/SPDC/Elementos sistema SPDC/Audio SPDC en base a una línea de vida autorretráctil.mp3
-  artifactKey: Guid(286e5c37e5f019f448cd6d28f327ec83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC/Elementos sistema SPDC/Audio SPDC en base a una línea de vida autorretráctil.mp3 using Guid(286e5c37e5f019f448cd6d28f327ec83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee6ae3f82ac42e94fadb1c5939a22e61') in 0.091912 seconds 
-  Import took 0.129635 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.283226 seconds.
-  path: Assets/Audios/SPDC/Elementos sistema SPDC/Audio SPDC en base a una línea de vida vertical temporal.mp3
-  artifactKey: Guid(8bee3cf9488c2eb46908a3fa1ecb44b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC/Elementos sistema SPDC/Audio SPDC en base a una línea de vida vertical temporal.mp3 using Guid(8bee3cf9488c2eb46908a3fa1ecb44b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f3afe2231391a51dd1844bb097da4a') in 0.040999 seconds 
-  Import took 0.060300 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.487898 seconds.
-  path: Assets/Audios/Audio SPDC en base a una linea de vida vertical permanente.wav
-  artifactKey: Guid(b7a62f9cbd17247499089b7b6b8d0aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/Audio SPDC en base a una linea de vida vertical permanente.wav using Guid(b7a62f9cbd17247499089b7b6b8d0aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68136c97082f55470d9089b90b6f5f4') in 0.023375 seconds 
-  Import took 0.027846 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.732725 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Microcapsula SPDC en base a una línea de vida vertical permanente.pptx
-  artifactKey: Guid(73c2d1a4754ffba4d9683e8a6cb18b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/5. Microcapsula SPDC en base a una línea de vida vertical permanente/Microcapsula SPDC en base a una línea de vida vertical permanente.pptx using Guid(73c2d1a4754ffba4d9683e8a6cb18b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f26aabc62285a37381571f0d7447866') in 0.770457 seconds 
-  Import took 0.778563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.682129 seconds.
-  path: Assets/Scriptables/SPDC
-  artifactKey: Guid(e0fec2b5d485e4855bccd41eb84c0e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC using Guid(e0fec2b5d485e4855bccd41eb84c0e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10afeae3105e899541346a36d4b0dfb') in 0.017613 seconds 
-  Import took 0.056627 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.520151 seconds.
-  path: Assets/Scriptables/Riesgos_viales
-  artifactKey: Guid(4b660bfa065a2da4a9f7599cc6a043a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/Riesgos_viales using Guid(4b660bfa065a2da4a9f7599cc6a043a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b006fb38891817fede56d40c89a87ef') in 0.001645 seconds 
-  Import took 0.006331 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.789282 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC
-  artifactKey: Guid(ed195756c95a54e0394e3012dfe42c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC using Guid(ed195756c95a54e0394e3012dfe42c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39dd54408c09f19ebd79426c70d1e553') in 0.003180 seconds 
-  Import took 0.012986 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.072375 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset
-  artifactKey: Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset using Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6deb5026c7392fb22fbe2c3cd02790') in 0.747189 seconds 
-  Import took 0.754178 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.347851 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal 1.asset
-  artifactKey: Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal 1.asset using Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98994b156e4cb0c033cca4edffb7670') in 0.010300 seconds 
-  Import took 0.015598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.336293 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/estrobo amortiguador impacto.asset
-  artifactKey: Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/estrobo amortiguador impacto.asset using Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541c24a58c3308e8c2ecf268ea17fd6c') in 0.004772 seconds 
-  Import took 0.011155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.775936 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal 1.asset
-  artifactKey: Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal 1.asset using Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691769db218c7efcad1b9ce41150eb05') in 0.002662 seconds 
-  Import took 0.007038 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.269293 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil.asset
-  artifactKey: Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil.asset using Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37be76a3cbcaa67072f31de07c7f8cff') in 0.050747 seconds 
-  Import took 0.069674 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.304221 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil 1.asset
-  artifactKey: Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil 1.asset using Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1696fc6d7b02add71e83690100a74597') in 0.002968 seconds 
-  Import took 0.007540 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.762440 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal.asset
-  artifactKey: Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal.asset using Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081d018291105a7690c856c2e7496369') in 0.003838 seconds 
-  Import took 0.008857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.034811 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal 1.asset
-  artifactKey: Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal 1.asset using Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea3ea1e2d29c9b3225ef6a87b47d498') in 0.003231 seconds 
-  Import took 0.007152 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.993296 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical permanente.asset
-  artifactKey: Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical permanente.asset using Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85a1aa1da3d19b684ed8c12b500f0ef') in 0.021142 seconds 
-  Import took 0.069079 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.336010 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC
-  artifactKey: Guid(e99811578e3bc4e4cb0518b0dd7bc25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC using Guid(e99811578e3bc4e4cb0518b0dd7bc25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c111ce30fbbd1961671b35dabb0e83b') in 0.005094 seconds 
-  Import took 0.032136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.469027 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal 1.asset
-  artifactKey: Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal 1.asset using Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2cd6ad6f4636f5459c066c5605b660') in 0.028041 seconds 
-  Import took 0.058334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.834207 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio.asset
-  artifactKey: Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio.asset using Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87e2501b2c3d0f067455b4c4eec92b3') in 0.003522 seconds 
-  Import took 0.007652 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 49.064273 seconds.
-  path: Assets/Audios/SPDC/Elementos sistema SPDC/Ejercicio.wav
-  artifactKey: Guid(22381aeb312ec4dfe831061f2b4c10fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC/Elementos sistema SPDC/Ejercicio.wav using Guid(22381aeb312ec4dfe831061f2b4c10fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ccf0683d90f65ac93b7f659a4d4737') in 0.062632 seconds 
-  Import took 0.078217 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.108654 seconds.
-  path: Assets/Audios/SPDC/Elementos sistema SPDC/SPDC Ejercicio.wav
-  artifactKey: Guid(22381aeb312ec4dfe831061f2b4c10fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audios/SPDC/Elementos sistema SPDC/SPDC Ejercicio.wav using Guid(22381aeb312ec4dfe831061f2b4c10fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edcedc3cdeac707cad87f0e4525d54e4') in 0.011027 seconds 
-  Import took 0.017546 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 568.203614 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Microcapsula SPDC Linea de vida horizontal.pptx
-  artifactKey: Guid(f1f32593d7b538343a8563a8f528730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Microcapsula SPDC Linea de vida horizontal.pptx using Guid(f1f32593d7b538343a8563a8f528730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '381bc84636449536a60c547287ad3409') in 0.011145 seconds 
-  Import took 0.042652 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.703039 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.fbx
-  artifactKey: Guid(41666ea03f49ee346b5476e1bd99f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.fbx using Guid(41666ea03f49ee346b5476e1bd99f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6419e2a59e54b20a6660fd49ddc5c42f') in 1.735565 seconds 
-  Import took 1.792921 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 39.351692 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal
-  artifactKey: Guid(5a2399299f0e68f45a043142b6fabbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal using Guid(5a2399299f0e68f45a043142b6fabbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69657a83b48b87cf61236938ef5c1c36') in 0.005289 seconds 
-  Import took 0.030103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.344673 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto
-  artifactKey: Guid(0efd9bf7ce30748468da37853d761f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto using Guid(0efd9bf7ce30748468da37853d761f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13357eb36c20a929279ee7ea318483e3') in 0.002186 seconds 
-  Import took 0.038507 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.365671 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil
-  artifactKey: Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil using Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a654b1085924cf4ce02f891a51e0ed9') in 0.001585 seconds 
-  Import took 0.007359 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 389.925331 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio.asset
-  artifactKey: Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio.asset using Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509fa6b459832d64b5293ebc84c216a3') in 0.014022 seconds 
-  Import took 0.056103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 60.430701 seconds.
-  path: Assets/Models/Trabajo_Alturas/Caida libre/Golpe_martillo/Alturas_Caida_libre_Martillo.controller
-  artifactKey: Guid(1b193e532a90443f8973a0cd347e9ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Trabajo_Alturas/Caida libre/Golpe_martillo/Alturas_Caida_libre_Martillo.controller using Guid(1b193e532a90443f8973a0cd347e9ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f65f6f08072b0fa0c4d2a9af1ff6925') in 0.435983 seconds 
-  Import took 0.450428 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 398.564901 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset
-  artifactKey: Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset using Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b53bb9c84926977c0058b308cc1129f') in 0.063375 seconds 
-  Import took 0.085317 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.041919 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Subtítulos Linea de vida Horizontal.txt
-  artifactKey: Guid(135c43ec5d459d94691c367b40bb2b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Subtítulos Linea de vida Horizontal.txt using Guid(135c43ec5d459d94691c367b40bb2b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bc530bc612a2a04405607cd3cc8918') in 1.557452 seconds 
-  Import took 1.563441 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6012.023598 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/6. Microcapsula SPDC Ejercicio
-  artifactKey: Guid(1a15144b3dd8e493fb3e5a62a29badd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/6. Microcapsula SPDC Ejercicio using Guid(1a15144b3dd8e493fb3e5a62a29badd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8954bc5e5a5f40155b90a6e0c3012d08') in 0.006436 seconds 
-  Import took 0.046794 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.003559 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés
-  artifactKey: Guid(5fa5d81cd669444108ea5341bf474112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés using Guid(5fa5d81cd669444108ea5341bf474112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe739e50cad6d2b1709cf57bcdf8395') in 0.001647 seconds 
-  Import took 0.006069 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.673485 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés/Audio Correcto.wav
-  artifactKey: Guid(696ba25a5bb734958884d0b9fb172f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés/Audio Correcto.wav using Guid(696ba25a5bb734958884d0b9fb172f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61860340db911827e5c0b7bae1cbc71d') in 0.181512 seconds 
-  Import took 0.203390 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.709550 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés/Audio Incorrecto.wav
-  artifactKey: Guid(31c62541698124f7bbc496cb27e10720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés/Audio Incorrecto.wav using Guid(31c62541698124f7bbc496cb27e10720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e54dc37c91a0c9627a1b18b8b1e1d6') in 0.008068 seconds 
-  Import took 0.011974 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.531852 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés/Audio Pregunta.wav
-  artifactKey: Guid(0dd268ed7ed954dcba38b2a223d4b7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnés/Audio Pregunta.wav using Guid(0dd268ed7ed954dcba38b2a223d4b7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4ce5808d6a2b79ee9f4e2353bdf19a') in 0.007124 seconds 
-  Import took 0.010901 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.490284 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad/Audio Arnes A.wav
-  artifactKey: Guid(5d72acc755ea84280bfb35b5e72df2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad/Audio Arnes A.wav using Guid(5d72acc755ea84280bfb35b5e72df2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9956d94d7132aefe085bab5afafaf52c') in 0.024187 seconds 
-  Import took 0.028234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.598358 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad/Audio Arnes E.wav
-  artifactKey: Guid(721629ce008f0417b94b4a60e0c76da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad/Audio Arnes E.wav using Guid(721629ce008f0417b94b4a60e0c76da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2a0c8f5ac3f57a7d5a8d283ba438fa') in 0.006021 seconds 
-  Import took 0.009533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000945 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad/Audio Arnes E.wav
-  artifactKey: Guid(721629ce008f0417b94b4a60e0c76da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad/Audio Arnes E.wav using Guid(721629ce008f0417b94b4a60e0c76da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2a0c8f5ac3f57a7d5a8d283ba438fa') in 0.005048 seconds 
-  Import took 0.007931 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 72.728299 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad
-  artifactKey: Guid(bf075a24ccbb44659ba52e0d396c4eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnés de seguridad using Guid(bf075a24ccbb44659ba52e0d396c4eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c81be68a2ad67f9ff515d956b95b53') in 0.003213 seconds 
-  Import took 0.023831 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.890000 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset
-  artifactKey: Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset using Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b82079e3b0845393b1f8154443a0e9') in 0.038684 seconds 
-  Import took 0.045488 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.958951 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad
-  artifactKey: Guid(bf075a24ccbb44659ba52e0d396c4eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad using Guid(bf075a24ccbb44659ba52e0d396c4eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e19107bec3be29ae8a52249aecf9ed8') in 0.001111 seconds 
-  Import took 0.006562 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.417453 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes
-  artifactKey: Guid(5fa5d81cd669444108ea5341bf474112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes using Guid(5fa5d81cd669444108ea5341bf474112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7d7d98d7dda307b4c7ec1beaef9621') in 0.006801 seconds 
-  Import took 0.070233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.768879 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Microcapsula SPDC Arnés de seguridad.pptx
-  artifactKey: Guid(71758bcb2c40048899aff4e8538d7d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Microcapsula SPDC Arnés de seguridad.pptx using Guid(71758bcb2c40048899aff4e8538d7d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d401f0e1feba998c88498c95239177') in 0.035157 seconds 
-  Import took 0.039924 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.762289 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Microcapsula SPDC Arnes de seguridad.pptx
-  artifactKey: Guid(71758bcb2c40048899aff4e8538d7d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Microcapsula SPDC Arnes de seguridad.pptx using Guid(71758bcb2c40048899aff4e8538d7d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fceabd96eee5c3a9225f384c49660fd3') in 0.067836 seconds 
-  Import took 0.102819 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.031303 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Subtítulo Arnes D.txt
-  artifactKey: Guid(fa6f7fe57660549a6b2bbf0c7f983e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Subtítulo Arnes D.txt using Guid(fa6f7fe57660549a6b2bbf0c7f983e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac793204cf23b3d8d79c6eb4da5ad23e') in 0.005376 seconds 
-  Import took 0.009080 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.977401 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/~$Microcapsula SPDC Arnés de seguridad.pptx
-  artifactKey: Guid(cf3c6513ca3974f1aa94e55df2850d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/~$Microcapsula SPDC Arnés de seguridad.pptx using Guid(cf3c6513ca3974f1aa94e55df2850d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096f1cf7f423715e66fb80fd540067e0') in 0.002648 seconds 
-  Import took 0.007511 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.536382 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/~$Microcapsula SPDC Arnes de seguridad.pptx
-  artifactKey: Guid(cf3c6513ca3974f1aa94e55df2850d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/~$Microcapsula SPDC Arnes de seguridad.pptx using Guid(cf3c6513ca3974f1aa94e55df2850d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ea9cf9f0e843a25065e0f2aef11ca5') in 0.042478 seconds 
-  Import took 0.076396 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.648445 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Cinturón Liniero Incorrecto.fbx
-  artifactKey: Guid(c75e45a1820fc4be6bb86698f79f3752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Cinturón Liniero Incorrecto.fbx using Guid(c75e45a1820fc4be6bb86698f79f3752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5561d1d6eff8d7b6c513a2b4cb361faa') in 0.319965 seconds 
-  Import took 0.328715 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.192476 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Microcapsula SPDC Ejercicio.pptx
-  artifactKey: Guid(9703537732e944fae95f7dbaa2669dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Microcapsula SPDC Ejercicio.pptx using Guid(9703537732e944fae95f7dbaa2669dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7415be3d832221b4d88285e3b27c0d') in 0.002880 seconds 
-  Import took 0.006628 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.527235 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Subtítulo Ejercicio.txt
-  artifactKey: Guid(24d6bcefaaa694a539dec2403f8b89fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Subtítulo Ejercicio.txt using Guid(24d6bcefaaa694a539dec2403f8b89fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3519b96670f14573ecf8637cdc63cbb') in 0.003801 seconds 
-  Import took 0.007752 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.580339 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Silla Guindola Incorrecto.fbx
-  artifactKey: Guid(33922f473c22e448685060c622ac0872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Silla Guindola Incorrecto.fbx using Guid(33922f473c22e448685060c622ac0872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35376d621da4c75f3b038897688d3ca4') in 0.027785 seconds 
-  Import took 0.031624 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.306817 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio 1.asset
-  artifactKey: Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio 1.asset using Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e0604d46f6839c6903eca88c9a4149c') in 0.003885 seconds 
-  Import took 0.007743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.455994 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes.asset
-  artifactKey: Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes.asset using Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd789170836e1307e520ad1f4df335c0') in 0.039498 seconds 
-  Import took 0.051706 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016332 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal.asset
-  artifactKey: Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal.asset using Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc303774ea20bfeac4755307e7ad3d31') in 0.002728 seconds 
-  Import took 0.005938 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.279841 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes 1.asset
-  artifactKey: Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes 1.asset using Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0faaaa55c9905cf1621e604e9ae490c') in 0.002077 seconds 
-  Import took 0.005589 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.888534 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc arnes de seguridad.asset
-  artifactKey: Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc arnes de seguridad.asset using Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bde38be052db911a73bb1b70c3a3f68') in 0.003594 seconds 
-  Import took 0.007925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.818193 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/estrobo amortiguador impacto.asset
-  artifactKey: Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/estrobo amortiguador impacto.asset using Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae299978b7a67d88a82ccab9daa85e8') in 0.019048 seconds 
-  Import took 0.037291 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.909612 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil.asset
-  artifactKey: Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil.asset using Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27be4b56f453d8321343c9393462dcc') in 0.002663 seconds 
-  Import took 0.007108 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.215185 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes.asset
-  artifactKey: Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes.asset using Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc52e5c74f075c71b33835ee1079c37') in 0.005074 seconds 
-  Import took 0.020102 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.144824 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Arnés Tipo Asiento Incorrecto.fbx
-  artifactKey: Guid(257ed98d81b9647cda86c8af9e1b61e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/8. Microcapsula SPDC Ejercicio Arnes/Arnés Tipo Asiento Incorrecto.fbx using Guid(257ed98d81b9647cda86c8af9e1b61e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5599aff30ae2a9c5a164554e0b125f5b') in 0.098587 seconds 
-  Import took 0.119064 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 56.808906 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset
-  artifactKey: Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida horizontal.asset using Guid(4aed3f8aecfe242d8811d0fa2b4e4e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310c0ddce83f21eaa7d14057ad2c8d85') in 0.013327 seconds 
-  Import took 0.027476 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 107.907827 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil.asset
-  artifactKey: Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida autoretractil.asset using Guid(949a329591b014b8380f5fe928276616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65d67516bc5f862e817ccc8d996e7af') in 0.009519 seconds 
-  Import took 0.048849 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 90.408576 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical permanente.asset
-  artifactKey: Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical permanente.asset using Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e69da8683694eb6436e04e6d17eeef6') in 0.056069 seconds 
-  Import took 0.079183 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 52.867653 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical permanente.asset
-  artifactKey: Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical permanente.asset using Guid(9c19c3cf927c6447e83a6206327aad45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bacbf5e6f99bf76284fe1217cb9ea0f7') in 0.026533 seconds 
-  Import took 0.039268 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 28.928422 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal.asset
-  artifactKey: Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/linea vida vertical temporal.asset using Guid(5abe3ea634cf74aa291f76ff2fcea5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0389fce64530490bedcf9ead057dda71') in 0.019503 seconds 
-  Import took 0.034386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.793016 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio.asset
-  artifactKey: Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio.asset using Guid(11d7393f4312545ef8592efaed10d12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d7c291036d887578d908b2271bc7543') in 0.016354 seconds 
-  Import took 0.063224 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.772113 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc arnes de seguridad.asset
-  artifactKey: Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc arnes de seguridad.asset using Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f214df5fb372493788bc66727ab6aff') in 0.014869 seconds 
-  Import took 0.039649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 70.342741 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc arnes de seguridad.asset
-  artifactKey: Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc arnes de seguridad.asset using Guid(78862d3e4403348b288d4787c9f6d418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bf4d9c04e406781f965de8f3dc4aef') in 0.052870 seconds 
-  Import took 0.066628 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 43.960914 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes.asset
-  artifactKey: Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/spdc ejercicio_arnes.asset using Guid(2f36abca4cdb7460483daf4f1f6799f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509a6764fda1a6f1b8a3888221d5249c') in 0.022982 seconds 
-  Import took 0.045859 seconds .
+  Time since last request: 4.972933 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Personaje amortiguador.controller
+  artifactKey: Guid(807cc10c1688b4fb39185d2553992bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Personaje amortiguador.controller using Guid(807cc10c1688b4fb39185d2553992bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2d9990d7d1faec68580db26ed410e1') in 0.004680 seconds 
+  Import took 0.009389 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003939 seconds.
+Registered in 0.003873 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.488 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 300.3 MB.
-System memory in use after: 300.5 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2424.
-Total: 2.714625 ms (FindLiveObjects: 0.242916 ms CreateObjectMapping: 0.045334 ms MarkObjects: 2.401167 ms  DeleteObjects: 0.024417 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 877.765962 seconds.
-  path: Assets/Scriptables/SPDC/Elementos del sistema SPDC/estrobo amortiguador impacto.asset
-  artifactKey: Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriptables/SPDC/Elementos del sistema SPDC/estrobo amortiguador impacto.asset using Guid(ca6e4329bf15f4f8c8db20d09d646bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f50e0b6f9b56b0c3bfd0e6a129157f') in 0.065332 seconds 
-  Import took 0.087362 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004745 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.468 seconds
+- Completed reload, in  2.205 seconds
 Platform modules already initialized, skipping
 Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 300.6 MB.
-System memory in use after: 300.7 MB.
+System memory in use before: 256.8 MB.
+System memory in use after: 256.9 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2428.
-Total: 1.631125 ms (FindLiveObjects: 0.175625 ms CreateObjectMapping: 0.054291 ms MarkObjects: 1.377083 ms  DeleteObjects: 0.023083 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 1.481750 ms (FindLiveObjects: 0.134583 ms CreateObjectMapping: 0.038959 ms MarkObjects: 1.286458 ms  DeleteObjects: 0.020875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 866.738268 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx
+  artifactKey: Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda Autorretractil.fbx using Guid(0c53a954d8eec874499cc97c02f4a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24135d743d47c9d369995e1cb8264e3a') in 0.921505 seconds 
+  Import took 0.940127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx
+  artifactKey: Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Personaje Autorretractil.fbx using Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '800717520e51cf2772663b4595815b48') in 0.097766 seconds 
+  Import took 0.103156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.488229 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil
+  artifactKey: Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil using Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8679983fde643e44412db0d51fa10c8') in 0.001138 seconds 
+  Import took 0.006240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000834 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil
+  artifactKey: Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil using Guid(87561134cde83ed4aaa0ad02118173b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8679983fde643e44412db0d51fa10c8') in 0.000702 seconds 
+  Import took 0.005231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.795716 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Subtítulo SPDC en base a una línea de vida autorretráctil.txt
+  artifactKey: Guid(4e638c21f4922f745980f7f7540c04ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Subtítulo SPDC en base a una línea de vida autorretráctil.txt using Guid(4e638c21f4922f745980f7f7540c04ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd949c8dd56590661ed463830b8f0d033') in 1.546258 seconds 
+  Import took 1.581122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj
+  artifactKey: Guid(c9edeb5975f194f318290df908d068f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj using Guid(c9edeb5975f194f318290df908d068f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6df064b73d884d0fdef31e7bfdb0eb') in 0.001670 seconds 
+  Import took 0.005477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.058832 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/Personaje Autorretractil.fbx
+  artifactKey: Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/Personaje Autorretractil.fbx using Guid(5d5110ef9fced2340bf1c82e50f8c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22722558977079cecaee0be2ebafb3e5') in 0.138775 seconds 
+  Import took 0.153895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.152082 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/ArmatureAction.001.anim
+  artifactKey: Guid(486991893aa044b1d9c74545ecd00fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/pj/ArmatureAction.001.anim using Guid(486991893aa044b1d9c74545ecd00fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae845c6aaa2fbcc1ce08eb0cf55ed66') in 0.170120 seconds 
+  Import took 0.184967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.849899 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim
+  artifactKey: Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim using Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434696757320ae4ea3a1ecf981d2692b') in 0.005730 seconds 
+  Import took 0.012405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003665 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim
+  artifactKey: Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Cuerda/LINELIFEAction.001.anim using Guid(739f7d18f979c482ab374b057bc7f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434696757320ae4ea3a1ecf981d2692b') in 0.003124 seconds 
+  Import took 0.007797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.480825 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Microcapsula SPDC en base a una línea de vida autorretráctil.pptx
+  artifactKey: Guid(a276f8791472d9d40936027f1f564b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/Microcapsula SPDC en base a una línea de vida autorretráctil.pptx using Guid(a276f8791472d9d40936027f1f564b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c921bf95cab36b409cc362995dda59eb') in 0.651371 seconds 
+  Import took 0.657068 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.330 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 292.2 MB.
+System memory in use after: 292.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 1.760542 ms (FindLiveObjects: 0.195458 ms CreateObjectMapping: 0.042583 ms MarkObjects: 1.486875 ms  DeleteObjects: 0.034625 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -729,24 +249,114 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005146 seconds.
+Registered in 0.005446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.221 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 292.4 MB.
+System memory in use after: 292.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 1.450542 ms (FindLiveObjects: 0.156625 ms CreateObjectMapping: 0.038041 ms MarkObjects: 1.232417 ms  DeleteObjects: 0.022709 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 522.389876 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/textos_spdc_3.anim
+  artifactKey: Guid(a4ec506b2cd2d4e69ac35131c06932f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/textos_spdc_3.anim using Guid(a4ec506b2cd2d4e69ac35131c06932f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef5eb290622fbe02acc7189a4cf947e') in 0.053930 seconds 
+  Import took 0.082805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.845337 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/container.controller
+  artifactKey: Guid(7f938c729cacf46b3a743f33b6350563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/3. Microcapsula SPDC en base a una línea de vida autorretráctil/container.controller using Guid(7f938c729cacf46b3a743f33b6350563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e18afcf0a206a04c3f8fe8a23c3f93d') in 0.018983 seconds 
+  Import took 0.034967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.561532 seconds.
+  path: Assets/Audios/Trabajo Alturas/Caida_libre/Audio Procedimiento.wav
+  artifactKey: Guid(c09d0302c7f2b874fbe10b70ee9f8e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/Trabajo Alturas/Caida_libre/Audio Procedimiento.wav using Guid(c09d0302c7f2b874fbe10b70ee9f8e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b118c6b79a5826ad8001cd99341d2f5b') in 0.770293 seconds 
+  Import took 0.780523 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.559 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 297.0 MB.
+System memory in use after: 297.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2437.
+Total: 1.664500 ms (FindLiveObjects: 0.192500 ms CreateObjectMapping: 0.044583 ms MarkObjects: 1.391000 ms  DeleteObjects: 0.035583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004909 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.263 seconds
+- Completed reload, in  2.317 seconds
 Platform modules already initialized, skipping
 Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 300.9 MB.
-System memory in use after: 301.0 MB.
+System memory in use before: 297.3 MB.
+System memory in use after: 297.4 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2432.
-Total: 1.399000 ms (FindLiveObjects: 0.149625 ms CreateObjectMapping: 0.037875 ms MarkObjects: 1.186500 ms  DeleteObjects: 0.024375 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2441.
+Total: 1.410500 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.036291 ms MarkObjects: 1.205792 ms  DeleteObjects: 0.026958 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -761,401 +371,113 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 277.412371 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx
-  artifactKey: Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx using Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992fc36a6fb15940f11fe1a2b34a0cd6') in 0.369417 seconds 
-  Import took 0.395209 seconds .
+  Time since last request: 6639.754556 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Escena anclaje temporal.fbx
+  artifactKey: Guid(ce08a61d99db29841860399ea1669798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Escena anclaje temporal.fbx using Guid(ce08a61d99db29841860399ea1669798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e248387b9141106499c0df093fd0ab') in 0.780067 seconds 
+  Import took 0.855520 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.023803 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx
-  artifactKey: Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx using Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46ced183c134ef367cfa73f4357551d') in 0.094636 seconds 
-  Import took 0.098291 seconds .
+  Time since last request: 22.548834 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx
+  artifactKey: Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx using Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7aa9798d4c24155c3d391c57652093') in 0.009118 seconds 
+  Import took 0.026982 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.005146 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx
-  artifactKey: Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx using Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46ced183c134ef367cfa73f4357551d') in 0.072579 seconds 
-  Import took 0.076543 seconds .
+  Time since last request: 0.000625 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx
+  artifactKey: Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Microcapsula SPDC en base a una línea de vida vertical temporal.pptx using Guid(6faf7c73c7658ca499499ba7bf25e124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7aa9798d4c24155c3d391c57652093') in 0.001306 seconds 
+  Import took 0.005276 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.367830 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx
-  artifactKey: Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.fbx using Guid(bb71cf3cc2422444da76ea6fdd84db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f8a25e0b733819a5b6af60c725a5c3') in 0.096465 seconds 
-  Import took 0.112015 seconds .
+  Time since last request: 135.344664 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal
+  artifactKey: Guid(6eb7bcf8f8b46ee49a40d9fc3c9f7e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal using Guid(6eb7bcf8f8b46ee49a40d9fc3c9f7e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22915bacfaf84a59dd6de6c4f3e049d4') in 0.003001 seconds 
+  Import took 0.026447 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.079231 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Texturas/a 50M.png
-  artifactKey: Guid(037800df62d382f4f8e998f5f41b6b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Texturas/a 50M.png using Guid(037800df62d382f4f8e998f5f41b6b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5ee0c31dff35cb89c84621c5e07a3d') in 0.880136 seconds 
-  Import took 0.887257 seconds .
+  Time since last request: 5.780186 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj
+  artifactKey: Guid(8ed99ca99a9554ce8a536a3f2dbd15f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj using Guid(8ed99ca99a9554ce8a536a3f2dbd15f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef030d59794323332a5cb751e891be15') in 0.004684 seconds 
+  Import took 0.024904 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.010563 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Texturas/a 50M.png
-  artifactKey: Guid(037800df62d382f4f8e998f5f41b6b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Texturas/a 50M.png using Guid(037800df62d382f4f8e998f5f41b6b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5ee0c31dff35cb89c84621c5e07a3d') in 0.008076 seconds 
-  Import took 0.012389 seconds .
+  Time since last request: 0.044154 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Linea de vida anclaje temporal.fbx
+  artifactKey: Guid(19530683242237340a34241e75f3feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Linea de vida anclaje temporal.fbx using Guid(19530683242237340a34241e75f3feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02e4b89b398036640e1fc0e7d4c0d85') in 0.135194 seconds 
+  Import took 0.140303 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 49.413386 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Armature_mixamo.com_Layer0.001.anim
-  artifactKey: Guid(b7fcc8fcaf1784f9f93db94f1c2786e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Armature_mixamo.com_Layer0.001.anim using Guid(b7fcc8fcaf1784f9f93db94f1c2786e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd478fff704d34a07a72c005fcddfe6ac') in 0.209317 seconds 
-  Import took 0.219733 seconds .
+  Time since last request: 4.483443 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj/Personaje anclaje temporal.fbx
+  artifactKey: Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj/Personaje anclaje temporal.fbx using Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e6af30c8a084579a1ef245d6ae5653') in 0.130531 seconds 
+  Import took 0.135086 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 30.231607 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx
-  artifactKey: Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Pared con Linea de vida horizontal.fbx using Guid(d2d57fac35bca0143a062d999ab2ce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138c71bca4febbef210a7bb69c7b6eb7') in 0.086523 seconds 
-  Import took 0.112081 seconds .
+  Time since last request: 9.234147 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj/Personaje anclaje temporal.fbx
+  artifactKey: Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj/Personaje anclaje temporal.fbx using Guid(342681029bf41ff459374cb8dab5d045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24aa8fdb7de0b1bb1671f91987392fd3') in 0.118373 seconds 
+  Import took 0.132588 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 40.876750 seconds.
-  path: Assets/Models/Andamios/Accidentes/Riesgo Electrico/Andamio panel electrico/Textura Piso.jpg
-  artifactKey: Guid(33a92f58aa0724948bcb7747e01a0e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Accidentes/Riesgo Electrico/Andamio panel electrico/Textura Piso.jpg using Guid(33a92f58aa0724948bcb7747e01a0e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94fda86d2e52aa79588b5872bfc4d0e') in 0.556651 seconds 
-  Import took 0.566897 seconds .
+  Time since last request: 40.329898 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/linea
+  artifactKey: Guid(ea18c01f08edf4b67acdb3346cdcb313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/linea using Guid(ea18c01f08edf4b67acdb3346cdcb313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d009244503e36d309a8db4ebdf9ea4e') in 0.003890 seconds 
+  Import took 0.039181 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.458658 seconds.
-  path: Assets/Models/Andamios/Estandares/Panel Electricidad/Textura Panel de Electricidad.png
-  artifactKey: Guid(8cae45cd0a514a5458cdbb03e91c35e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Estandares/Panel Electricidad/Textura Panel de Electricidad.png using Guid(8cae45cd0a514a5458cdbb03e91c35e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31d195d8122a74bdd7cb2ec1c5dd77c') in 0.015512 seconds 
-  Import took 0.022098 seconds .
+  Time since last request: 21.713571 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/linea/LINELIFEAction.anim
+  artifactKey: Guid(f1db543a5629b4c8386a3c9026ca40d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/linea/LINELIFEAction.anim using Guid(f1db543a5629b4c8386a3c9026ca40d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9549701c3c51c3636e751f3823859c6') in 0.014414 seconds 
+  Import took 0.020806 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Models/Andamios/Estandares/personaje Parado/Textura Piel Personaje.png
-  artifactKey: Guid(c634928b29c0445469d9b6ce12053930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Estandares/personaje Parado/Textura Piel Personaje.png using Guid(c634928b29c0445469d9b6ce12053930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30fd5ed558c0e48a3c43866c7ab5f7b') in 0.010088 seconds 
-  Import took 0.013680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Models/Andamios/Accidentes/Riesgo Electrico/Andamio panel electrico/Textura Pared.png
-  artifactKey: Guid(3260080ba076b46f69b59f5aeeb2178b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Accidentes/Riesgo Electrico/Andamio panel electrico/Textura Pared.png using Guid(3260080ba076b46f69b59f5aeeb2178b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2fff91adfa34df8ba9cc64e36a15c1') in 0.008724 seconds 
-  Import took 0.012435 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Models/Extintor/Extintor Polvo Quimico Seco/Textura Polvo Quimico Seco.jpeg
-  artifactKey: Guid(eea20c544c44bd6478dba7b4aaa724a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Extintor/Extintor Polvo Quimico Seco/Textura Polvo Quimico Seco.jpeg using Guid(eea20c544c44bd6478dba7b4aaa724a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb292dc6ab989e471bb3076d034dd28') in 0.567349 seconds 
-  Import took 0.571800 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Models/Andamios/Estandares/Panel Electricidad/Textura Panel de Electricidad.png
-  artifactKey: Guid(8cae45cd0a514a5458cdbb03e91c35e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Estandares/Panel Electricidad/Textura Panel de Electricidad.png using Guid(8cae45cd0a514a5458cdbb03e91c35e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31d195d8122a74bdd7cb2ec1c5dd77c') in 0.006396 seconds 
-  Import took 0.009626 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Models/Andamios/Tipos/Colgante/Textura Panel Electríco.png
-  artifactKey: Guid(b73f898fd65631c4e961025cbaa36c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Tipos/Colgante/Textura Panel Electríco.png using Guid(b73f898fd65631c4e961025cbaa36c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae88c607d9886bc1f3a2f3197962608') in 0.012752 seconds 
-  Import took 0.016496 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000152 seconds.
-  path: Assets/Models/Trabajo_Alturas/Seguridad/Andamio colgante/Textura Panel Electríco.png
-  artifactKey: Guid(d0b2a35b80a714754ae971d441f9390a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Trabajo_Alturas/Seguridad/Andamio colgante/Textura Panel Electríco.png using Guid(d0b2a35b80a714754ae971d441f9390a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f8aecc71a633e7834248c9522969df') in 0.008712 seconds 
-  Import took 0.012719 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Models/Andamios/Accidentes/Riesgo materiales/Desordenado/Textura Planos.jpg
-  artifactKey: Guid(69fc7c3df67d84b23bac5344c78bb74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Accidentes/Riesgo materiales/Desordenado/Textura Planos.jpg using Guid(69fc7c3df67d84b23bac5344c78bb74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec69b7d91ee9e773f1929701a7e6a386') in 0.008192 seconds 
-  Import took 0.012606 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Models/Andamios/Tipos/Andamio_pared/Textura Pared.png
-  artifactKey: Guid(f4ec75aadfca49246b3e42423aaf0737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Tipos/Andamio_pared/Textura Pared.png using Guid(f4ec75aadfca49246b3e42423aaf0737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b79f03186095d03cf6067b93b16033') in 0.006573 seconds 
-  Import took 0.009834 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.102098 seconds.
-  path: Assets/Models/Andamios/Accidentes/Riesgo Electrico/Personaje electrocutado/Textura Uniforme.png
-  artifactKey: Guid(657d198e1daf14ab08db87737bc34310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Accidentes/Riesgo Electrico/Personaje electrocutado/Textura Uniforme.png using Guid(657d198e1daf14ab08db87737bc34310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b07e4086ed15f3269d8085727b4b4a3') in 0.011357 seconds 
-  Import took 0.015843 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Uniforme.png
-  artifactKey: Guid(842dad648ba946646ba533d86dd6f806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Uniforme.png using Guid(842dad648ba946646ba533d86dd6f806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61f33b9359d76ac2918a7374be5f0b6') in 0.009420 seconds 
-  Import took 0.013393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.906419 seconds.
-  path: Assets/Models/Andamios/Estandares/personaje Parado/Textura Uniforme Personaje.png
-  artifactKey: Guid(79fc5731490d4f84fb40c6133b0bab75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Estandares/personaje Parado/Textura Uniforme Personaje.png using Guid(79fc5731490d4f84fb40c6133b0bab75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4300c307390013235dba2b11501ed582') in 0.011937 seconds 
-  Import took 0.016839 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/textura-del-cemento.jpg
-  artifactKey: Guid(cb2e100a2565d664db1356df4f0369c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/textura-del-cemento.jpg using Guid(cb2e100a2565d664db1356df4f0369c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210f295bd5ccb391c60e1c2c9eb10b5e') in 0.009355 seconds 
-  Import took 0.014086 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Models/Andamios/Estandares/personaje Parado/Textura Uniforme Personaje.png
-  artifactKey: Guid(79fc5731490d4f84fb40c6133b0bab75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Andamios/Estandares/personaje Parado/Textura Uniforme Personaje.png using Guid(79fc5731490d4f84fb40c6133b0bab75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4300c307390013235dba2b11501ed582') in 0.007023 seconds 
-  Import took 0.010518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/textura-del-cemento.jpg
-  artifactKey: Guid(cb2e100a2565d664db1356df4f0369c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/textura-del-cemento.jpg using Guid(cb2e100a2565d664db1356df4f0369c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210f295bd5ccb391c60e1c2c9eb10b5e') in 0.005919 seconds 
-  Import took 0.009361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.328961 seconds.
-  path: Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_albedo.tif
-  artifactKey: Guid(b4ea0b25498850c4a8f1ef05d5ea2f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_albedo.tif using Guid(b4ea0b25498850c4a8f1ef05d5ea2f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00463340179973f0b8fb918fa33e88ad') in 0.469296 seconds 
-  Import took 0.474277 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_ao.tif
-  artifactKey: Guid(5058eaa43fe1a554cb2eec0a4ab69c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_ao.tif using Guid(5058eaa43fe1a554cb2eec0a4ab69c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96238c96258f909b66ceddc3b96e448') in 0.007535 seconds 
-  Import took 0.010222 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_normal.tif
-  artifactKey: Guid(644d3cfd4f8ecf34cab05d259342b2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_normal.tif using Guid(644d3cfd4f8ecf34cab05d259342b2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3047272a209381e2802c30ca540bd0b2') in 0.007717 seconds 
-  Import took 0.012561 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_height.tif
-  artifactKey: Guid(9f6bc3a8499d65743a27845cd8f64388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_height.tif using Guid(9f6bc3a8499d65743a27845cd8f64388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ab17c4fc27de962074d0fbdfb7716c') in 0.022214 seconds 
-  Import took 0.029604 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.269290 seconds.
-  path: Assets/EffectExamples/WeaponEffects/Textures/TinyStonesNormalsSheet.tif
-  artifactKey: Guid(a00b2df6dc199854ba60af0c001a51b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/WeaponEffects/Textures/TinyStonesNormalsSheet.tif using Guid(a00b2df6dc199854ba60af0c001a51b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdff1b2bccdf3f244cdf5e8dda027e7') in 0.011635 seconds 
-  Import took 0.016585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.300475 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo A.png
-  artifactKey: Guid(e0240ef9fef954da2a4eae822809d5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo A.png using Guid(e0240ef9fef954da2a4eae822809d5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b23d81b41ea47ef624c20a9e22638f8') in 0.015196 seconds 
-  Import took 0.024121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo D.png
-  artifactKey: Guid(fcc7091e77a664165957bcd2f47eb231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo D.png using Guid(fcc7091e77a664165957bcd2f47eb231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b471fa1e7be3c4b720c763944d7186a') in 0.008625 seconds 
-  Import took 0.013328 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.423736 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo E.png
-  artifactKey: Guid(344c7a49552e645c689198df32a78a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo E.png using Guid(344c7a49552e645c689198df32a78a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbf233e0d815cc772153aaab277589c') in 0.006698 seconds 
-  Import took 0.011525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo P.png
-  artifactKey: Guid(49f24f3f9b09047418a6feee73e6a699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo P.png using Guid(49f24f3f9b09047418a6feee73e6a699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8a96308d0ca8ffe886e72118f4d2a9') in 0.006575 seconds 
-  Import took 0.010224 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo E.png
-  artifactKey: Guid(344c7a49552e645c689198df32a78a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo E.png using Guid(344c7a49552e645c689198df32a78a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbf233e0d815cc772153aaab277589c') in 0.005724 seconds 
-  Import took 0.009680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo P.png
-  artifactKey: Guid(49f24f3f9b09047418a6feee73e6a699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/7. Microcapsula SPDC Arnes de seguridad/Tipo P.png using Guid(49f24f3f9b09047418a6feee73e6a699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8a96308d0ca8ffe886e72118f4d2a9') in 0.005533 seconds 
-  Import took 0.009549 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.700697 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Arbol/Tree Branch.png
-  artifactKey: Guid(de20320847085924f8fe26059c9314ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Arbol/Tree Branch.png using Guid(de20320847085924f8fe26059c9314ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7dff5fb0a1498e793857a5dd023fa0') in 0.010993 seconds 
-  Import took 0.015308 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.079095 seconds.
-  path: Assets/Textures/Ui_Assets_mesa1.png
-  artifactKey: Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Ui_Assets_mesa1.png using Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27285a0a65a5826f12148a3d341bf5a') in 0.183037 seconds 
-  Import took 0.186705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Texturas/Un Carril.png
-  artifactKey: Guid(80e7b275bdf05e742a9c7a7f81b56474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Texturas/Un Carril.png using Guid(80e7b275bdf05e742a9c7a7f81b56474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf49714e3d1f38598c81693331a0994') in 0.008839 seconds 
-  Import took 0.012582 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Textures/Ui_Assets_mesa1.png
-  artifactKey: Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Ui_Assets_mesa1.png using Guid(8d066ffa32e564431a1057c04864978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27285a0a65a5826f12148a3d341bf5a') in 0.042398 seconds 
-  Import took 0.046137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Models/Riesgos_viales/Emplazamiento/Texturas/Un Carril.png
-  artifactKey: Guid(80e7b275bdf05e742a9c7a7f81b56474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Emplazamiento/Texturas/Un Carril.png using Guid(80e7b275bdf05e742a9c7a7f81b56474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf49714e3d1f38598c81693331a0994') in 0.006147 seconds 
-  Import took 0.010463 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Textures/Layout 2_ Submenu/Ventana Salir.png
-  artifactKey: Guid(9f3f139272299e54ebb1eff7aff31432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Layout 2_ Submenu/Ventana Salir.png using Guid(9f3f139272299e54ebb1eff7aff31432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a049189cf28e10c6c933506806cd992d') in 0.007247 seconds 
-  Import took 0.010873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.271612 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/LINELIFEAction.anim
-  artifactKey: Guid(4d2ca54ceac9d4e6ab0883b7e56301c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/LINELIFEAction.anim using Guid(4d2ca54ceac9d4e6ab0883b7e56301c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6850ff60a5c66ee5c87dd988959cc573') in 0.026952 seconds 
-  Import took 0.036720 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.368271 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal
-  artifactKey: Guid(5a2399299f0e68f45a043142b6fabbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal using Guid(5a2399299f0e68f45a043142b6fabbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ebebf3d3d7ec2c8a8581343a7b3a7b') in 0.002262 seconds 
-  Import took 0.013514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.563702 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.controller
-  artifactKey: Guid(5addbb4add21a4f1fb07dc636d59fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.controller using Guid(5addbb4add21a4f1fb07dc636d59fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6772cf3b93dd1178686730ac1754a506') in 0.018835 seconds 
-  Import took 0.030059 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.191476 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller
-  artifactKey: Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller using Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224f98948cd7891d5d66d85bf3fd35c0') in 0.007287 seconds 
-  Import took 0.012857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001666 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller
-  artifactKey: Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller using Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224f98948cd7891d5d66d85bf3fd35c0') in 0.002481 seconds 
-  Import took 0.005821 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.437880 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller
-  artifactKey: Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller using Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70bb2929b19687dedbec34e34c65ea1') in 0.032676 seconds 
-  Import took 0.055016 seconds .
+  Time since last request: 26.763868 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj/ArmatureAction.anim
+  artifactKey: Guid(374d5889216bc4c60a90d92220dc4c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/pj/ArmatureAction.anim using Guid(374d5889216bc4c60a90d92220dc4c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c4a5ffd5337445f7dba0b890671330') in 0.018451 seconds 
+  Import took 0.029307 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003609 seconds.
+Registered in 0.003439 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.241 seconds
+- Completed reload, in  2.448 seconds
 Platform modules already initialized, skipping
 Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 323.2 MB.
-System memory in use after: 323.4 MB.
+System memory in use before: 298.4 MB.
+System memory in use after: 298.5 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2451.
-Total: 1.449750 ms (FindLiveObjects: 0.149875 ms CreateObjectMapping: 0.039417 ms MarkObjects: 1.236083 ms  DeleteObjects: 0.023459 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2446.
+Total: 1.655500 ms (FindLiveObjects: 0.143917 ms CreateObjectMapping: 0.042416 ms MarkObjects: 1.432875 ms  DeleteObjects: 0.035375 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1170,413 +492,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 229.840810 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.controller
-  artifactKey: Guid(5addbb4add21a4f1fb07dc636d59fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.controller using Guid(5addbb4add21a4f1fb07dc636d59fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a283a64864c0a77b296253c82a98d00') in 0.063435 seconds 
-  Import took 0.085500 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003974 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.404 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 323.5 MB.
-System memory in use after: 323.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2455.
-Total: 1.727666 ms (FindLiveObjects: 0.201417 ms CreateObjectMapping: 0.053000 ms MarkObjects: 1.450333 ms  DeleteObjects: 0.021916 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003918 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.417 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 323.7 MB.
-System memory in use after: 323.8 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2459.
-Total: 1.726959 ms (FindLiveObjects: 0.377459 ms CreateObjectMapping: 0.038500 ms MarkObjects: 1.290209 ms  DeleteObjects: 0.020000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 462.506148 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Textos.anim
-  artifactKey: Guid(6095679c06f5946e2a034e68ed697d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Textos.anim using Guid(6095679c06f5946e2a034e68ed697d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84325af99ff6e8931347bf6b412867c4') in 0.096872 seconds 
-  Import took 0.122957 seconds .
+  Time since last request: 36695.526993 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/New Animation.anim
+  artifactKey: Guid(7284c8376f8d742e7b51dd6261eb243a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/New Animation.anim using Guid(7284c8376f8d742e7b51dd6261eb243a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b7708aebf1267e147ca345d465808b') in 0.332928 seconds 
+  Import took 0.509053 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 249.545488 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
-  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.910954 seconds 
-  Import took 0.925250 seconds .
+  Time since last request: 10.083756 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/textos_spdc_4.anim
+  artifactKey: Guid(7284c8376f8d742e7b51dd6261eb243a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/textos_spdc_4.anim using Guid(7284c8376f8d742e7b51dd6261eb243a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b043c5a2dbed2c883c91be53ecb47b0a') in 0.007599 seconds 
+  Import took 0.014368 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000617 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
-  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.132752 seconds 
-  Import took 0.136509 seconds .
+  Time since last request: 1.015310 seconds.
+  path: Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Subtítulo SPDC en base a una línea de vida vertical temporal.txt
+  artifactKey: Guid(7c6a48db22ba36b47a37a1082c792d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SPDC/Elementos del sistema SPDC/4. Microcapsula SPDC en base a una línea de vida vertical temporal/Subtítulo SPDC en base a una línea de vida vertical temporal.txt using Guid(7c6a48db22ba36b47a37a1082c792d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af5c55d96d53588fe50c21fbfa17624') in 0.006099 seconds 
+  Import took 0.010824 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/carro_charactersanimation_MAQUINISTA.fbx
-  artifactKey: Guid(320e3bbfd9e7847438229c5321896ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/carro_charactersanimation_MAQUINISTA.fbx using Guid(320e3bbfd9e7847438229c5321896ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bdef69af55f9bedc54d60a651370ae') in 0.198936 seconds 
-  Import took 0.203450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
-  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb2189d31f36681187f04d578e4bfae') in 0.190704 seconds 
-  Import took 0.195409 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Obrero/Marrakesh brown (metallic).mat
-  artifactKey: Guid(eb5d0cab6a75a444d971b2fd0850116c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Obrero/Marrakesh brown (metallic).mat using Guid(eb5d0cab6a75a444d971b2fd0850116c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa925ff7422e8296f60efd6413a5248') in 0.006984 seconds 
-  Import took 0.010939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Marrakesh brown (metallic).mat
-  artifactKey: Guid(0d52435c9356f0b4db8012f71318198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Marrakesh brown (metallic).mat using Guid(0d52435c9356f0b4db8012f71318198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622ecfa033806fc8fb94f03ed27a3974') in 0.006446 seconds 
-  Import took 0.010200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Assets/carro1/Marrakesh brown (metallic).mat
-  artifactKey: Guid(971fa3b224785bf4f9bc8565644eab9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Assets/carro1/Marrakesh brown (metallic).mat using Guid(971fa3b224785bf4f9bc8565644eab9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066e79eda8b43491b757117810ef9eaa') in 0.006417 seconds 
-  Import took 0.010312 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Peaton/CARRO_PEATON.fbx
-  artifactKey: Guid(f2ac4eaeeb519cb4ebebc099053089d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Peaton/CARRO_PEATON.fbx using Guid(f2ac4eaeeb519cb4ebebc099053089d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2390d85ccde7fe0a9d826d6684cb6f4') in 0.122133 seconds 
-  Import took 0.126182 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat
-  artifactKey: Guid(123ac6dc79004e54b8b352a7e64acdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat using Guid(123ac6dc79004e54b8b352a7e64acdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd103cc04536074c94faaa9a1c74e0803') in 0.043538 seconds 
-  Import took 0.046916 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.384721 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Ciudad/lambert3.mat
-  artifactKey: Guid(9807781d9c1d1e846919cead3aaf5912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Ciudad/lambert3.mat using Guid(9807781d9c1d1e846919cead3aaf5912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd128273cfda90ccd24a7f5aeaa9f98b1') in 0.011925 seconds 
-  Import took 0.015508 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Ciudad/lambert4.mat
-  artifactKey: Guid(417958a382fdbda4ab0b58310afc996c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Ciudad/lambert4.mat using Guid(417958a382fdbda4ab0b58310afc996c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbba63ec99fd2d06f15bfd38330e55a8') in 0.009972 seconds 
-  Import took 0.013668 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.097299 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Assets/carro1/Interior 2.mat
-  artifactKey: Guid(e4d264b36f6336c4cbd98024d3e73bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Assets/carro1/Interior 2.mat using Guid(e4d264b36f6336c4cbd98024d3e73bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692793f1ae48d9a36a2eddc6dc9c0cc1') in 0.009683 seconds 
-  Import took 0.013851 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Assets/carro2/Interior 2.001.mat
-  artifactKey: Guid(638f5ac7d894a3844bfd8756ef8fa0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Assets/carro2/Interior 2.001.mat using Guid(638f5ac7d894a3844bfd8756ef8fa0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b52f27e1aeb07a706db382794f9d637') in 0.006972 seconds 
-  Import took 0.009705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Obrero/Interior 2.mat
-  artifactKey: Guid(adf9a48f4c297184bb32243613c559f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Obrero/Interior 2.mat using Guid(adf9a48f4c297184bb32243613c559f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e4d10d129b1f4ce7f1fc4c0faf7d450') in 0.006259 seconds 
-  Import took 0.009371 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Interior 2.mat
-  artifactKey: Guid(ab34e64386b07b84790eab1d4e46a34b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Interior 2.mat using Guid(ab34e64386b07b84790eab1d4e46a34b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76280fa4ece7e1ac073c43b0b6b4556b') in 0.005622 seconds 
-  Import took 0.008819 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.107451 seconds.
-  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Obrero/Interior 2.mat
-  artifactKey: Guid(adf9a48f4c297184bb32243613c559f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Obrero/Interior 2.mat using Guid(adf9a48f4c297184bb32243613c559f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e4d10d129b1f4ce7f1fc4c0faf7d450') in 0.007146 seconds 
-  Import took 0.012170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.122736 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Assets/carro1/Interior 1.mat
-  artifactKey: Guid(538d687170ab7714f9d8e3052d00467e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Assets/carro1/Interior 1.mat using Guid(538d687170ab7714f9d8e3052d00467e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae5beff5704a201034bd9577d610f7e') in 0.007427 seconds 
-  Import took 0.013124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000406 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Assets/carro2/Interior 1.001.mat
-  artifactKey: Guid(d43f540f2f572f24ea71196cb2f701e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Assets/carro2/Interior 1.001.mat using Guid(d43f540f2f572f24ea71196cb2f701e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f7bd57a248a8294b7649e6c16ab1cb') in 0.008971 seconds 
-  Import took 0.013083 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.106079 seconds.
-  path: Assets/Models/Riesgos_viales/Riesgos/Assets/carro2/Interior 1.001.mat
-  artifactKey: Guid(d43f540f2f572f24ea71196cb2f701e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Riesgos_viales/Riesgos/Assets/carro2/Interior 1.001.mat using Guid(d43f540f2f572f24ea71196cb2f701e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f7bd57a248a8294b7649e6c16ab1cb') in 0.007328 seconds 
-  Import took 0.011730 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003853 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.247 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 329.1 MB.
-System memory in use after: 329.3 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2466.
-Total: 1.460500 ms (FindLiveObjects: 0.134209 ms CreateObjectMapping: 0.037666 ms MarkObjects: 1.264292 ms  DeleteObjects: 0.023459 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 1078.006431 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.fbx
-  artifactKey: Guid(f3a362e4fbf9119488eace3c16e23529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Linea amortiguador.fbx using Guid(f3a362e4fbf9119488eace3c16e23529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb9321ce96bce0799171fec1f64a6a8') in 0.364575 seconds 
-  Import took 0.388549 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.684021 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx
-  artifactKey: Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx using Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4bb95a289c0e52708ea3ae70470619') in 0.140741 seconds 
-  Import took 0.145469 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.041123 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx
-  artifactKey: Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Base a un estrobo amortiguador.fbx using Guid(fe09dcec0dafa144080b19db24748d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4bb95a289c0e52708ea3ae70470619') in 0.069852 seconds 
-  Import took 0.074662 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.135717 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Personaje amortiguador.fbx
-  artifactKey: Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Personaje amortiguador.fbx using Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0e38af5911f2c86d96069613fcba77') in 0.163602 seconds 
-  Import took 0.182209 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.777669 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj
-  artifactKey: Guid(fc8da2c62108a4b81aac64dea4431de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj using Guid(fc8da2c62108a4b81aac64dea4431de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a602dd955b7815892532aa369a838c4') in 0.028729 seconds 
-  Import took 0.058210 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.264581 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Microcapsula SPDC en base a un estrobo amortiguador de impacto.pptx
-  artifactKey: Guid(b7b97f51e2660204dbd26a581f30a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Microcapsula SPDC en base a un estrobo amortiguador de impacto.pptx using Guid(b7b97f51e2660204dbd26a581f30a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7809f3fec3a08fd31f6b9e42fa4b22a8') in 0.010566 seconds 
-  Import took 0.015334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.205676 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Personaje amortiguador.fbx
-  artifactKey: Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Personaje amortiguador.fbx using Guid(73e3abefaa1dd434f8d7bb46ab149ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce49791886fd7d930d0c2e5bf5c77d6') in 0.122552 seconds 
-  Import took 0.140702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.473747 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Subtítulo SPDC en base a un estrobo amortiguador de impacto.txt
-  artifactKey: Guid(9f3ba9ea4f93c1747bda460279f5718f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Subtítulo SPDC en base a un estrobo amortiguador de impacto.txt using Guid(9f3ba9ea4f93c1747bda460279f5718f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64dff0c0b621cbd38238a86748262b6') in 0.018759 seconds 
-  Import took 0.030410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 704.974289 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/texts.anim
-  artifactKey: Guid(75a47ec0361484d09ab286d1095bd552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/texts.anim using Guid(75a47ec0361484d09ab286d1095bd552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c18147621a815782a0d3d231187aeb') in 0.036930 seconds 
-  Import took 0.052755 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003837 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/texts.anim
-  artifactKey: Guid(75a47ec0361484d09ab286d1095bd552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/texts.anim using Guid(75a47ec0361484d09ab286d1095bd552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c18147621a815782a0d3d231187aeb') in 0.002272 seconds 
-  Import took 0.006393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.915270 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/texos-spdc-2.anim
-  artifactKey: Guid(75a47ec0361484d09ab286d1095bd552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/texos-spdc-2.anim using Guid(75a47ec0361484d09ab286d1095bd552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e54b84afa438466bff01e98a59ef9e4') in 0.002726 seconds 
-  Import took 0.007024 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.584481 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Textos.anim
-  artifactKey: Guid(6095679c06f5946e2a034e68ed697d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Textos.anim using Guid(6095679c06f5946e2a034e68ed697d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5985d46dc03e418b7a8a298094e2f4f5') in 0.011518 seconds 
-  Import took 0.030159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.067950 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Textos-spdc-1.anim
-  artifactKey: Guid(6095679c06f5946e2a034e68ed697d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Textos-spdc-1.anim using Guid(6095679c06f5946e2a034e68ed697d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b1728d09166a4101ca197d50ebc6d1') in 0.002986 seconds 
-  Import took 0.009410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 168.372759 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/LINELIFEAction.anim
-  artifactKey: Guid(be5906718175245939e9e5b24ce0e583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/LINELIFEAction.anim using Guid(be5906718175245939e9e5b24ce0e583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af45834a7d6ab07c899092e64d663318') in 0.013492 seconds 
-  Import took 0.065848 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 48.297970 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Armature_Idle pose.anim
-  artifactKey: Guid(25af69f6d02094affbd3dc8159fca2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/2. Microcapsula SPDC en base a un estrobo amortiguador de impacto/Pj/Armature_Idle pose.anim using Guid(25af69f6d02094affbd3dc8159fca2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9b37bb0632739c29ff36c0e41c74ef') in 0.061570 seconds 
-  Import took 0.072450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.032899 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Container.controller
-  artifactKey: Guid(544b20ce0e40c49e4a76884ef147d3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Container.controller using Guid(544b20ce0e40c49e4a76884ef147d3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5bb1df712fe6e03e544e8d16cc9b63') in 0.015557 seconds 
-  Import took 0.030395 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.831924 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.controller
-  artifactKey: Guid(5addbb4add21a4f1fb07dc636d59fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Cuerda Linea de vida horizontal.controller using Guid(5addbb4add21a4f1fb07dc636d59fdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe57f8918998f466609d622989b3e89') in 0.005776 seconds 
-  Import took 0.009400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.488482 seconds.
-  path: Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller
-  artifactKey: Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/SPDC/Elementos del sistema SPDC/1. Microcapsula SPDC con línea de vida horizontal/Personaje Linea de vida horizontal.controller using Guid(1355e7f6d1ee34d4aa72d1ddc07fc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aafd6bbca5109529ebc5c3c3f6f68fb') in 0.036980 seconds 
-  Import took 0.056737 seconds .
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file

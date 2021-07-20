@@ -1,27 +1,46 @@
 fileFormatVersion: 2
-guid: 7d91cab9a6b234e10a2e01d8bb415058
+guid: 342681029bf41ff459374cb8dab5d045
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: 6267270803788561682
-    second: Subir
+      74: -3880581976594992817
+    second: ArmatureAction
   - first:
-      74: -1313467236911976413
-    second: Armature|CAIDA-0
+      74: 4781951162920444690
+    second: Armature|ArmatureAction
   - first:
-      74: -1559071518392153964
-    second: Armature|Cube.001Action
+      74: -4791504522942941401
+    second: Armature|Armature|mixamo.com|Layer0
   - first:
-      74: -6856320025287743803
-    second: Armature|GANCHO2Action
+      74: 4828028426687900610
+    second: Armature|Cube.002Action
+  externalObjects:
   - first:
-      74: 6767156099390128960
-    second: Armature|Plane.004Action
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: c9d3856457521496e9a32b8d29c62615, type: 2}
   - first:
-      74: 6445602015624173019
-    second: Armature|Subir
-  externalObjects: {}
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 0db8ed1cb7c6b4a2a8c97beb62dc7cc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde
+    second: {fileID: 2100000, guid: 57645d1c5407342f88c476fadf38ec7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 3a4b393a57d0040faa5a52ec9b9ea7ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: d003bbc50e0484a57bc1b2b5cc22b136, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
