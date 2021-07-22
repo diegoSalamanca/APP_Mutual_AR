@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
 
 public class ARSoundsController : MonoBehaviour
 {
@@ -55,6 +56,12 @@ public class ARSoundsController : MonoBehaviour
         coroutine = StartCoroutine(SincronizeAudio(textListScriptable));
     }
 
+
+    public void PlayAuidoClipAndAction(TextListScriptable textListScriptable, Action callback)
+    {
+        StopAllCoroutines();
+        coroutine = StartCoroutine(SincronizeAudio(textListScriptable, callback));
+    }
 
     IEnumerator SincronizeAudio(int index)
     {
@@ -146,6 +153,38 @@ public class ARSoundsController : MonoBehaviour
         yield return null;
 
         textMesh.text = "";
+
+    }
+
+    IEnumerator SincronizeAudio(TextListScriptable textListScriptable, Action callback)
+    {
+
+        var clip = textListScriptable.audioClip;
+
+        audioSource.clip = clip;
+        audioSource.Play();
+
+        while (audioSource.time < clip.length)
+        {
+
+            var actualSegment = (int)(textListScriptable.texts.Length * audioSource.time / clip.length);
+            print(actualSegment);
+
+            var value = ((1 * audioSource.time) / clip.length);
+            slider.value = value;
+            if (actualSegment < textListScriptable.texts.Length)
+            {
+                textMesh.text = textListScriptable.texts[actualSegment];
+            }
+
+            yield return null;
+        }
+
+        yield return null;
+
+        textMesh.text = "";
+
+        callback();
 
     }
 
