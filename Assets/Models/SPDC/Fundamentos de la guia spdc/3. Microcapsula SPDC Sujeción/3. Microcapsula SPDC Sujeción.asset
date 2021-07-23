@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
-  m_Name: "3. Microcapsula SPDC Sujecio\u0301n"
+  m_Name: "3. Microcapsula SPDC Sujeci\xF3n"
   m_EditorClassIdentifier: 
   texts:
   - "La sujeci\xF3n es el sistema para prevenir la ca\xEDda del trabajador, "

@@ -32,7 +32,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Cuerda Retencio\u0301n"
+  m_Name: "Cuerda Retenci\xF3n"
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:

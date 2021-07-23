@@ -1,0 +1,5 @@
+LE: Largo Total del Estorbo
+ELC: Espacio Libre de Caída
+MS: Margen de Seguridad
+EA: Elongación del Amortiguador
+ET: Estatura del Trabajador

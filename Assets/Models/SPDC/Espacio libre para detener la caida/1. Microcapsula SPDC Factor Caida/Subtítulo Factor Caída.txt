@@ -1,0 +1,1 @@
+El factor de caída determina la dureza o gravedad de la caída: cuanto mayor sea su valor, más dura será la caída. 
