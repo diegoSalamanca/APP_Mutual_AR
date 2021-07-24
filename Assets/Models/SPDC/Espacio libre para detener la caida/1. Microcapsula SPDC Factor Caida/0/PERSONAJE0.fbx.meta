@@ -9,7 +9,32 @@ ModelImporter:
   - first:
       74: -1313467236911976413
     second: Armature|CAIDA-0
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default OBJ
+    second: {fileID: 2100000, guid: c422de1d1cf78440287613e8edf94349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 2bbc346b9a59843388b2afecad14fb72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_dorado
+    second: {fileID: 2100000, guid: db14536c954bb4313b856d37ab6d8c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 90e032060e0a04080aa3728a77ec7543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: 6ae3976f7bc6747c391379c4eab95fc1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

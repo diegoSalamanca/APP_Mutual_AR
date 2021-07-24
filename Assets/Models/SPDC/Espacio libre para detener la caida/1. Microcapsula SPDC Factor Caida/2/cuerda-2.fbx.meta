@@ -15,6 +15,9 @@ ModelImporter:
   - first:
       74: 3073223464587506204
     second: 'LINELIFE|nudo agarradera.001|nudo agarradera|nudo agarraderaAction|nudo '
+  - first:
+      74: 1955517040612950517
+    second: LINELIFEAction end
   externalObjects: {}
   materials:
     materialImportMode: 2

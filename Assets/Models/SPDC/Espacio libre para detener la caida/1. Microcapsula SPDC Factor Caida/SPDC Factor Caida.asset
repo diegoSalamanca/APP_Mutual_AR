@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
   m_Name: SPDC Factor Caida
   m_EditorClassIdentifier: 
-  texts: []
-  audioClip: {fileID: 0}
+  texts:
+  - "El factor de ca\xEDda determina la dureza o gravedad de la ca\xEDda:"
+  - "cuanto mayor sea su valor, m\xE1s dura ser\xE1 la ca\xEDda. "
+  audioClip: {fileID: 8300000, guid: 9dab2e5b0cc930f4c983ae2394acca8b, type: 3}

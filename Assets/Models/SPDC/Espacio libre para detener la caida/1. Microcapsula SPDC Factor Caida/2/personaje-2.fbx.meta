@@ -18,7 +18,32 @@ ModelImporter:
   - first:
       74: 8525444353030460991
     second: 'Armature|nudo agarradera.001|nudo agarradera|nudo agarraderaAction|nudo '
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default OBJ
+    second: {fileID: 2100000, guid: a5e0bb66d4c994c538be975bac21a23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 9ca45272de9b84c199fdf86438d561e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_dorado
+    second: {fileID: 2100000, guid: abe74a1cf2a2d4a4693a5a65ee125e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 4bb7b6137c8dc486d964b8d1e364a47c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: 4b1aec3db69d94ac68c84b510a60aafc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

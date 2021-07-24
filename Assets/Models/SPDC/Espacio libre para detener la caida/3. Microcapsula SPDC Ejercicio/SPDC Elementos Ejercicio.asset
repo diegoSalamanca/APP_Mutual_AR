@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
   m_Name: SPDC Elementos Ejercicio
   m_EditorClassIdentifier: 
-  texts: []
+  texts:
+  - ...
   audioClip: {fileID: 0}

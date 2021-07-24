@@ -3,7 +3,22 @@ guid: fec3ba5d4ebd5c74ea56dbb4bff79c37
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Andamio_A_Mat
+    second: {fileID: 2100000, guid: 3468df5944ebf404994284bf3f97e4c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_dorado
+    second: {fileID: 2100000, guid: 5100f3aa9d2f44717861c52a405f601a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Mat
+    second: {fileID: 2100000, guid: edc66133c3cc64d9b85e4b74aa022545, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

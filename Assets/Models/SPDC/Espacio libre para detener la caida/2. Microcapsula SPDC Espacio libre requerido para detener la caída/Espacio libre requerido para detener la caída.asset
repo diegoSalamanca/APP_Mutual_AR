@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
   m_Name: "Espacio libre requerido para detener la ca\xEDda"
   m_EditorClassIdentifier: 
-  texts: []
-  audioClip: {fileID: 0}
+  texts:
+  - 'LE: Largo Total del Estorbo'
+  - "ELC: Espacio Libre de Ca\xEDda "
+  - 'MS: Margen de Seguridad '
+  - "EA: Elongaci\xF3n del Amortiguador "
+  - 'ET: Estatura del Trabajador '
+  audioClip: {fileID: 8300000, guid: 004f82a8ea0d85549a4d819684df3c8d, type: 3}

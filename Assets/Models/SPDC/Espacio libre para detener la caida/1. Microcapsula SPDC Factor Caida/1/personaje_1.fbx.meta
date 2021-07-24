@@ -15,7 +15,32 @@ ModelImporter:
   - first:
       74: -1355807462838479252
     second: Armature|Amarillo.001Action
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default OBJ
+    second: {fileID: 2100000, guid: 182057ec0fe6e484b829712da37e4619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 69591f004c6b747c585a2a0daa931969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_dorado
+    second: {fileID: 2100000, guid: a4585ce65ae02438ba242e9de0a24b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 0adb91a42068249b880f2f7cd5c47341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: f707f8cb2395f4e648cc9533a8ba8d26, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

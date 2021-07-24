@@ -6,7 +6,52 @@ ModelImporter:
   - first:
       74: -1422011007694221501
     second: Armature|ArmatureAction.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Andamio_A_Mat
+    second: {fileID: 2100000, guid: 17a52b0b175f648f4b40f91dcac3f599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default OBJ
+    second: {fileID: 2100000, guid: fa2c05b1f98a449d69c80dc8765dfe2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 1c9b53dde64f14154aa19f0b8ab63ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 0c88ad6d7b61346fea900283cdb2aac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 91ba8a48757fe46fea266fe3877567d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_dorado
+    second: {fileID: 2100000, guid: 9003c14d949f34c68b0b051f741b7c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Mat
+    second: {fileID: 2100000, guid: d38af1b059a3446fb8223e556dd890a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Head1.001
+    second: {fileID: 2100000, guid: 28f5a88f61bc145ca918016f87e7cf59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worker_Uniform.001
+    second: {fileID: 2100000, guid: a103f0d9241dc4d49a07023962c99a82, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
