@@ -1,0 +1,1 @@
+Este botón acciona el desfibrilador generando la descarga hacia los electródos. 
