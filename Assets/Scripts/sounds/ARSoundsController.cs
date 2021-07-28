@@ -138,7 +138,7 @@ public class ARSoundsController : MonoBehaviour
         {
 
             var actualSegment = (int)(textListScriptable.texts.Length * audioSource.time / clip.length);
-            print(actualSegment);
+            //print(actualSegment);
 
             var value = ((1 * audioSource.time) / clip.length);
             slider.value = value;
