@@ -14,6 +14,24 @@ TextureImporter:
   - first:
       213: -1678205369492071649
     second: Ui_Assets_mesa2_1
+  - first:
+      213: 1263427728212158635
+    second: Ui_Assets_mesa2_2
+  - first:
+      213: 6687344197412343307
+    second: Ui_Assets_mesa2_3
+  - first:
+      213: -3179638983240904639
+    second: Ui_Assets_mesa2_4
+  - first:
+      213: -173631958064962514
+    second: Ui_Assets_mesa2_7
+  - first:
+      213: 6785726267200065503
+    second: Ui_Assets_mesa2_8
+  - first:
+      213: 6558625545593892243
+    second: Ui_Assets_mesa2_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,7 +165,7 @@ TextureImporter:
         width: 280
         height: 480
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +186,7 @@ TextureImporter:
         width: 280
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +207,7 @@ TextureImporter:
         width: 280
         height: 480
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +228,7 @@ TextureImporter:
         width: 280
         height: 480
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,6 +236,132 @@ TextureImporter:
       bones: []
       spriteID: f1b9543ab11d5b8e0800000000000000
       internalID: -1678205369492071649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa2_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 907
+        width: 551
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8e67b23d8988110800000000000000
+      internalID: 1263427728212158635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa2_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1197
+        width: 375
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4881dd183ecc50800000000000000
+      internalID: 6687344197412343307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa2_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1197
+        width: 338
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14011f1f037afd3d0800000000000000
+      internalID: -3179638983240904639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa2_7
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1598
+        width: 327
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e1e177a2279df0800000000000000
+      internalID: -173631958064962514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa2_8
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1405
+        width: 195
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf4f73761ebb2e50800000000000000
+      internalID: 6785726267200065503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Assets_mesa2_9
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1059
+        width: 277
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2de34f2be40b50800000000000000
+      internalID: 6558625545593892243
       vertices: []
       indices: 
       edges: []

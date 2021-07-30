@@ -12,29 +12,104 @@ public class Desfibrilador_activity : MonoBehaviour
 
     ARSoundsController aRSoundsController;
 
-    int index;
+    public Animator animatorPj;
+
+    public AudioSource audioSource;
+
+    public AudioClip[] clips;
+
+    bool electrode1, electrode2 = false;
+
+    int shocks = 0;
 
 
     private void OnEnable()
     {
-        index = 0;
+        
         aRSoundsController = FindObjectOfType<ARSoundsController>();
-        disableControls();
+        electrode1 = false;
+        electrode2 = false;
         DisableObjects();
-        Next();
-        Invoke("Next", 2f);
-
+        StartActivity();
 
     }
 
-    public void Next()
+    public void StartActivity()
     {
-        aRSoundsController.PlayAuidoClip(textListScriptables[index]);
+        aRSoundsController.PlayAuidoClip(textListScriptables[0]);
+        disableControls();
         DisableObjects();
-        optionObjects[index].SetActive(true);
-        UiControls[index].SetActive(true);
-        index += 1;
+        Invoke("EnableOn", 2f);
+    }
+
+    public void EnableOn()
+    {
+        aRSoundsController.PlayAuidoClip(textListScriptables[1]);
+        DisableObjects();
+        disableControls();
         
+        UiControls[0].SetActive(true);
+        shocks = 0;
+    }
+
+    public void ButtonOn()
+    {
+        disableControls();              
+        Invoke("EnableElectrodos", 2f);
+        optionObjects[0].SetActive(true);
+        audioSource.PlayOneShot(clips[0]);
+    }
+
+    public void EnableElectrodos()
+    {
+        
+        disableControls();
+        aRSoundsController.PlayAuidoClip(textListScriptables[2]);
+        
+        UiControls[1].SetActive(true);
+    }
+
+    public void SliderEvaluateControlElectrode1(float value)
+    {
+
+        if (value > 0.9f)
+        {
+            electrode1 = true;
+            if (electrode1 && electrode2)
+            {
+                disableControls();
+                Invoke("EnableConector", 2f);
+                optionObjects[1].SetActive(true);
+            }
+            
+
+        }
+    }
+
+    public void SliderEvaluateControlElectrode2(float value)
+    {
+
+        if (value > 0.9f)
+        {
+            electrode2 = true;
+            if (electrode1 && electrode2)
+            {
+                disableControls();
+                Invoke("EnableConector", 2f);
+                optionObjects[1].SetActive(true);
+            }
+
+        }
+    }
+
+    public void EnableConector()
+    {
+        
+        disableControls();
+        aRSoundsController.PlayAuidoClip(textListScriptables[3]);
+        
+        UiControls[2].SetActive(true);
+
     }
 
 
@@ -47,17 +122,57 @@ public class Desfibrilador_activity : MonoBehaviour
         }
     }
 
-    public void SliderEvaluateControl(float value)
+    public void SliderEvaluateControlConector(float value)
     {
 
         if (value > 0.9f)
         {
             disableControls();
-            Invoke("Next", 2f);
-            
+            Invoke("EnableDescarga", 2f);
+            optionObjects[2].SetActive(true);
 
         }
     }
+
+    public void EnableDescarga()
+    {
+        
+        disableControls();
+        aRSoundsController.PlayAuidoClip(textListScriptables[4]);
+       
+        UiControls[3].SetActive(true);
+    }
+
+    public void NewShock()
+    {
+        UiControls[3].SetActive(true);
+        
+
+    }
+
+    public void ShockButton()
+    {
+        if (shocks >= 2)
+        {
+            FinalAudio();
+            return;
+        }
+        animatorPj.SetTrigger("shock");
+        shocks += 1;
+        disableControls();
+        audioSource.PlayOneShot(clips[4]);
+        Invoke("NewShock", 2f);
+
+    }
+
+    public void FinalAudio()
+    {
+        disableControls();
+        
+        aRSoundsController.PlayAuidoClip(textListScriptables[5]);
+        
+    }
+
 
     void disableControls()
     {

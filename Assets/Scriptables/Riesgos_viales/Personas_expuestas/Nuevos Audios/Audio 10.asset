@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
+  m_Name: Audio 10
+  m_EditorClassIdentifier: 
+  texts:
+  - "Accidente de tr\xE1nsito, todo siniestro ocurrido en v\xEDa p\xFAblica "
+  - "que no cumpla con las caracter\xEDsticas se\xF1aladas anteriormente. "
+  audioClip: {fileID: 8300000, guid: 9773af7ef3514494687881a8a4091418, type: 3}
