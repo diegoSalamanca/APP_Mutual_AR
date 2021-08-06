@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   texts:
   - 'El desfibrilador incluye 2 electrodos debiendo adherir '
-  - "ada uno de estos al pecho del paciente seg\xFAn indique su etiqueta. "
+  - "cada uno de estos al pecho del paciente seg\xFAn indique su etiqueta. "
   audioClip: {fileID: 8300000, guid: 0faeae836d5244447914ea33dc394d13, type: 3}

@@ -28,7 +28,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Animacio\u0301n Guante Atrapado"
+  m_Name: "Animaci\xF3n Guante Atrapado"
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:

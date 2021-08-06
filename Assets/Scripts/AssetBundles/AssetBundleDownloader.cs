@@ -24,7 +24,7 @@ public class AssetBundleDownloader : MonoBehaviour
 
 
     private void Start()
-    {       
+    {
 
 #if UNITY_IOS
 
@@ -32,7 +32,17 @@ public class AssetBundleDownloader : MonoBehaviour
 
 #endif
 
-        ValidateVersion();
+#if UNITY_EDITOR
+
+        BundlesData.mainAssetBundle = AssetBundle.LoadFromFile(Application.streamingAssetsPath+ "/mutual_bundles");
+        StartButton.SetActive(true);
+        return;
+
+#endif
+
+       ValidateVersion();
+
+       
 
     }
 

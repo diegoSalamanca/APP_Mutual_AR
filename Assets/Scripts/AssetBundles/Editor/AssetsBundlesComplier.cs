@@ -22,7 +22,7 @@ public class AssetsBundlesComplier
         
       
 
-        Hash128 hash128 = assetMf.GetAssetBundleHash("AssetBundles");
+        /*Hash128 hash128 = assetMf.GetAssetBundleHash("AssetBundles");
 
         string data = hash128.ToString();
         string path = "Assets/Resources/AssetInfo/AssetBundleInfo.txt";
@@ -35,7 +35,7 @@ public class AssetsBundlesComplier
                 writer.Write(data);
             }
         }
-        UnityEditor.AssetDatabase.Refresh();
+        UnityEditor.AssetDatabase.Refresh();*/
     }
 
 }

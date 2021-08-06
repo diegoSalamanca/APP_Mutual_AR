@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: extintores-componentes-cilindro
   m_EditorClassIdentifier: 
   texts:
-  - "En el interior de este cilindro se encuentra el agent\xE9 extintor."
+  - En el interior de este cilindro se encuentra el agente extintor.
   audioClip: {fileID: 8300000, guid: 66f0ff3c88c9d48cb9b99e59b6aae549, type: 3}

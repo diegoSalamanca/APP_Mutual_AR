@@ -47,6 +47,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1989513932658351749}
+  - component: {fileID: 1758441414}
   m_Layer: 0
   m_Name: bundle_riesgos_viales_personas_accidente_conductor
   m_TagString: Untagged
@@ -61,7 +62,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1989513932658351748}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.8, y: -0.207, z: -0.87631}
   m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
   m_Children:
@@ -70,6 +71,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1758441414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1989513932658351748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9dbc08589cf347a4b5ecfa48890ecf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textListScriptables:
+  - {fileID: 11400000, guid: 5c2ac8a52332646f3bcbfa71ef52cf5c, type: 2}
+  - {fileID: 11400000, guid: ce15dd4b4b0ea4d099fc92a677ab07f5, type: 2}
+  - {fileID: 11400000, guid: 6fac77d74c8c54e289a1a7d99529464d, type: 2}
 --- !u!1001 &1989513930577503003
 PrefabInstance:
   m_ObjectHideFlags: 0

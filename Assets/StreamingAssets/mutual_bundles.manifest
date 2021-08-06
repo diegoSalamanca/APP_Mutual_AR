@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1288024387
+CRC: 3717426770
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b567e99f9d35582b7aa49f776489cbf
+    Hash: 36547b93fa353e886e9e9918abc03f3d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 18020a74e25d469c07e0e29ff2553e9e
+    Hash: 564f2bd1ec68589ef0d2d0e5d91588b4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,6 +31,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
 - Class: 90
@@ -42,11 +44,25 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: c9dbc08589cf347a4b5ecfa48890ecf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5322cdc5d13664f7aa189bc424d54f1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 519aed4e4d3e8445e9d711ded647e592, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7db132499eb5e4816a7903a2245e208e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 68f830d23fdf2440598028b3e38f348e, type: 3}
 - Class: 114
@@ -54,14 +70,38 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: addd43f08ee2e4116b50f36d5421ffae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a24b32d57298147f1a143798a222e7b9, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76ce2e778bc0741228ace79774008bbd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bb81beb03b1a48b4ba15ccb3cf5d382d, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ed3413573f8514cafa065b5928d8a1d7, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a3c4d592f74a40c48a3b5ab79fd0c90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08dbb2222c8d5b24a9154f4d7935b978, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ea7656bf3ef74ac6b7cff2dcc8fd796, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0f7f1bc5d5be74d42ae3a7bb3050042f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58ba06e1a84704bd194a1dd0dd48f400, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d6014c3769d4015a2ca27394250806, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 120
   Script: {instanceID: 0}
 - Class: 128
   Script: {instanceID: 0}
@@ -81,68 +121,118 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 222
   Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Models/Humans/Black_Human/Walk-human.controller
-- Assets/Resources/Animations/Controllers/Procedimiento_anim_controller.controller
-- Assets/Resources/Prefabs/Actividad_trabajo_alturas_Accientes.prefab
-- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_canalizadores.prefab
-- Assets/Models/Andamios/Estandares/personaje Parado/Personaje parado andamio.fbx
-- Assets/Resources/Animations/Clips/EnpasisAlphaAnimation.anim
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_linea_vida_temporal.prefab
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_linea_vida_autoretractil.prefab
+- Assets/AssetBundles/Desfibriladores/Bundle_desfibirladores_componentes_encendido.prefab
+- Assets/AssetBundles/Cortadora_Carnes_moledora_carne/Bundle_Cortadora_Carnes_moledora_carne_riesgo_enganche.prefab
+- Assets/AssetBundles/Desfibriladores/Bundle_desfibirladores_componentes_intro.prefab
 - Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_sobrecarga.prefab
-- Assets/Resources/Animations/Controllers/Riesgo_Montaje_Controller.controller
+- Assets/AssetBundles/Cortadora_Carnes_moledora_carne/Bundle_Cortadora_Carnes_moledora_carne_riesgo_seccionamiento_dedos.prefab
+- Assets/AssetBundles/Cortadora_Carnes_Laminadora_Fiambre/Bundle_Laminadora_Fiambre_riesgo_corte.prefab
 - Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_operario.prefab
-- Assets/Resources/Animations/Controllers/inspecciones.controller
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-cilindro.prefab
 - Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Electrico.prefab
-- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_inspecciones.prefab
-- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_recomendaciones.prefab
 - Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_peaton.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_recomendaciones.prefab
 - Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje en
   andamio.controller
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_ejercicio_arnes.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamio_Movil.prefab
 - Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_senales.prefab
-- Assets/Resources/Prefabs/MessagePanel.prefab
 - Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_induccion.prefab
+- Assets/AssetBundles/Cortadora_Carnes_Laminadora_Fiambre/Bundle_Laminadora_Fiambre_riesgo_electrico.prefab
+- Assets/AssetBundles/SPDC-fundamentos del sistema/Bundle_SPDC_Fundamentos_del_sistema_sujecion.prefab
+- Assets/AssetBundles/SDPC-espacio-caida/Bundle_SPDC_Espacio_libre_caida_Ejercicio.prefab
+- Assets/AssetBundles/Cortadora_Carnes_Laminadora_Fiambre/Bundle_Laminadora_Fiambre_riesgo_atrapamiento.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-cilindro.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_trabajo_alturas_riesgos_viales.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-manometro.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-intro.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-seguro.prefab
+- Assets/Models/Humans/Black_Human/Black_Human.fbx
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_personal.prefab
+- Assets/AssetBundles/Desfibriladores/Bundle_desfibirladores_componentes_shock.prefab
+- Assets/AssetBundles/Cortadora_Carnes_y_hueso/Bundle_Cortadora_Carnes_y_hueso_suceso_peligroso.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-sello.prefab
+- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Ducto.prefab
+- Assets/AssetBundles/Cortadora_Carnes_moledora_carne/Bundle_Cortadora_Carnes_moledora_carne_riesgo_aplastamiento.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-cilindro.prefab
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_arnes_seguridad.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_obrero.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_intro.prefab
+- Assets/Materials/enphasis.mat
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-seguro.prefab
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_ejercicio.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_conductor.prefab
+- Assets/AssetBundles/SPDC-fundamentos del sistema/Bundle_SPDC_Fundamentos_del_sistema_punto_anclaje.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-manguera.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_intro.prefab
+- Assets/AssetBundles/Desfibriladores/Bundle_desfibirladores_componentes_Electrodos.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-valvula.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_objetos.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_senalizacion.prefab
+- Assets/AssetBundles/Extintores-extinguir-fuego/Bundle-Extinguir-fuego-clase-A-Agua-Presurizada.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamio_Voladizo.prefab
+- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-valvula.prefab
+- Assets/AssetBundles/SPDC-fundamentos del sistema/Bundle_SPDC_Fundamentos_del_sistema_estandares_linea_vida_horizontal.prefab
+- Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En
+  Andamio Comienzo.fbx
+- Assets/AssetBundles/Extintores-extinguir-fuego/Bundle-Extinguir-fuego-clase-B-Dioxido-carbono.prefab
+- Assets/AssetBundles/Desfibriladores/Bundle_desfibriladores_simulacion_ejercicio.prefab
+- Assets/AssetBundles/SDPC-espacio-caida/Bundle_SPDC_Espacio_libre_caida_Accidentes.prefab
+- Assets/Resources/Prefabs/Actividad_trabajo_alturas_Accientes.prefab
+- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_canalizadores.prefab
+- Assets/AssetBundles/SPDC-fundamentos del sistema/Bundle_SPDC_Fundamentos_del_sistema_retencion.prefab
+- Assets/Models/Andamios/Estandares/personaje Parado/Personaje parado andamio.fbx
+- Assets/AssetBundles/Extintores-extinguir-fuego/Bundle-Extinguir-fuego-clase-C-Polvo-Quimico-Seco.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-sello.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_inspecciones.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-manometro.prefab
+- Assets/AssetBundles/SDPC-espacio-caida/Bundle_SPDC_Espacio_libre_caida_factor_caida.prefab
+- Assets/Resources/Prefabs/MessagePanel.prefab
+- "Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos_sistema_l\xEDnea_vida_horizontal.prefab"
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-manometro.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamio_Comienzo.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamio_Anclado.prefab
-- Assets/AssetBundles/Riesgos Viales/bundle_trabajo_alturas_riesgos_viales.prefab
-- Assets/Resources/Animations/Clips/Procedimiento_anim.anim
-- Assets/Resources/Animations/Clips/Black-human-move.anim
-- Assets/Models/Humans/Black_Human/Black_Human.fbx
-- Assets/Resources/Animations/Controllers/EnphasisiContoller.controller
+- Assets/AssetBundles/Cortadora_Carnes_y_hueso/Bundle_Cortadora_Carnes_y_hueso_riesgo_seccionamiento.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_mecanismos.prefab
-- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_intro.prefab
-- Assets/Resources/Animations/Clips/RiesgoMontajeAnim.anim
-- Assets/AssetBundles/trabajo_alturas/bundle_Accidentes_Trabajo_Alturas.prefab
-- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_personal.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamio_Apoyo_Simple.prefab
+- Assets/AssetBundles/Cortadora_Carnes_y_hueso/Bundle_Cortadora_Carnes_y_hueso_riesgo_corte.prefab
+- Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_intro.prefab
+- Assets/AssetBundles/Extintores-extinguir-fuego/Bundle-Extinguir-fuego-clase-C-Dioxido-carbono.prefab
 - Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_bandereros.prefab
-- Assets/Resources/Animations/Clips/Estandares-partes.anim
-- Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Ducto.prefab
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_linea_vida_permanente.prefab
 - Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Climatico.prefab
 - Assets/AssetBundles/trabajo_alturas/bundle_trabajo_alturas_seguridad.prefab
 - Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Materiales.prefab
-- Assets/Resources/Animations/Controllers/HumanParent.controller
-- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_obrero.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-sello.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamio_Colgante.prefab
-- Assets/Resources/Animations/Controllers/partes.controller
-- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_intro.prefab
+- Assets/AssetBundles/Extintores-extinguir-fuego/Bundle-Extinguir-fuego-clase-A-Polvo-Quimico-Seco.prefab
 - "Assets/Models/Riesgos_viales/Emplazamiento/Se\xF1ales-emplazamiento/Se\xF1ales-emplazamiento-anim-controller.controller"
-- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_personas_accidente_conductor.prefab
+- Assets/AssetBundles/Cortadora_Carnes_Laminadora_Fiambre/Bundle_Laminadora_Fiambre_piso_resbaladizo.prefab
 - Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_soporte.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-intro.prefab
 - Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_mantenimiento.prefab
-- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_intro.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-seguro.prefab
 - Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_peaton.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-manguera.prefab
 - Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_procedimiento.prefab
-- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_objetos.prefab
-- Assets/AssetBundles/Riesgos Viales/bundle_riesgos_viales_emplazamiento_senalizacion.prefab
 - Assets/AssetBundles/Andamios/bundle_Andamios_Estandares_partes.prefab
-- Assets/Resources/Animations/Clips/Estandares-inspecciones.anim
-- Assets/AssetBundles/trabajo_alturas/bundle_trabajo_Alturas_Caida_Libre_causas_comunes.prefab
-- Assets/AssetBundles/Andamios/bundle_Andamio_Voladizo.prefab
-- Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Personaje En
-  Andamio Comienzo.fbx
+- Assets/AssetBundles/SDPC-espacio-caida/Bundle_SPDC_Espacio_libre_caida_ espacio_requerido.prefab
+- Assets/AssetBundles/Extintores-extinguir-fuego/Bundle-Extinguir-fuego-clase-B-Polvo-Quimico-Seco.prefab
+- Assets/AssetBundles/SPDC-fundamentos del sistema/Bundle_SPDC_Fundamentos_del_sistema_anticaidas.prefab
+- Assets/AssetBundles/SPDC-elementos del sistema/Bundle_SPDC_Elementos-sistema_estrobo_amortiguador_impacto.prefab
 - Assets/AssetBundles/Andamios/bundle_accidentes_andamios_Riesgo-Montaje.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-quimico-seco-valvula.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-agua-manguera.prefab
+- Assets/AssetBundles/Extintores-componentes/Bundle-Componentes-dioxido-intro.prefab
 Dependencies: []

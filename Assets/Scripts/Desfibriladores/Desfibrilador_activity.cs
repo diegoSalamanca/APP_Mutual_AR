@@ -6,13 +6,13 @@ public class Desfibrilador_activity : MonoBehaviour
 {
     public TextListScriptable[] textListScriptables;
     
-    public GameObject[] optionObjects;
+    
 
     public GameObject[] UiControls;
 
     ARSoundsController aRSoundsController;
 
-    public Animator animatorPj;
+    public Animator animatorPj, animatorDesfibrilador;
 
     public AudioSource audioSource;
 
@@ -27,9 +27,10 @@ public class Desfibrilador_activity : MonoBehaviour
     {
         
         aRSoundsController = FindObjectOfType<ARSoundsController>();
+        
         electrode1 = false;
         electrode2 = false;
-        DisableObjects();
+        
         StartActivity();
 
     }
@@ -38,14 +39,14 @@ public class Desfibrilador_activity : MonoBehaviour
     {
         aRSoundsController.PlayAuidoClip(textListScriptables[0]);
         disableControls();
-        DisableObjects();
+        animatorDesfibrilador.SetTrigger("idle");
         Invoke("EnableOn", 2f);
     }
 
     public void EnableOn()
     {
         aRSoundsController.PlayAuidoClip(textListScriptables[1]);
-        DisableObjects();
+        
         disableControls();
         
         UiControls[0].SetActive(true);
@@ -56,7 +57,7 @@ public class Desfibrilador_activity : MonoBehaviour
     {
         disableControls();              
         Invoke("EnableElectrodos", 2f);
-        optionObjects[0].SetActive(true);
+        animatorDesfibrilador.SetTrigger("on");
         audioSource.PlayOneShot(clips[0]);
     }
 
@@ -79,7 +80,8 @@ public class Desfibrilador_activity : MonoBehaviour
             {
                 disableControls();
                 Invoke("EnableConector", 2f);
-                optionObjects[1].SetActive(true);
+                animatorDesfibrilador.SetTrigger("electrode");
+
             }
             
 
@@ -96,7 +98,8 @@ public class Desfibrilador_activity : MonoBehaviour
             {
                 disableControls();
                 Invoke("EnableConector", 2f);
-                optionObjects[1].SetActive(true);
+                animatorDesfibrilador.SetTrigger("electrode");
+
             }
 
         }
@@ -114,14 +117,6 @@ public class Desfibrilador_activity : MonoBehaviour
 
 
 
-    void DisableObjects()
-    {
-        foreach (var item in optionObjects)
-        {
-            item.SetActive(false);
-        }
-    }
-
     public void SliderEvaluateControlConector(float value)
     {
 
@@ -129,7 +124,7 @@ public class Desfibrilador_activity : MonoBehaviour
         {
             disableControls();
             Invoke("EnableDescarga", 2f);
-            optionObjects[2].SetActive(true);
+            animatorDesfibrilador.SetTrigger("conect");
 
         }
     }
@@ -145,8 +140,7 @@ public class Desfibrilador_activity : MonoBehaviour
 
     public void NewShock()
     {
-        UiControls[3].SetActive(true);
-        
+        UiControls[3].SetActive(true);       
 
     }
 
@@ -162,7 +156,7 @@ public class Desfibrilador_activity : MonoBehaviour
         disableControls();
         audioSource.PlayOneShot(clips[4]);
         Invoke("NewShock", 2f);
-
+        animatorDesfibrilador.SetTrigger("shock");
     }
 
     public void FinalAudio()
