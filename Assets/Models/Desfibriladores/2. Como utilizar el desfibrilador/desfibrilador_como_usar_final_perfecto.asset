@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: desfibrilador_como_usar_final_perfecto
   m_EditorClassIdentifier: 
   texts:
-  - 
+  - Perfecto lo has hecho muy bien
   audioClip: {fileID: 8300000, guid: ed3143a84986c4849a556a13b1cbaa80, type: 3}

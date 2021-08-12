@@ -2098,14 +2098,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2617769017266656542}
   m_LocalRotation: {x: 0.027985042, y: -0.0017911708, z: 0.06384919, w: 0.9975655}
-  m_LocalPosition: {x: -0, y: -0.22209428, z: 0}
-  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_LocalPosition: {x: 1.41, y: 0.26, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7264915408976102575}
   - {fileID: 1060465480236342311}
   - {fileID: 2469436713456945237}
   - {fileID: 7453254128830885967}
-  m_Father: {fileID: 4515939466158637226}
+  m_Father: {fileID: 6815603167812130158}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 3.2138326, y: 0.0000013762063, z: 7.324442}
 --- !u!1 &2620548378821303235
@@ -3291,14 +3291,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4515939466158637226}
-  - component: {fileID: 4116693004208629582}
   m_Layer: 0
   m_Name: "Animacio\u0301n de andamio desnivelado"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4515939466158637226
 Transform:
   m_ObjectHideFlags: 0
@@ -3310,30 +3309,11 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0.127}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children:
-  - {fileID: 5091782790344229628}
   - {fileID: 8168307859140751309}
+  - {fileID: 6815603167812130158}
   m_Father: {fileID: 4116693003057202884}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &4116693004208629582
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3882111296950098448}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0d165ebdcf82f438790f333993250dcd, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &3882111296986399487
 GameObject:
   m_ObjectHideFlags: 0
@@ -3402,7 +3382,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4515939466677874776
 Transform:
   m_ObjectHideFlags: 0
@@ -5243,7 +5223,7 @@ Transform:
   m_LocalScale: {x: -196.22394, y: -235.06778, z: -79.49538}
   m_Children: []
   m_Father: {fileID: 4515939466158637226}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 89.98021, y: 179.99998, z: 0}
 --- !u!33 &5012261522736866525
 MeshFilter:
@@ -5294,6 +5274,57 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &6227429791768851383
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6815603167812130158}
+  - component: {fileID: 7883563958558823760}
+  m_Layer: 0
+  m_Name: AndamioContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6815603167812130158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6227429791768851383}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.61, y: -0.44, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5091782790344229628}
+  m_Father: {fileID: 4515939466158637226}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &7883563958558823760
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6227429791768851383}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e91fc3977d64f44b1adbd69292b98b9d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &6241139352221480511
 GameObject:
   m_ObjectHideFlags: 0
