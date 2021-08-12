@@ -36,8 +36,7 @@ public class SPDC_activity_estandares_lineas_horizontales : MonoBehaviour
         if (audioIndex < textListScriptables.Length)
         {
             buttonNext.SetActive(true);
-        }
-        
+        }        
     }
 
     

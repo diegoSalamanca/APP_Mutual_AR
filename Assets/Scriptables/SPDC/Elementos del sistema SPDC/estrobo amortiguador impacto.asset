@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   texts:
   - 1) Punto de Anclaje
-  - 2) Estorbo amortiguador de impacto
+  - 2) Estrobo amortiguador de impacto
   - "3) Arn\xE9s de Cuerpo completo "
   audioClip: {fileID: 8300000, guid: 79d2a0f3edb40e6489bb25bc523c4019, type: 3}

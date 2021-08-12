@@ -180,8 +180,6 @@ public class ARSoundsController : MonoBehaviour
             yield return null;
         }
 
-        yield return null;
-
         textMesh.text = "";
 
         callback();
