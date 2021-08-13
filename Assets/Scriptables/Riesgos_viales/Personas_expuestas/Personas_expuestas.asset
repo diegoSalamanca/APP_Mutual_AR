@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   texts:
   - Las personas expuestas a sufrir riesgo viales son
-  - los trabajadores de obra, operadores de maquinaria Peatones,
+  - los trabajadores de obra, operadores de maquinaria,
   - "choferes de veh\xEDculos particulares y peatones. "
-  audioClip: {fileID: 8300000, guid: a2ed677c37904184eae3553223ec6bc7, type: 3}
+  audioClip: {fileID: 8300000, guid: de18042f0a18041608bf456306400257, type: 3}
