@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Audio 4
   m_EditorClassIdentifier: 
   texts:
-  - "Factor v\xEDa/entorno, tipo de pavimento, iluminaci\xF3n, hielo, otros. "
+  - "Factor v\xEDa/entorno, tipo de pavimento, iluminaci\xF3n, lluvia, hielo, otros. "
   audioClip: {fileID: 8300000, guid: d5e0bbb1fb5704fb49c6f2f9f96a40b2, type: 3}
