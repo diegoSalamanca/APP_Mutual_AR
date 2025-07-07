@@ -27,7 +27,7 @@ TextureImporter:
       213: 3780561896686336157
     second: "Pantalla Men\xFA Composici\xF3n_7"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,6 +47,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -55,12 +57,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -78,10 +80,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -324,6 +330,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "Pantalla Men\xFA Composici\xF3n_0": 1817108227187709499
+      "Pantalla Men\xFA Composici\xF3n_1": -8839936421588118618
+      "Pantalla Men\xFA Composici\xF3n_2": 8975126191643175738
+      "Pantalla Men\xFA Composici\xF3n_3": -5334210607349839665
+      "Pantalla Men\xFA Composici\xF3n_4": -8328667508991778481
+      "Pantalla Men\xFA Composici\xF3n_5": 4913136673111447715
+      "Pantalla Men\xFA Composici\xF3n_6": 670641066011824203
+      "Pantalla Men\xFA Composici\xF3n_7": 3780561896686336157
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

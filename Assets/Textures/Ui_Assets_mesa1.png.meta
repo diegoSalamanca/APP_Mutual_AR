@@ -51,7 +51,7 @@ TextureImporter:
       213: -8443602705402606340
     second: Ui_Assets_mesa1_16
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -110,6 +111,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -541,6 +543,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Ui_Assets_mesa1_0: -4465109920665704280
+      Ui_Assets_mesa1_1: -3168228064813783425
+      Ui_Assets_mesa1_10: 298557136860547789
+      Ui_Assets_mesa1_11: 6587313947961192407
+      Ui_Assets_mesa1_12: 8403476234688844625
+      Ui_Assets_mesa1_13: 6645025678956959816
+      Ui_Assets_mesa1_14: -5859242421616606335
+      Ui_Assets_mesa1_15: 6699542482817716862
+      Ui_Assets_mesa1_16: -8443602705402606340
+      Ui_Assets_mesa1_2: 3366139998324001916
+      Ui_Assets_mesa1_3: -7855479018965241151
+      Ui_Assets_mesa1_4: 4108931927930995476
+      Ui_Assets_mesa1_5: 904397732738338978
+      Ui_Assets_mesa1_6: 495194522576244435
+      Ui_Assets_mesa1_7: -7819944635264126741
+      Ui_Assets_mesa1_8: -1556971638948993618
+      Ui_Assets_mesa1_9: -2278451078516182049
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

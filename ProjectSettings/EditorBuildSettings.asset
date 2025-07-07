@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/PrefabsWork.unity
     guid: 68d11020bc9a3504e83ed4c732a09291
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: da5a26922fb914a9a809ef225bf2ac76,

@@ -1,0 +1,627 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.45f1 (0da89fac8e79) revision 895135'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 61292 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/UnityProjects/Testing/APP_Mutual_AR
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51643
+Successfully changed project path to: D:/UnityProjects/Testing/APP_Mutual_AR
+D:/UnityProjects/Testing/APP_Mutual_AR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [50036] Host "[IP] 192.168.1.77 [Port] 0 [Flags] 2 [Guid] 3317200011 [EditorId] 3317200011 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-V312AES4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [50036] Host "[IP] 192.168.1.77 [Port] 0 [Flags] 2 [Guid] 3317200011 [EditorId] 3317200011 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-V312AES4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Refreshing native plugins compatible for Editor in 47.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.45f1 (0da89fac8e79)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/Testing/APP_Mutual_AR/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   NVIDIA
+    VRAM:     6010 MB
+    Driver:   31.0.15.4630
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008829 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 325 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Domain Reload Profiling:
+	ReloadAssembly (949ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (748ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (104ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (573ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (394ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (104ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002428 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 33.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  1.572 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1573ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1352ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (178ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (1018ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (865ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1944 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (1.8 MB). Loaded Objects now: 2390.
+Memory consumption went from 95.9 MB to 94.1 MB.
+Total: 3.394900 ms (FindLiveObjects: 0.154300 ms CreateObjectMapping: 0.043800 ms MarkObjects: 2.796100 ms  DeleteObjects: 0.399700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 540619.194020 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1/pj_1_caida_libre.controller
+  artifactKey: Guid(d5a71f3aff5c54fb492373a59d6e8090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1/pj_1_caida_libre.controller using Guid(d5a71f3aff5c54fb492373a59d6e8090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d21ea3278f589030f84a367c748992') in 0.031316 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.378345 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1/Personaje 1.fbx
+  artifactKey: Guid(2f94e624ab3fe497a8d3bd12616d202f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_1/Personaje 1.fbx using Guid(2f94e624ab3fe497a8d3bd12616d202f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a001bafd403c76d6f69122640f38c6') in 0.168130 seconds 
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 33.469261 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3
+  artifactKey: Guid(2eb8dc04c90c74436a048bf515662127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3 using Guid(2eb8dc04c90c74436a048bf515662127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7476c88c10a6b694fbd12758cf47a105') in 0.011947 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.060399 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Default OBJ.mat
+  artifactKey: Guid(ea5ac6d513ff1415d907d628f814ed08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Default OBJ.mat using Guid(ea5ac6d513ff1415d907d628f814ed08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b988123fb89c561b7404bd1b76f308') in 0.044374 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Metal_dorado.mat
+  artifactKey: Guid(16d3aa3686db545fda8c632196d7b067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Metal_dorado.mat using Guid(16d3aa3686db545fda8c632196d7b067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f5b31645131bc41904dc7e9db9fd87') in 0.018727 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Material.012.mat
+  artifactKey: Guid(6c8ec7d8a3c2c4568bd112d5c692db80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Material.012.mat using Guid(6c8ec7d8a3c2c4568bd112d5c692db80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9509df1cb025d17e76dee5ba9bf800b') in 0.017949 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Worker_Uniform.001.mat
+  artifactKey: Guid(2e11d9a70d64b45188a0b21d4b72d7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Worker_Uniform.001.mat using Guid(2e11d9a70d64b45188a0b21d4b72d7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ac4457e3772658643cc89b9a34fe10') in 0.017495 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Personaje 3.fbx
+  artifactKey: Guid(bcf04ef242ada45dab3cfc963a088f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_3/Personaje 3.fbx using Guid(bcf04ef242ada45dab3cfc963a088f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ecdedc5b15c9b6f74c55a15c8904d1') in 0.087540 seconds 
+Number of asset objects unloaded after import = 245
+========================================================================
+Received Import Request.
+  Time since last request: 40.438020 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Bomberos 132.png
+  artifactKey: Guid(bae547249940f4886a5e50c6f58e51c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Bomberos 132.png using Guid(bae547249940f4886a5e50c6f58e51c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194a178a9ca8712d3b7ed9b451f99b95') in 0.108465 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png
+  artifactKey: Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 3 - Parrafo 3.png using Guid(0228d9f73cab6244eaa42cc8ea38627e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bea5503868c0d27787b4b6d3eb1cd2') in 2.188006 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Personaje_2
+  artifactKey: Guid(4bd4e01ded2824388bf1e8e3e764bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Personaje_2 using Guid(4bd4e01ded2824388bf1e8e3e764bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c034f84877ea035c54754e3564571099') in 0.015413 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png
+  artifactKey: Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Trabajo_Alturas/Caida libre/Procedimiento/Imagen 2 - Parrafo  2.png using Guid(d91627c9361a8484791770ce3fa1275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03420f8f8ae66e7b526d5db3a4353d38') in 0.075934 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 652.100312 seconds.
+  path: Assets/Models/Andamios/Accidentes/Riesgo Electrico/Personaje electrocutado/Animación Personaje Electrocutado.fbx
+  artifactKey: Guid(61e3005a2c24542b99bc4d566c24022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Accidentes/Riesgo Electrico/Personaje electrocutado/Animación Personaje Electrocutado.fbx using Guid(61e3005a2c24542b99bc4d566c24022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c209a8eb3d6698bd18ede45bcb502168') in 0.096820 seconds 
+Number of asset objects unloaded after import = 176
+========================================================================
+Received Import Request.
+  Time since last request: 52.359671 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Default OBJ.002.mat
+  artifactKey: Guid(48c729f903f0d3a40b1abd4af3ce556a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Default OBJ.002.mat using Guid(48c729f903f0d3a40b1abd4af3ce556a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a1518c2d405936e110a3db96031170') in 0.017492 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Worker_Head1.002.mat
+  artifactKey: Guid(d181825eb50d98b458b50749736038b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Worker_Head1.002.mat using Guid(d181825eb50d98b458b50749736038b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f6ada3a21c82a52417d69f291c5992') in 0.191548 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Cabeza.png
+  artifactKey: Guid(a25fbcbb185e2dd468d29bbc5b308241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Textura Cabeza.png using Guid(a25fbcbb185e2dd468d29bbc5b308241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b0daf562037ecdcbca99e65bebd755') in 0.027927 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Worker_Uniform.002.mat
+  artifactKey: Guid(306fd43d22389f6458f09222854cdda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio/Worker_Uniform.002.mat using Guid(306fd43d22389f6458f09222854cdda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796c10cd973d737e48e9fba0c37cc214') in 0.020666 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 44.909165 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Andamio Simple
+  artifactKey: Guid(643f3c3217928e64c80c801675324ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Andamio Simple using Guid(643f3c3217928e64c80c801675324ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f617cc55c636071edfddd88416267a') in 0.011830 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.878641 seconds.
+  path: Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio
+  artifactKey: Guid(f6203e6ad98cab7409d3b13cb3d7d31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Aandamio Comienzo/Personaje En Andamio using Guid(f6203e6ad98cab7409d3b13cb3d7d31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7643b54fc10b929bcfcc68dd5944cb05') in 0.010226 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.191023 seconds.
+  path: Assets/Models/Andamios/Tipos/Andamio anclado
+  artifactKey: Guid(fd052b14008ddb543bc332398dd8e35b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Andamio anclado using Guid(fd052b14008ddb543bc332398dd8e35b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b873319b93d5473e49067343075479e8') in 0.012166 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.532999 seconds.
+  path: Assets/Models/Andamios/Tipos/Andamio_pared
+  artifactKey: Guid(ac06976d4e1ba5049a8def97ed0b8c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Andamio_pared using Guid(ac06976d4e1ba5049a8def97ed0b8c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b7e387673050d03d20c6e49d2dee49') in 0.009649 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.229927 seconds.
+  path: Assets/Models/Andamios/Tipos/Colgante
+  artifactKey: Guid(8f49de3beca68e1489671f816d43f9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Colgante using Guid(8f49de3beca68e1489671f816d43f9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2382290f20f33df17c2d2a6d63c89a3') in 0.014417 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.611614 seconds.
+  path: Assets/Models/Andamios/Tipos/Colgante/Andamio colgante.fbx
+  artifactKey: Guid(3eee6fb506a6a214d8069dd6b488f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/Colgante/Andamio colgante.fbx using Guid(3eee6fb506a6a214d8069dd6b488f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9b98fe81f75b97ed7000ce520bbf2e') in 0.194889 seconds 
+Number of asset objects unloaded after import = 79
+========================================================================
+Received Import Request.
+  Time since last request: 7.688956 seconds.
+  path: Assets/Models/Andamios/Tipos/voladizo
+  artifactKey: Guid(d662ab743a04fac4aaa4f846b4123720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/voladizo using Guid(d662ab743a04fac4aaa4f846b4123720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea07373db021957e83ac6a5fc658923c') in 0.010245 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.068835 seconds.
+  path: Assets/Models/Andamios/Tipos/voladizo/Andamio Voladizo.fbx
+  artifactKey: Guid(8a41f3fd7dbfcca4a9181d5ac1b95b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Tipos/voladizo/Andamio Voladizo.fbx using Guid(8a41f3fd7dbfcca4a9181d5ac1b95b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '632c6e8a0d5aa9ebe0c6dc03bb2200cd') in 0.048661 seconds 
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 7.783561 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas
+  artifactKey: Guid(309ce9dd254ef7140b5aca82224a9e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas using Guid(309ce9dd254ef7140b5aca82224a9e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5af3018dbfa3aa0093aa26ac0f71a3f') in 0.009855 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.193460 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor
+  artifactKey: Guid(cd8e2a2a11dd7dc4ebd8ebd39b9a4c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor using Guid(cd8e2a2a11dd7dc4ebd8ebd39b9a4c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad71e19c024dcd080b15aab111efcdfa') in 0.009929 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.062917 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Aluminium.002.mat
+  artifactKey: Guid(13468d56bc756de479fd161760bb6a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Aluminium.002.mat using Guid(13468d56bc756de479fd161760bb6a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3406490581aa4387b2377a3cd7402403') in 0.022726 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Reflector.002.mat
+  artifactKey: Guid(82cd3176c0ff9f343b7bfe27569c4c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Reflector.002.mat using Guid(82cd3176c0ff9f343b7bfe27569c4c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be02f9b0a60005dce89793aa35b9e15b') in 0.028808 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Underbody.mat
+  artifactKey: Guid(8527454b7c4c1e8498863e304038b95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Underbody.mat using Guid(8527454b7c4c1e8498863e304038b95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623bf237f9fe47299b12ac5c37e14c15') in 0.016237 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Chrom (matte).mat
+  artifactKey: Guid(a7eb1cea8673f344cb51a1343135ab12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Chrom (matte).mat using Guid(a7eb1cea8673f344cb51a1343135ab12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1792ee41de4e74ecbb70f142d570906') in 0.015764 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Reverse lights.mat
+  artifactKey: Guid(d4422bdeecc86b749b9c531875907b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Reverse lights.mat using Guid(d4422bdeecc86b749b9c531875907b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60c33cffd56d1f4e2bfff16c6aeef97') in 0.016387 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Reflector.mat
+  artifactKey: Guid(70d74ee90b67c5447b9efebb89eac8e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Reflector.mat using Guid(70d74ee90b67c5447b9efebb89eac8e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfdc4fe1dd5969b5b11435ccea68c45') in 0.017014 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Tail lights.mat
+  artifactKey: Guid(453f863da3bfee24c9192622b5af863b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Tail lights.mat using Guid(453f863da3bfee24c9192622b5af863b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700f79234374f1a7cb32ed13447f3d12') in 0.017132 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Glass.mat
+  artifactKey: Guid(5019f1d6b3e9865449b9a98da73387f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Glass.mat using Guid(5019f1d6b3e9865449b9a98da73387f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d7a244a93835bedcdac573372b6d8d') in 0.196999 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.766965 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Windshield.mat
+  artifactKey: Guid(212747efe5e2ee745a3ea5cb8efc6b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Conductor/Windshield.mat using Guid(212747efe5e2ee745a3ea5cb8efc6b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324a0f47af75bd8b47ea53b8904b943a') in 0.019104 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.378234 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario
+  artifactKey: Guid(6440e93f4471f6f4a93125f906e791d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario using Guid(6440e93f4471f6f4a93125f906e791d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97efca30dd140d68abb80988164cd8ea') in 0.011445 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.069287 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/camiondecarga_animacion_MAQUINISTA.fbx
+  artifactKey: Guid(519430f9cec1d08418ff35a885928363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/camiondecarga_animacion_MAQUINISTA.fbx using Guid(519430f9cec1d08418ff35a885928363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432d1d547733d80bb745dc9969f42a7b') in 0.136712 seconds 
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/Worker_Uniform.003.mat
+  artifactKey: Guid(cad113423b717a44fabf240e93b97284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/Worker_Uniform.003.mat using Guid(cad113423b717a44fabf240e93b97284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ac6bdc6a3062c682c660a66252c37d') in 0.018176 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/T_Worker_MAQUINARIA.png
+  artifactKey: Guid(ac694de0aad896f49abe4f9b0bbe9e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Riesgos_viales/Personas_expuestas/Accidente Operario/T_Worker_MAQUINARIA.png using Guid(ac694de0aad896f49abe4f9b0bbe9e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c4daa84b9003a0dbad447bbaeabfaa5') in 0.039770 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 59.032302 seconds.
+  path: Assets/Models/Andamios/Estandares/personaje Parado/Textura Uniforme Personaje.png
+  artifactKey: Guid(79fc5731490d4f84fb40c6133b0bab75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Andamios/Estandares/personaje Parado/Textura Uniforme Personaje.png using Guid(79fc5731490d4f84fb40c6133b0bab75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1adc5f032b84bf9d0d47eda24875a02') in 0.015508 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.638573 seconds.
+  path: Assets/EffectExamples/Blood/Textures/BloodDropNormals.tif
+  artifactKey: Guid(e2e48048625d63c41a7219b81562326d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/Blood/Textures/BloodDropNormals.tif using Guid(e2e48048625d63c41a7219b81562326d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d887e308102cc76f20ed5d9c084ec7') in 0.034012 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/EffectExamples/WaterEffects/Textures/CloudsParticleNormals.tif
+  artifactKey: Guid(aa748bb25f802de4fb3622d6963a538e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/WaterEffects/Textures/CloudsParticleNormals.tif using Guid(aa748bb25f802de4fb3622d6963a538e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfadb522353566ac139686d47715e767') in 0.028888 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/woodSplintersNormals.tif
+  artifactKey: Guid(937ed87ab83404042bb43da3180148b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/WeaponEffects/Textures/woodSplintersNormals.tif using Guid(937ed87ab83404042bb43da3180148b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8efc974673c5b083ac37b60463b173f') in 0.019138 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/EffectExamples/Shared/Textures/WoodNormals.tif
+  artifactKey: Guid(d6a42d710971e07418e30f9a047b65b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/Shared/Textures/WoodNormals.tif using Guid(d6a42d710971e07418e30f9a047b65b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a763c96b590085c0475cd4537f7a6890') in 0.020123 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif
+  artifactKey: Guid(3bc01580ce4f1834eb3562397607f51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif using Guid(3bc01580ce4f1834eb3562397607f51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b75d84355c9bd161dc035ab01adb37') in 0.018361 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/Humans/Black_Human/textures/male_casualsuit06_normal.png
+  artifactKey: Guid(62e3c74d6d88c6a419b2d432a718b827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Models/Humans/Black_Human/textures/male_casualsuit06_normal.png using Guid(62e3c74d6d88c6a419b2d432a718b827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadb01cb6a21d40eed1bebf1decd4c1e') in 0.016984 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleNormals.tif
+  artifactKey: Guid(372fe723afe65ed41a5b38da5faf82a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleNormals.tif using Guid(372fe723afe65ed41a5b38da5faf82a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0518e2c639dc28a973d88d22e086ede') in 0.015077 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/TinyStonesNormalsSheet.tif
+  artifactKey: Guid(a00b2df6dc199854ba60af0c001a51b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/WeaponEffects/Textures/TinyStonesNormalsSheet.tif using Guid(a00b2df6dc199854ba60af0c001a51b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399d2550342f8f6cf25babc72f1d61ba') in 0.019783 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_normal.tif
+  artifactKey: Guid(644d3cfd4f8ecf34cab05d259342b2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/AndenAdoquin/TexturesCom_Pavement_CobblestoneMedieval05_5x5_512_normal.tif using Guid(644d3cfd4f8ecf34cab05d259342b2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628c4a71d6310eba3ae7dc33baaf17e1') in 0.016039 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/EffectExamples/Shared/Textures/fleshNormals.tif
+  artifactKey: Guid(82b123d008de09948adc8d1433889121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/Shared/Textures/fleshNormals.tif using Guid(82b123d008de09948adc8d1433889121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5184237cd09f5621e4e0b59488d00ef') in 0.024424 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/EffectExamples/Blood/Textures/BloodSprayNormals.tif
+  artifactKey: Guid(d3d3954ad53568b49b1fda6366f2b5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/Blood/Textures/BloodSprayNormals.tif using Guid(d3d3954ad53568b49b1fda6366f2b5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa9c308a27d6baed8ee4ee5ab2e4936') in 0.014937 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/StreamNormals.tif
+  artifactKey: Guid(dbf5fd5c04eedf2418e86c377cf5b95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/WeaponEffects/Textures/StreamNormals.tif using Guid(dbf5fd5c04eedf2418e86c377cf5b95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8313abc0ab1c1297e6579c3551aef74') in 0.016281 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Audios/Andamios/Estandares/Estandares Normativos -Partes.mp3
+  artifactKey: Guid(4c0bb32e331b2164ba03f177473f0aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Audios/Andamios/Estandares/Estandares Normativos -Partes.mp3 using Guid(4c0bb32e331b2164ba03f177473f0aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8235cba731d2312e9eb6dcd1b7a29c19') in 0.040613 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockNormals.tif
+  artifactKey: Guid(b7b496609dfcf7d4089ca1e508b14f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockNormals.tif using Guid(b7b496609dfcf7d4089ca1e508b14f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeca0fcf85a2bb7c1b4a744e73126bc1') in 0.017476 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/EffectExamples/Shared/Textures/StoneNormals.tif
+  artifactKey: Guid(e6b70229308faa64880eac4945d59f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/EffectExamples/Shared/Textures/StoneNormals.tif using Guid(e6b70229308faa64880eac4945d59f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee8314e85adb91017163544d2918325') in 0.015881 seconds 
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
